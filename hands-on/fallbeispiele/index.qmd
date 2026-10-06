@@ -1,0 +1,29 @@
+---
+title: Fallbeispiele
+description: Fünf Fallkarten für Gruppen ohne eigenes Beispiel. Jede Karte steht für einen anderen Problemtyp.
+---
+
+Gruppen ohne eigenes Beispiel arbeiten mit einer Fallkarte. Jede Fallkarte enthält das Ausgangsmaterial, den Kontext und einen Arbeitsauftrag. Die Fälle stehen für unterschiedliche Problemtypen. Nicht alle Fälle beruhen auf offensichtlich diskriminierender Sprache.
+
+Jede Fallkarte gibt es als Webseite, als PDF zum Ausdrucken und als DOCX zum Bearbeiten. Die Links stehen auf der jeweiligen Seite rechts unter «Andere Formate».
+
+| Fallkarte                                                             | Falltyp                           | Problem                                                                                                     |
+| :-------------------------------------------------------------------- | :-------------------------------- | :---------------------------------------------------------------------------------------------------------- |
+| [Fall 1: Plakat «Knie Völkerschau»](fall-1-kontextualisierung.qmd)    | Fehlende Kontextualisierung       | Formal korrekte Metadaten lassen entscheidende historische oder gesellschaftliche Zusammenhänge unsichtbar. |
+| [Fall 2: Dossier BSL 1001 N 2.13](fall-2-historische-bezeichnung.qmd) | Historische Bezeichnung           | Ein historisch überlieferter Begriff ist heute diskriminierend.                                             |
+| [Fall 3: Die Krim in Wikidata](fall-3-normdaten.qmd)                  | Kontrolliertes Vokabular          | Ein normierter Datensatz bildet eine umstrittene Kategorie ab und gibt sie weiter.                          |
+| [Fall 4: GND-Datenfeld «Geschlecht»](fall-4-datenmodell.qmd)          | Struktureller Bias im Datenmodell | Das Datenmodell kann bestimmte Identitäten nicht oder nur unzureichend abbilden.                            |
+| [Fall 5: Fotografie BSL 1001 G 1.1.13.2](fall-5-sensible-inhalte.qmd) | Sensible Inhalte                  | Ein Digitalisat enthält Informationen, deren Veröffentlichung Personen oder Gruppen schaden kann.           |
+
+::: {.callout-important title="Content Note"}
+Die Fälle 2 und 5 enthalten eine koloniale, rassistische Fremdbezeichnung und die Fotografie einer Person, die in einer Völkerschau ausgestellt wurde. Die Screenshots decken den Begriff teilweise ab. Die verlinkten Originaldatensätze zeigen ihn vollständig.
+:::
+
+## Welche Fallkarte passt?
+
+- Für Archive eignen sich die Fälle 2 und 5.
+- Für Bibliotheken eignen sich die Fälle 1 und 4.
+- Für Forschungsprojekte mit Linked Data eignen sich die Fälle 3 und 4.
+- Für Museen und Sammlungen eignen sich die Fälle 1 und 5.
+
+Kursleitende finden mögliche Befunde und Moderationshinweise zu jedem Fall auf einer eigenen Seite.

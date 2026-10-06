@@ -1,0 +1,63 @@
+---
+title: 'Fall 5: Sensible Inhalte'
+subtitle: Fotografie BSL 1001 G 1.1.13.2, Staatsarchiv Basel-Stadt
+description: Ein Digitalisat zeigt eine Person, die in einer Völkerschau ausgestellt wurde. Die Veröffentlichung kann Personen oder Gruppen schaden.
+format:
+  html:
+    format-links:
+      - html
+      # An explicit href avoids the format name suffix that Quarto adds for extension formats.
+      - text: PDF zum Ausdrucken
+        href: fall-5-sensible-inhalte.pdf
+        icon: file-pdf
+      - format: docx
+        text: DOCX zum Bearbeiten
+        icon: file-word
+  oer-typst:
+    include-in-header:
+      text: |
+        #show table: set text(font: "Roboto Mono", size: 0.9em)
+  docx: default
+---
+
+{{< include /_partials/content-note.qmd >}}
+
+**Falltyp:** Metadaten oder Digitalisate enthalten Informationen, deren Veröffentlichung oder Nachnutzung Personen oder Gruppen schaden kann.
+
+## Ausgangsmaterial
+
+![Fotografie BSL 1001 G 1.1.13.2 im Viewer des Digitalen Lesesaals des Staatsarchivs Basel-Stadt (Screenshot, Begriff teilweise abgedeckt).](../../assets/images/fallkarten/staatsarchiv-bs-439319-26232-maskiert.png){fig-alt="Screenshot des Digitalen Lesesaals des Staatsarchivs Basel-Stadt: Fotografie eines Mannes, der an einem Mast hochklettert, Signatur BSL 1001 G 1.1.13.2. Der Titel enthält eine koloniale, rassistische Fremdbezeichnung; ein Teil des Wortes ist abgedeckt." width="100%"}
+
+Der Viewer zeigt diese Angaben. Ein Teil des Begriffs ist hier mit \*\*\*\*\* abgedeckt.
+
+::: {.datensatz}
+
+| Element       | Inhalt                                                    |
+| :------------ | :-------------------------------------------------------- |
+| Titel         | Kletternder Maori \"Bonny\" [Austral\*\*\*\*\* \"Bonny\"] |
+| Signatur      | BSL 1001 G 1.1.13.2                                       |
+| Bild          | Fotografie eines Mannes, der an einem Mast hochklettert   |
+| Rechtehinweis | StABS-gemeinfrei                                          |
+| Funktionen    | Pages, Export                                             |
+
+:::
+
+Originaldatensatz: [dls.staatsarchiv.bs.ch/records/439319](https://dls.staatsarchiv.bs.ch/records/439319/26232/preview?context=%2Frecords%2F1007281)
+
+## Kontext
+
+Die Fotografie steht im Digitalen Lesesaal des Staatsarchivs Basel-Stadt im Zusammenhang mit Völkerschauen. Die Fallkarte [Historische Bezeichnung](fall-2-historische-bezeichnung.qmd) zeigt ein Dossier mit demselben Namen «Bonny» im Titel.
+
+{{< include /_partials/kontext-voelkerschauen.qmd >}}
+
+## Arbeitsauftrag
+
+{{< include /_partials/arbeitsauftrag.qmd >}}
+
+**Fragen zu diesem Fall:**
+
+- Was bedeutet «gemeinfrei» rechtlich? Was bedeutet es ethisch?
+- Konnte die abgebildete Person über die Aufnahme und ihre Veröffentlichung mitentscheiden?
+- Welche Schäden können durch Veröffentlichung, Export und Nachnutzung entstehen? Für wen?
+- Welche Handlungsoptionen gibt es zwischen «frei zugänglich» und «gesperrt»?
+- Wer sollte an dieser Entscheidung beteiligt sein?

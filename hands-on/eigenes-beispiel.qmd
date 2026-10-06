@@ -1,0 +1,46 @@
+---
+title: Eigenes Beispiel verwenden
+subtitle: Bring-your-own-Metadata-Anleitung
+description: Wie Teilnehmende ein eigenes Beispiel aus Forschung oder Institution in den Workshop mitbringen.
+format:
+  html:
+    format-links:
+      - html
+      # An explicit href avoids the format name suffix that Quarto adds for extension formats.
+      - text: PDF zum Ausdrucken
+        href: eigenes-beispiel.pdf
+        icon: file-pdf
+      - format: docx
+        text: DOCX zum Bearbeiten
+        icon: file-word
+  oer-typst:
+    fontsize: 10.5pt
+  docx: default
+---
+
+Im Workshop analysieren Sie in einer Gruppe ein konkretes Beispiel. Am meisten lernen Sie mit einem Beispiel aus Ihrer eigenen Praxis.
+
+## Die Aufforderung
+
+> Bringen Sie nach Möglichkeit einen Metadatensatz, Katalogeintrag oder eine Beschreibung aus Ihrer eigenen Forschung oder Institution mit, bei dem Sie unsicher sind, wie mit Benennungen, Kategorien, historischen Kontexten oder sensiblen Inhalten umzugehen ist.
+
+## Was sich eignet
+
+- ein Katalogeintrag, ein Findmitteleintrag oder ein Sammlungsdatensatz;
+- ein Datensatz aus einem Forschungsprojekt, zum Beispiel eine Tabelle mit Personen, Orten oder Kategorien;
+- ein Formular, ein Datenmodell oder eine Liste kontrollierter Begriffe;
+- eine Objektbeschreibung, ein Ausstellungstext oder ein Abstract.
+
+Ihr Beispiel muss nicht «offensichtlich problematisch» sein. Auch unauffällige Datensätze zeigen, wie Entscheidungen wirken.
+
+## Hinweise
+
+- Verwenden Sie keine vertraulichen Informationen.
+- Anonymisieren Sie das Beispiel bei Bedarf.
+- Ein Screenshot oder ein Ausdruck genügt.
+- Notieren Sie, was Sie über die Entstehung des Beispiels wissen: Wer hat es wann und wofür erstellt?
+- Haben Sie kein eigenes Beispiel? Dann arbeiten Sie mit einer Fallkarte. Das ist kein Nachteil.
+
+## Im Workshop
+
+Sie erklären Ihrer Gruppe in zwei bis drei Minuten den Kontext Ihres Beispiels. Danach analysiert die Gruppe das Beispiel gemeinsam mit dem Metadaten-Audit. Die Gruppe analysiert den Datensatz und die Praktiken dahinter, nicht die Personen, die ihn erstellt haben.

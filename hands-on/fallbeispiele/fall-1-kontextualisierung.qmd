@@ -1,0 +1,60 @@
+---
+title: 'Fall 1: Fehlende Kontextualisierung'
+subtitle: Plakat «Knie Völkerschau», Königliche Bibliothek Kopenhagen
+description: Formal korrekte Metadaten lassen entscheidende historische Zusammenhänge unsichtbar.
+format:
+  html:
+    format-links:
+      - html
+      # An explicit href avoids the format name suffix that Quarto adds for extension formats.
+      - text: PDF zum Ausdrucken
+        href: fall-1-kontextualisierung.pdf
+        icon: file-pdf
+      - format: docx
+        text: DOCX zum Bearbeiten
+        icon: file-word
+  oer-typst:
+    include-in-header:
+      text: |
+        #show table: set text(font: "Roboto Mono", size: 0.9em)
+  docx: default
+---
+
+**Falltyp:** Formal korrekte Metadaten lassen entscheidende historische oder gesellschaftliche Zusammenhänge unsichtbar.
+
+## Ausgangsmaterial
+
+![Datensatz «Knie Völkerschau» in den Digital Collections der Königlichen Bibliothek Kopenhagen (Screenshot).](../../slides/images/kb-dk-object488811.png){fig-alt="Screenshot der Digital Collections der Königlichen Bibliothek Kopenhagen: Plakat «Knie Völkerschau», Lithografie, mit den Metadaten des Datensatzes rechts daneben." width="100%"}
+
+Der Datensatz enthält unter anderem diese Angaben (Auszug, dänische Originalwerte):
+
+::: {.datensatz}
+
+| Feld          | Wert                                                                                                                                                           |
+| :------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Title         | Knie Völkerschau                                                                                                                                               |
+| Resource type | Plakat                                                                                                                                                         |
+| Date created  | 1969?                                                                                                                                                          |
+| Topic         | PL000012.tif                                                                                                                                                   |
+| Comment       | Litografi, flerfarvet tryk : mål: 500 x 350 mm; flerfarvet tegning af tre håndværkere ved arbejdet (mehrfarbige Zeichnung von drei Handwerkern bei der Arbeit) |
+| Is part of    | Billeder / Særudgivelser / Cirkus / Plakater                                                                                                                   |
+
+:::
+
+Originaldatensatz: [digitalesamlinger.kb.dk](https://digitalesamlinger.kb.dk/images/billed/2010/okt/billeder/object488811/en/)
+
+## Kontext
+
+Circus Knie ist ein Schweizer Zirkus. Das Plakat wirbt für eine «Völkerschau» von Knie. Die Königliche Bibliothek Kopenhagen verwahrt es in ihrer Sammlung von Zirkusplakaten.
+
+{{< include /_partials/kontext-voelkerschauen.qmd >}}
+
+## Arbeitsauftrag
+
+{{< include /_partials/arbeitsauftrag.qmd >}}
+
+**Fragen zu diesem Fall:**
+
+- Welche Informationen bräuchte eine Person, um das Plakat als Werbung für eine Völkerschau einzuordnen?
+- Was leistet die Beschreibung «drei Handwerker bei der Arbeit»? Was lässt sie weg?
+- Wo sollte eine Kontextinformation stehen: in der Beschreibung, in einem Schlagwort oder in einem eigenen Hinweis?
