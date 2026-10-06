@@ -6,16 +6,16 @@ format:
   html:
     format-links:
       - html
-      # An explicit href avoids the format name suffix that Quarto adds for extension formats.
+      # Explicit hrefs avoid the format name suffix that Quarto adds for extension formats.
       - text: PDF zum Ausdrucken
         href: eigenes-beispiel.pdf
         icon: file-pdf
-      - format: docx
-        text: DOCX zum Bearbeiten
+      - text: DOCX zum Bearbeiten
+        href: eigenes-beispiel.docx
         icon: file-word
   oer-typst:
     fontsize: 10.5pt
-  docx: default
+  oer-docx: default
 ---
 
 Im Workshop analysieren Sie in einer Gruppe ein konkretes Beispiel. Am meisten lernen Sie mit einem Beispiel aus Ihrer eigenen Praxis.

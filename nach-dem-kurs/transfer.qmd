@@ -5,16 +5,16 @@ format:
   html:
     format-links:
       - html
-      # An explicit href avoids the format name suffix that Quarto adds for extension formats.
+      # Explicit hrefs avoid the format name suffix that Quarto adds for extension formats.
       - text: PDF zum Ausdrucken
         href: transfer.pdf
         icon: file-pdf
-      - format: docx
-        text: DOCX zum Bearbeiten
+      - text: DOCX zum Bearbeiten
+        href: transfer.docx
         icon: file-word
   oer-typst:
     fontsize: 11pt
-  docx: default
+  oer-docx: default
 zielgruppe: Für Teilnehmende
 ---
 
@@ -25,26 +25,14 @@ Beantworten Sie mindestens die ersten beiden Fragen. Die dritte Frage ist option
 ::: {.schreibfeld}
 :::
 
-```{=typst}
-#block(width: 100%, height: 4.5cm, stroke: 0.5pt + luma(170), radius: 3pt)
-```
-
 **2. Eine Sache, die wir in unserem Projekt oder unserer Institution diskutieren sollten:**
 
 ::: {.schreibfeld}
 :::
 
-```{=typst}
-#block(width: 100%, height: 4.5cm, stroke: 0.5pt + luma(170), radius: 3pt)
-```
-
 **3. Optional: Eine konkrete Änderung, die ich ausprobieren möchte:**
 
 ::: {.schreibfeld}
 :::
-
-```{=typst}
-#block(width: 100%, height: 4.5cm, stroke: 0.5pt + luma(170), radius: 3pt)
-```
 
 Weiterlesen: [Handbuch _Diskriminierungssensible Metadatenpraxis_](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/)

@@ -6,18 +6,18 @@ format:
   html:
     format-links:
       - html
-      # An explicit href avoids the format name suffix that Quarto adds for extension formats.
+      # Explicit hrefs avoid the format name suffix that Quarto adds for extension formats.
       - text: PDF zum Ausdrucken
         href: fall-3-normdaten.pdf
         icon: file-pdf
-      - format: docx
-        text: DOCX zum Bearbeiten
+      - text: DOCX zum Bearbeiten
+        href: fall-3-normdaten.docx
         icon: file-word
   oer-typst:
     include-in-header:
       text: |
         #show table: set text(font: "Roboto Mono", size: 0.9em)
-  docx: default
+  oer-docx: default
 ---
 
 **Falltyp:** Ein normierter Begriff reproduziert problematische Kategorien oder Fremdbezeichnungen. In diesem Fall geht es nicht um einen abwertenden Begriff. Es geht um eine umstrittene Kategorie: die staatliche Zugehörigkeit eines Gebiets.

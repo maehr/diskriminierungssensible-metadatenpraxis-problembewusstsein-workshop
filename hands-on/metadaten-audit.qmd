@@ -7,12 +7,12 @@ format:
   html:
     format-links:
       - html
-      # An explicit href avoids the format name suffix that Quarto adds for extension formats.
+      # Explicit hrefs avoid the format name suffix that Quarto adds for extension formats.
       - text: PDF zum Ausdrucken
         href: metadaten-audit.pdf
         icon: file-pdf
-      - format: docx
-        text: DOCX zum Bearbeiten
+      - text: DOCX zum Bearbeiten
+        href: metadaten-audit.docx
         icon: file-word
   oer-typst:
     margin:
@@ -23,7 +23,7 @@ format:
       text: |
         #set page(flipped: true)
         #set table(rows: (auto, 1.25cm))
-  docx: default
+  oer-docx: default
 ---
 
 **Unser Beispiel:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
