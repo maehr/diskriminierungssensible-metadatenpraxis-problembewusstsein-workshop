@@ -1,0 +1,42 @@
+---
+title: Bearbeitbare Quelldateien
+description: Wie Sie die OER an Ihren Kontext anpassen, mit oder ohne Quarto.
+---
+
+Die OER ist modular aufgebaut. Sie können einzelne Materialien anpassen oder die ganze Website neu erzeugen. Beachten Sie die [Lizenz](lizenz.qmd): Veränderte Fassungen stehen wieder unter CC BY-SA 4.0.
+
+## Ohne technische Kenntnisse
+
+Laden Sie die DOCX-Dateien von der Seite [Materialien herunterladen](materialien.qmd). Passen Sie sie mit einer Textverarbeitung an, zum Beispiel mit eigenen Fallbeispielen oder Zeitangaben.
+
+## Mit Quarto
+
+Alle Inhalte liegen als Quarto-Dateien (`.qmd`) im [GitHub-Repository](https://github.com/maehr/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop). Quarto erzeugt daraus die Website, die PDF-Dateien und die DOCX-Dateien.
+
+| Ordner oder Datei   | Inhalt                                                              |
+| :------------------ | :------------------------------------------------------------------ |
+| `index.qmd`         | Startseite                                                          |
+| `kurs/`             | Facilitator Guide: Lernziele, Vorbereitung, Abläufe, Moderation     |
+| `input/`            | Seiten zu Slides, Video und Kernkonzepten                           |
+| `slides/folien.qmd` | Quelldatei des Foliendecks                                          |
+| `hands-on/`         | Metadaten-Audit, Anleitung für eigene Beispiele, Fallkarten         |
+| `arbeitshilfen/`    | Verweise auf die Checklisten des Handbuchs                          |
+| `nach-dem-kurs/`    | Transfer-Karte und Lektüre                                          |
+| `_partials/`        | Textbausteine, die mehrere Seiten verwenden, z. B. die Content Note |
+| `site.scss`         | Typografie und Farben der Website, abgeleitet aus dem Foliendeck    |
+| `_extensions/oer/`  | Druckvorlage (Typst) für die PDF-Fassungen                          |
+| `_quarto.yml`       | Navigation und Einstellungen der Website                            |
+
+So erzeugen Sie die Website lokal:
+
+::: {.schritte}
+
+1. Installieren Sie [Quarto](https://quarto.org/docs/get-started/), [Node.js](https://nodejs.org/) und [uv](https://docs.astral.sh/uv/).
+2. Klonen Sie das Repository oder erstellen Sie einen Fork.
+3. Installieren Sie die Abhängigkeiten mit `npm ci` und `uv sync`.
+4. Starten Sie die Vorschau mit `npm run preview`.
+5. Bearbeiten Sie die `.qmd`-Dateien. Die Vorschau aktualisiert sich automatisch.
+
+:::
+
+Das PDF des Foliendecks erzeugen Sie nach einem Render der Website mit `npm run slides:pdf`.

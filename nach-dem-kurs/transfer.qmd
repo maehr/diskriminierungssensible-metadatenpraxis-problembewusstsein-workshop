@@ -1,0 +1,38 @@
+---
+title: Transfer-Karte
+description: Am Ende des Workshops formulieren Teilnehmende Konsequenzen für die eigene Praxis.
+format:
+  html:
+    format-links:
+      - html
+      # Explicit hrefs avoid the format name suffix that Quarto adds for extension formats.
+      - text: PDF zum Ausdrucken
+        href: transfer.pdf
+        icon: file-pdf
+      - text: DOCX zum Bearbeiten
+        href: transfer.docx
+        icon: file-word
+  oer-typst:
+    fontsize: 11pt
+  oer-docx: default
+zielgruppe: Für Teilnehmende
+---
+
+Beantworten Sie mindestens die ersten beiden Fragen. Die dritte Frage ist optional.
+
+**1. Eine Sache, die ich künftig bei Daten oder Metadaten prüfen werde:**
+
+::: {.schreibfeld}
+:::
+
+**2. Eine Sache, die wir in unserem Projekt oder unserer Institution diskutieren sollten:**
+
+::: {.schreibfeld}
+:::
+
+**3. Optional: Eine konkrete Änderung, die ich ausprobieren möchte:**
+
+::: {.schreibfeld}
+:::
+
+Weiterlesen: [Handbuch _Diskriminierungssensible Metadatenpraxis_](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/)

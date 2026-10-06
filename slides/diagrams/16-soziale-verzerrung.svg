@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="dg" viewBox="0 0 800 550" role="img" aria-labelledby="dg16-t dg16-d" font-family="Inter, Helvetica Neue, Arial, sans-serif">
+<title id="dg16-t">Soziale Verzerrung: Lesefehler verbreitet sich im Transkriptionsprojekt</title>
+<desc id="dg16-d">In der Handschrift steht Meyer. Eine erfahrene Person liest Mayer. Drei neue User*innen orientieren sich an ihr und transkribieren ebenfalls Mayer (schematisch).</desc>
+<rect x="0" y="0" width="300" height="120" rx="12" fill="#EEF1F4"/>
+<text x="20" y="34" font-size="18" font-weight="400" fill="#5F6B76" text-anchor="start">Handschrift</text>
+<text x="150" y="92" font-size="48" font-weight="400" fill="#24303A" text-anchor="middle" font-style="italic" font-family="Georgia, Times New Roman, serif">Meyer</text>
+<g fill="#B58A3A"><circle cx="130" cy="230.2" r="16.2"/><path d="M103.0,284.2 Q103.0,251.8 130.0,251.8 Q157.0,251.8 157.0,284.2 Z"/></g>
+<text x="130" y="318" font-size="20" font-weight="600" fill="#24303A" text-anchor="middle">erfahrene Person</text>
+<rect x="55" y="338" width="150" height="44" rx="22" fill="#F6EFE2"/>
+<text x="130" y="367" font-size="19" font-weight="600" fill="#8A6422" text-anchor="middle">liest «Mayer»</text>
+<line x1="150" y1="126" x2="141.1" y2="188.1" stroke="#24303A" stroke-width="2" stroke-linecap="round"/><polygon points="140.0,196.0 136.3,186.7 146.2,188.1" fill="#24303A"/>
+<path d="M178,252 Q360,70 504.4,70.0" fill="none" stroke="#24303A" stroke-width="3" stroke-linecap="round"/><polygon points="514.0,70.0 503.6,76.0 503.6,64.0" fill="#24303A"/>
+<g fill="#24303A"><circle cx="560" cy="56.8" r="10.8"/><path d="M542.0,92.8 Q542.0,71.2 560.0,71.2 Q578.0,71.2 578.0,92.8 Z"/></g>
+<rect x="594" y="50" width="130" height="40" rx="20" fill="#F6EFE2"/>
+<text x="659" y="77" font-size="19" font-weight="600" fill="#8A6422" text-anchor="middle">«Mayer»</text>
+<path d="M178,252 Q360,230 504.4,230.0" fill="none" stroke="#24303A" stroke-width="3" stroke-linecap="round"/><polygon points="514.0,230.0 503.6,236.0 503.6,224.0" fill="#24303A"/>
+<g fill="#24303A"><circle cx="560" cy="216.8" r="10.8"/><path d="M542.0,252.8 Q542.0,231.2 560.0,231.2 Q578.0,231.2 578.0,252.8 Z"/></g>
+<rect x="594" y="210" width="130" height="40" rx="20" fill="#F6EFE2"/>
+<text x="659" y="237" font-size="19" font-weight="600" fill="#8A6422" text-anchor="middle">«Mayer»</text>
+<path d="M178,252 Q360,390 504.4,390.0" fill="none" stroke="#24303A" stroke-width="3" stroke-linecap="round"/><polygon points="514.0,390.0 503.6,396.0 503.6,384.0" fill="#24303A"/>
+<g fill="#24303A"><circle cx="560" cy="376.8" r="10.8"/><path d="M542.0,412.8 Q542.0,391.2 560.0,391.2 Q578.0,391.2 578.0,412.8 Z"/></g>
+<rect x="594" y="370" width="130" height="40" rx="20" fill="#F6EFE2"/>
+<text x="659" y="397" font-size="19" font-weight="600" fill="#8A6422" text-anchor="middle">«Mayer»</text>
+<text x="560" y="470" font-size="20" font-weight="600" fill="#24303A" text-anchor="middle">neue User*innen</text>
+<text x="0" y="530" font-size="24" font-weight="400" text-anchor="start"><tspan fill="#8A6422" font-weight="700">Ein Lesefehler</tspan><tspan fill="#24303A" font-weight="400"> wird zur Norm im Projekt</tspan></text>
+</svg>

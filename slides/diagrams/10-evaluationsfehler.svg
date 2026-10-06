@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="dg" viewBox="0 0 800 540" role="img" aria-labelledby="dg10-t dg10-d" font-family="Inter, Helvetica Neue, Arial, sans-serif">
+<title id="dg10-t">Evaluationsfehler: Testset und Erkennungsrate nach Epoche</title>
+<desc id="dg10-d">Links der Anteil der Epochen im Testset: 20. Jahrhundert 80 Prozent, 19. Jahrhundert 12, Frühe Neuzeit 5, Mittelalter 3. Rechts die Erkennungsrate: 92, 81, 58 und 41 Prozent. Illustrative Werte.</desc>
+<text x="200" y="36" font-size="22" font-weight="700" fill="#000000" text-anchor="start">Anteil im Testset</text>
+<text x="500" y="36" font-size="22" font-weight="700" fill="#000000" text-anchor="start">Erkennungsrate (NER)</text>
+<text x="0" y="116" font-size="22" font-weight="600" fill="#24303A" text-anchor="start">20. Jh.</text>
+<path d="M200,90 L404.0,90 Q408.0,90 408.0,94 L408.0,126 Q408.0,130 404.0,130 L200,130 Z" fill="#3F6FB0"/>
+<text x="418.0" y="118" font-size="20" font-weight="600" fill="#24303A" text-anchor="start">80 %</text>
+<path d="M500,90 L716.8,90 Q720.8,90 720.8,94 L720.8,126 Q720.8,130 716.8,130 L500,130 Z" fill="#9AA5AF"/>
+<text x="730.8" y="118" font-size="20" font-weight="600" fill="#24303A" text-anchor="start">92 %</text>
+<text x="0" y="202" font-size="22" font-weight="400" fill="#24303A" text-anchor="start">19. Jh.</text>
+<path d="M200,176 L227.2,176 Q231.2,176 231.2,180 L231.2,212 Q231.2,216 227.2,216 L200,216 Z" fill="#3F6FB0"/>
+<text x="241.2" y="204" font-size="20" font-weight="600" fill="#24303A" text-anchor="start">12 %</text>
+<path d="M500,176 L690.4,176 Q694.4,176 694.4,180 L694.4,212 Q694.4,216 690.4,216 L500,216 Z" fill="#9AA5AF"/>
+<text x="704.4" y="204" font-size="20" font-weight="600" fill="#24303A" text-anchor="start">81 %</text>
+<text x="0" y="288" font-size="22" font-weight="400" fill="#24303A" text-anchor="start">Frühe Neuzeit</text>
+<path d="M200,262 L209.0,262 Q213.0,262 213.0,266 L213.0,298 Q213.0,302 209.0,302 L200,302 Z" fill="#3F6FB0"/>
+<text x="223.0" y="290" font-size="20" font-weight="600" fill="#24303A" text-anchor="start">5 %</text>
+<path d="M500,262 L635.2,262 Q639.2,262 639.2,266 L639.2,298 Q639.2,302 635.2,302 L500,302 Z" fill="#B58A3A"/>
+<text x="649.2" y="290" font-size="20" font-weight="600" fill="#24303A" text-anchor="start">58 %</text>
+<text x="0" y="374" font-size="22" font-weight="400" fill="#24303A" text-anchor="start">Mittelalter</text>
+<path d="M200,348 L203.8,348 Q207.8,348 207.8,352 L207.8,384 Q207.8,388 203.8,388 L200,388 Z" fill="#3F6FB0"/>
+<text x="217.8" y="376" font-size="20" font-weight="600" fill="#24303A" text-anchor="start">3 %</text>
+<path d="M500,348 L594.4,348 Q598.4,348 598.4,352 L598.4,384 Q598.4,388 594.4,388 L500,388 Z" fill="#B58A3A"/>
+<text x="608.4" y="376" font-size="20" font-weight="600" fill="#24303A" text-anchor="start">41 %</text>
+<line x1="200" y1="74" x2="200" y2="430" stroke="#9AA5AF" stroke-width="2" stroke-linecap="round"/>
+<line x1="500" y1="74" x2="500" y2="430" stroke="#9AA5AF" stroke-width="2" stroke-linecap="round"/>
+<text x="0" y="490" font-size="24" font-weight="400" text-anchor="start"><tspan fill="#8A6422" font-weight="700">Benchmark</tspan><tspan fill="#24303A" font-weight="400"> prüft vor allem das 20. Jahrhundert</tspan></text>
+<text x="0" y="524" font-size="18" font-weight="400" fill="#5F6B76" text-anchor="start">Illustrative Werte</text>
+</svg>

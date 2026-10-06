@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="dg" viewBox="0 0 800 510" role="img" aria-labelledby="dg13-t dg13-d" font-family="Inter, Helvetica Neue, Arial, sans-serif">
+<title id="dg13-t">Popularitätsfehler: wenige aktive User und eine Rückkopplungsschleife</title>
+<desc id="dg13-d">Links ein Balkendiagramm: Zwei sehr aktive User haben 46 und 31 Lesarten beigetragen, sechs weitere nur 8 bis 1. Rechts eine Schleife: wird gezeigt, wird übernommen, gilt als richtig, wird wieder gezeigt (schematisch).</desc>
+<text x="0" y="36" font-size="22" font-weight="700" fill="#000000" text-anchor="start">Übernommene Lesarten pro User</text>
+<path d="M10,380 L10,89.59999999999997 Q10,85.59999999999997 14,85.59999999999997 L46,85.59999999999997 Q50,85.59999999999997 50,89.59999999999997 L50,380 Z" fill="#B58A3A"/>
+<text x="30" y="75.59999999999997" font-size="18" font-weight="600" fill="#24303A" text-anchor="middle">46</text>
+<path d="M58,380 L58,185.6 Q58,181.6 62,181.6 L94,181.6 Q98,181.6 98,185.6 L98,380 Z" fill="#B58A3A"/>
+<text x="78" y="171.6" font-size="18" font-weight="600" fill="#24303A" text-anchor="middle">31</text>
+<path d="M106,380 L106,332.8 Q106,328.8 110,328.8 L142,328.8 Q146,328.8 146,332.8 L146,380 Z" fill="#9AA5AF"/>
+<text x="126" y="318.8" font-size="18" font-weight="600" fill="#24303A" text-anchor="middle">8</text>
+<path d="M154,380 L154,345.6 Q154,341.6 158,341.6 L190,341.6 Q194,341.6 194,345.6 L194,380 Z" fill="#9AA5AF"/>
+<text x="174" y="331.6" font-size="18" font-weight="600" fill="#24303A" text-anchor="middle">6</text>
+<path d="M202,380 L202,358.4 Q202,354.4 206,354.4 L238,354.4 Q242,354.4 242,358.4 L242,380 Z" fill="#9AA5AF"/>
+<text x="222" y="344.4" font-size="18" font-weight="600" fill="#24303A" text-anchor="middle">4</text>
+<path d="M250,380 L250,364.8 Q250,360.8 254,360.8 L286,360.8 Q290,360.8 290,364.8 L290,380 Z" fill="#9AA5AF"/>
+<text x="270" y="350.8" font-size="18" font-weight="600" fill="#24303A" text-anchor="middle">3</text>
+<path d="M298,380 L298,371.2 Q298,367.2 302,367.2 L334,367.2 Q338,367.2 338,371.2 L338,380 Z" fill="#9AA5AF"/>
+<text x="318" y="357.2" font-size="18" font-weight="600" fill="#24303A" text-anchor="middle">2</text>
+<path d="M346,380 L346,377.6 Q346,373.6 350,373.6 L382,373.6 Q386,373.6 386,377.6 L386,380 Z" fill="#9AA5AF"/>
+<text x="366" y="363.6" font-size="18" font-weight="600" fill="#24303A" text-anchor="middle">1</text>
+<line x1="0" y1="380" x2="390" y2="380" stroke="#9AA5AF" stroke-width="2" stroke-linecap="round"/>
+<text x="0" y="412" font-size="18" font-weight="400" fill="#5F6B76" text-anchor="start">User, nach Aktivität sortiert</text>
+<rect x="509.0" y="88.0" width="162" height="44" rx="22" fill="#F6EFE2"/>
+<text x="590.0" y="117.0" font-size="19" font-weight="600" fill="#8A6422" text-anchor="middle">wird gezeigt</text>
+<rect x="596.4230484541326" y="268.0" width="195" height="44" rx="22" fill="#F6EFE2"/>
+<text x="693.9230484541326" y="297.0" font-size="19" font-weight="600" fill="#8A6422" text-anchor="middle">wird übernommen</text>
+<rect x="383.07695154586736" y="268.0" width="206" height="44" rx="22" fill="#F6EFE2"/>
+<text x="486.07695154586736" y="297.0" font-size="19" font-weight="600" fill="#8A6422" text-anchor="middle">gilt als richtig</text>
+<path d="M681.9,152.9 Q725.0,187.4 712.5,230.5" fill="none" stroke="#B58A3A" stroke-width="3" stroke-linecap="round"/><polygon points="709.5,240.5 706.5,227.8 718.9,231.5" fill="#B58A3A"/>
+<path d="M658.8,328.3 Q590.0,371.6 530.0,333.8" fill="none" stroke="#B58A3A" stroke-width="3" stroke-linecap="round"/><polygon points="521.2,328.3 534.2,328.8 527.2,339.8" fill="#B58A3A"/>
+<path d="M470.5,240.5 Q455.7,185.1 492.6,156.1" fill="none" stroke="#B58A3A" stroke-width="3" stroke-linecap="round"/><polygon points="500.8,149.7 496.0,161.8 488.0,151.5" fill="#B58A3A"/>
+<text x="0" y="490" font-size="24" font-weight="400" text-anchor="start"><tspan fill="#8A6422" font-weight="700">Wenige aktive User</tspan><tspan fill="#24303A" font-weight="400"> prägen, was als Lesart gilt</tspan></text>
+</svg>

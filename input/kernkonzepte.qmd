@@ -1,0 +1,68 @@
+---
+title: Kernkonzepte
+description: Die zentralen Begriffe des Inputs in Kurzform, mit Verweisen auf das Handbuch.
+bibliography: ../references.bib
+---
+
+Diese Seite fasst die Begriffe des Inputs zusammen. Sie dient als gemeinsames Vokabular für die Gruppenarbeit. Die Definitionen stammen aus dem [Foliendeck](slides.qmd). Das [Handbuch](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/) erklärt jeden Begriff ausführlich.
+
+## Daten sind nicht neutral
+
+Daten und Metadaten erscheinen auf den ersten Blick als objektive Repräsentationen der Wirklichkeit. Sie sind aber stets in historisch gewachsene Machtverhältnisse und normative Ordnungen eingebettet. Jede Modellierung von Daten und Metadaten beruht auf normativen Entscheidungen, die oft unsichtbar bleiben [@bowker1999].
+
+Handbuch: [Daten sind nicht neutral (Normativität)](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-daten-sind-nicht-neutral-normativität)
+
+## Formen der Diskriminierung
+
+Diskriminierung kann explizit oder strukturell entstehen. Das Foliendeck unterscheidet sechs Formen:
+
+Direkte Diskriminierung
+: Eine Regel, Entscheidung oder Handlung behandelt Personen aufgrund eines geschützten Merkmals ungleich. Ein legitimer, verhältnismässiger Zweck deckt diese Ungleichbehandlung nicht.
+
+Indirekte Diskriminierung
+: Formal neutrale Kriterien, Methoden oder Regelungen benachteiligen in ihrer Wirkung systematisch bestimmte Gruppen.
+
+Strukturelle Diskriminierung
+: Benachteiligungen sind in etablierten Praktiken der Sammlung, Dokumentation, Bewahrung und Zugänglichmachung verankert.
+
+Institutionelle Diskriminierung
+: Interne Ordnungen und Routinen einer Gedächtnisinstitution benachteiligen systematisch bestimmte Gruppen.
+
+Statistische Diskriminierung
+: Unter unvollständiger Information beruhen Entscheidungen auf gruppenbezogenen Durchschnittswerten. Personen, die nicht dem Gruppenprofil entsprechen, werden benachteiligt.
+
+Intersektionale Diskriminierung
+: Mehrere Diskriminierungsdimensionen wirken zusammen (siehe unten).
+
+Handbuch: [Diskriminierung in und durch Daten](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-diskriminierung-in-und-durch-daten)
+
+## Intersektionalität
+
+Intersektionalität ist ein Analyseansatz. Er versteht Diskriminierung nicht als isolierte Einzelphänomene, sondern als verflochtene, sich wechselseitig konstituierende Macht- und Ungleichheitsverhältnisse [@crenshaw1989; @collins2000]. Kategorien und Datenmodelle sind oft so angelegt, dass bestimmte Gruppen weder in Kategorie A noch in Kategorie B sichtbar werden, sondern zwischen beiden verschwinden.
+
+Intersektionalität ist eine Analyseperspektive, keine zusätzliche Metadatenkategorie. Sie stellt Anforderungen an Datenmodell, Arbeitsabläufe und Auswertung.
+
+Handbuch: [Intersektionalität](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-intersektionalitaet)
+
+## Verzerrung und Fehler (Bias)
+
+Ein Bias ist eine Verzerrung: eine systematische Abweichung von einer objektiven Darstellung. Bias kann in Quellen, Datenmodellen, Erschliessung, Normdaten, Workflows und Nachnutzung entstehen. Formale Korrektheit verhindert diskriminierende Wirkungen nicht automatisch.
+
+Das Foliendeck ordnet 19 Formen von Bias nach dem Ort, an dem sie entstehen [@mehrabi2021]:
+
+- **Verzerrung in Daten**, zum Beispiel Repräsentationsfehler oder historische Verzerrung;
+- **Verzerrung durch Algorithmen**, zum Beispiel algorithmischer Fehler oder Evaluationsfehler [@buolamwini_gender_2018];
+- **Verzerrung durch Nutzerinteraktion**, zum Beispiel Rangfolgenfehler oder Popularitätsfehler [@noble_algorithms_2018].
+
+Handbuch: [Verzerrungen und Fehler (Bias)](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-verzerrungen-und-fehler-bias)
+
+## Historische Begriffe
+
+Historische Quellen enthalten häufig diskriminierende Begriffe und Kategorisierungen. Daraus entsteht ein Spannungsfeld: Quellentreue und historische Nachvollziehbarkeit stehen gegen den Schutz vor Verletzung und vor der Fortschreibung diskriminierender Ordnungen. Der Workshop behandelt diese Frage als Entscheidungsdilemma in der Gruppenarbeit.
+
+Handbuch: [Historische Begriffe: Bewahren oder Korrigieren?](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-historische-begriffe)
+
+## Literatur
+
+::: {#refs}
+:::

@@ -1,0 +1,74 @@
+---
+title: 'Fall 4: Struktureller Bias im Datenmodell'
+subtitle: Das Datenfeld «Geschlecht» in der GND
+description: Ein Datenmodell kann bestimmte Identitäten nicht oder nur unzureichend abbilden.
+format:
+  html:
+    format-links:
+      - html
+      # Explicit hrefs avoid the format name suffix that Quarto adds for extension formats.
+      - text: PDF zum Ausdrucken
+        href: fall-4-datenmodell.pdf
+        icon: file-pdf
+      - text: DOCX zum Bearbeiten
+        href: fall-4-datenmodell.docx
+        icon: file-word
+  oer-typst:
+    include-in-header:
+      text: |
+        #show table: set text(font: "Roboto Mono", size: 0.9em)
+  oer-docx: default
+---
+
+**Falltyp:** Das Datenmodell erlaubt bestimmte Identitäten, Beziehungen oder Perspektiven nicht oder nur unzureichend abzubilden.
+
+## Ausgangsmaterial
+
+![Dokumentation des GND-Datenfelds «Geschlecht» (Screenshot).](../../slides/images/dnb-gnd-geschlecht-1.png){fig-alt="Screenshot der Standardisierungsdokumentation der Deutschen Nationalbibliothek: GND-Datenfeld «Geschlecht», das die Geschlechtsangabe von Personen in normierter Form enthält." width="100%"}
+
+![Codes im GND-Datenfeld «Geschlecht» (Screenshot).](../../slides/images/dnb-gnd-geschlecht-2.png){fig-alt="Screenshot der GND-Dokumentation, Unterfeld Code: nur «männlich» und «weiblich» sind als Codes vorgesehen. Eine abweichende Angabe wie intersexuell darf nur als Freitext in einem anderen Datenfeld erfasst werden." width="100%"}
+
+Das Unterfeld «Code» sieht zwei Werte vor:
+
+::: {.datensatz}
+
+|          | PICA | Alma, Aleph (ISO 5218) |
+| :------- | :--- | :--------------------- |
+| männlich | m    | 1                      |
+| weiblich | f    | 2                      |
+
+:::
+
+Die Dokumentation sagt dazu (Stand: Juni 2026):
+
+> In der Regel wird nur eine Geschlechtsangabe erfasst. Eine von der codierten Form abweichende Geschlechtsangabe wie beispielsweise intersexuell darf im Datenfeld Historische oder biographische Angaben als Freitext erfasst werden, wenn diese Angabe sich im Werk der Person widerspiegelt bzw. Teil der öffentlichen Darstellung ist.
+
+Originaldokumentation: [sta.dnb.de/doc/GND-DF-PERSON-GESCHLECHT](https://sta.dnb.de/doc/GND-DF-PERSON-GESCHLECHT)
+
+## Kontext
+
+Die Gemeinsame Normdatei (GND) ist die zentrale Normdatei für Personen, Körperschaften, Orte und Sachbegriffe im deutschsprachigen Raum. Die Deutsche Nationalbibliothek führt sie gemeinsam mit Bibliotheksverbünden und weiteren Institutionen. Viele Kataloge, Archive und Forschungsprojekte übernehmen Personendaten aus der GND.
+
+## Arbeitsauftrag
+
+{{< include /_partials/arbeitsauftrag.qmd >}}
+
+**Fragen zu diesem Fall:**
+
+- Welche Personen kann das Feld nicht abbilden? Was geschieht mit ihren Datensätzen?
+- Was bedeutet die Bedingung «Teil der öffentlichen Darstellung» für historische Personen?
+- Wo erscheint eine Angabe im Freitext, wo ein Code? Was bedeutet das für Suche und Auswertung?
+- Wer sollte über die Werte in einem solchen Feld entscheiden?
+
+## Variante: Namensindex der Datenbank Élites suisses
+
+Gruppen mit mehr Zeit oder mit Interesse an Forschungsdatenbanken können zusätzlich dieses Beispiel analysieren.
+
+![Index des personnes der Datenbank Élites suisses (Screenshot).](../../slides/images/elitessuisses-index-personnes.png){fig-alt="Screenshot der Datenbank Élites suisses: Index des personnes, alphabetisch nach Nachname sortiert, mit Spalten Nom, Prénom, Dates, Mandats und Projet." width="100%"}
+
+Der Personenindex ordnet alphabetisch nach dem Feld «Nom» (Nachname). Er zeigt die Spalten Nom, Prénom, Dates, Mandats und Projet.
+
+Originaldaten: [elitessuisses.unil.ch/indexPersonnes.php](https://elitessuisses.unil.ch/indexPersonnes.php)
+
+- Wie finden Sie eine Frau, die unter ihrem Ledignamen bekannt ist?
+- Welche Personen sind von einem Namenswechsel betroffen? Wer nicht?

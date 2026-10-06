@@ -1,0 +1,47 @@
+# Brand for the website and the printable worksheets.
+# The values come from slides/theme.scss, so the site and the deck look alike.
+# https://quarto.org/docs/authoring/brand.html
+meta:
+  name: Diskriminierungssensible Metadatenpraxis
+  link:
+    home: https://maehr.github.io/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop/
+    github: https://github.com/maehr/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop
+
+color:
+  palette:
+    ink: '#24303A'
+    muted: '#5F6B76'
+    faint: '#C9D0D6'
+    pale: '#EEF1F4'
+    accent: '#B58A3A'
+    accent-dark: '#8A6422'
+    accent-tint: '#F6EFE2'
+  foreground: ink
+  background: '#FFFFFF'
+  primary: accent-dark
+  secondary: muted
+  light: pale
+  dark: ink
+  link: accent-dark
+
+typography:
+  fonts:
+    - family: Inter
+      source: google
+      weight: [400, 500, 600, 700]
+      style: [normal, italic]
+    - family: Play
+      source: google
+      weight: [700]
+    - family: Roboto Mono
+      source: google
+      weight: [400, 500]
+  base:
+    family: Inter
+    line-height: 1.6
+  headings:
+    family: Inter
+    weight: 500
+    color: '#000000'
+    line-height: 1.15
+  monospace: Roboto Mono

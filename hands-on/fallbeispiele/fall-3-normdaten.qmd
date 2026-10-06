@@ -1,0 +1,51 @@
+---
+title: 'Fall 3: Kontrolliertes Vokabular und Normdaten'
+subtitle: Die Krim in Wikidata und auf Wikimedia Commons
+description: Ein normierter Datensatz bildet eine umstrittene Zugehörigkeit ab und gibt sie an verknüpfte Daten weiter.
+format:
+  html:
+    format-links:
+      - html
+      # Explicit hrefs avoid the format name suffix that Quarto adds for extension formats.
+      - text: PDF zum Ausdrucken
+        href: fall-3-normdaten.pdf
+        icon: file-pdf
+      - text: DOCX zum Bearbeiten
+        href: fall-3-normdaten.docx
+        icon: file-word
+  oer-typst:
+    include-in-header:
+      text: |
+        #show table: set text(font: "Roboto Mono", size: 0.9em)
+  oer-docx: default
+---
+
+**Falltyp:** Ein normierter Begriff reproduziert problematische Kategorien oder Fremdbezeichnungen. In diesem Fall geht es nicht um einen abwertenden Begriff. Es geht um eine umstrittene Kategorie: die staatliche Zugehörigkeit eines Gebiets.
+
+## Ausgangsmaterial
+
+![Wikidata-Objekt «Crimea» (Q7835): Beschreibung und Bezeichnungen (Screenshot).](../../slides/images/wikidata-q7835-1.png){fig-alt="Screenshot von Wikidata, Objekt Crimea (Q7835): Beschreibung «disputed between Ukraine (de jure) and Russia (de facto)» und Bezeichnungen in mehreren Sprachen." width="100%"}
+
+![Wikidata-Objekt «Crimea» (Q7835): Eigenschaft «country» (Screenshot).](../../slides/images/wikidata-q7835-2.png){fig-alt="Screenshot von Wikidata, Objekt Crimea (Q7835), Eigenschaft «country»: Ukraine ab 1991 (de jure), Russland ab 2014 (de facto), Sowjetunion, Russisches Kaiserreich, Krim-Khanat." width="100%"}
+
+![Datei «Map of the Crimea.png» auf Wikimedia Commons (Screenshot).](../../slides/images/commons-map-of-the-crimea.png){fig-alt="Screenshot von Wikimedia Commons: Datei «Map of the Crimea.png», eine Karte der Halbinsel Krim mit Städten, Strassen und Grenzen." width="100%"}
+
+Das Wikidata-Objekt beschreibt die Krim als «disputed between Ukraine (de jure) and Russia (de facto)». Die Eigenschaft «country» führt mehrere Aussagen: Ukraine ab 1991 (de jure), Russland ab 2014 (de facto), ausserdem die Sowjetunion, das Russische Kaiserreich und das Krim-Khanat.
+
+Originaldaten: [wikidata.org/wiki/Q7835](https://www.wikidata.org/wiki/Q7835) und [commons.wikimedia.org/wiki/File:Map_of_the_Crimea.png](https://commons.wikimedia.org/wiki/File:Map_of_the_Crimea.png)
+
+## Kontext
+
+Wikidata ist eine offene, gemeinschaftlich gepflegte Wissensbasis. Viele Bibliotheken, Archive, Museen und Forschungsprojekte verknüpfen ihre Orts- und Personendaten mit Wikidata. Sie verwenden Wikidata damit wie eine Normdatei. Aussagen aus Wikidata gelangen so in andere Systeme.
+
+Wikidata führt für die Krim mehrere, sich widersprechende Aussagen und kennzeichnet sie mit «de jure» und «de facto». Verknüpfte Objekte wie Städte oder Verwaltungseinheiten übernehmen diese Mehrdeutigkeit nicht immer. Die Karte auf Wikimedia Commons zeigt nur eine Perspektive.
+
+## Arbeitsauftrag
+
+{{< include /_partials/arbeitsauftrag.qmd >}}
+
+**Fragen zu diesem Fall:**
+
+- Wer entscheidet, welche Aussage über die Krim in Wikidata steht? Nach welchen Regeln?
+- Was passiert, wenn eine Institution ihre Ortsdaten mit Q7835 verknüpft? Welche Aussagen übernimmt sie, welche verliert sie?
+- Wie lässt sich eine umstrittene Zugehörigkeit maschinenlesbar und nachvollziehbar abbilden?

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="dg" viewBox="0 0 800 520" role="img" aria-labelledby="dg07-t dg07-d" font-family="Inter, Helvetica Neue, Arial, sans-serif">
+<title id="dg07-t">Historische Verzerrung: korrekte Daten einer ungleichen Vergangenheit</title>
+<desc id="dg07-d">Links eine historische Gesellschaft mit acht Männern und einer Frau in Führungspositionen. Über Quellen mit perfekter Stichprobe entsteht rechts ein Datensatz mit demselben Verhältnis. Die Daten sind korrekt; die Ungleichheit liegt in der Geschichte.</desc>
+<text x="0" y="36" font-size="26" font-weight="700" fill="#000000" text-anchor="start">Historische Gesellschaft</text>
+<text x="0" y="66" font-size="20" font-weight="400" fill="#5F6B76" text-anchor="start">Führungspositionen</text>
+<rect x="0" y="86" width="320" height="270" rx="18" fill="#EEF1F4"/>
+<g fill="#24303A"><circle cx="80" cy="135.7" r="11.7"/><path d="M60.5,174.7 Q60.5,151.3 80.0,151.3 Q99.5,151.3 99.5,174.7 Z"/></g>
+<g fill="#24303A"><circle cx="160" cy="135.7" r="11.7"/><path d="M140.5,174.7 Q140.5,151.3 160.0,151.3 Q179.5,151.3 179.5,174.7 Z"/></g>
+<g fill="#24303A"><circle cx="240" cy="135.7" r="11.7"/><path d="M220.5,174.7 Q220.5,151.3 240.0,151.3 Q259.5,151.3 259.5,174.7 Z"/></g>
+<g fill="#24303A"><circle cx="80" cy="211.7" r="11.7"/><path d="M60.5,250.7 Q60.5,227.3 80.0,227.3 Q99.5,227.3 99.5,250.7 Z"/></g>
+<g fill="#24303A"><circle cx="160" cy="211.7" r="11.7"/><path d="M140.5,250.7 Q140.5,227.3 160.0,227.3 Q179.5,227.3 179.5,250.7 Z"/></g>
+<g fill="#24303A"><circle cx="240" cy="211.7" r="11.7"/><path d="M220.5,250.7 Q220.5,227.3 240.0,227.3 Q259.5,227.3 259.5,250.7 Z"/></g>
+<g fill="#24303A"><circle cx="80" cy="287.7" r="11.7"/><path d="M60.5,326.7 Q60.5,303.3 80.0,303.3 Q99.5,303.3 99.5,326.7 Z"/></g>
+<g fill="#24303A"><circle cx="160" cy="287.7" r="11.7"/><path d="M140.5,326.7 Q140.5,303.3 160.0,303.3 Q179.5,303.3 179.5,326.7 Z"/></g>
+<g fill="#B58A3A"><circle cx="240" cy="287.7" r="11.7"/><path d="M220.5,326.7 Q220.5,303.3 240.0,303.3 Q259.5,303.3 259.5,326.7 Z"/></g>
+<text x="480" y="36" font-size="26" font-weight="700" fill="#000000" text-anchor="start">Datensatz</text>
+<text x="480" y="66" font-size="20" font-weight="400" fill="#5F6B76" text-anchor="start">Führungspositionen</text>
+<rect x="480" y="86" width="320" height="270" rx="18" fill="#EEF1F4"/>
+<g fill="#24303A"><circle cx="560" cy="135.7" r="11.7"/><path d="M540.5,174.7 Q540.5,151.3 560.0,151.3 Q579.5,151.3 579.5,174.7 Z"/></g>
+<g fill="#24303A"><circle cx="640" cy="135.7" r="11.7"/><path d="M620.5,174.7 Q620.5,151.3 640.0,151.3 Q659.5,151.3 659.5,174.7 Z"/></g>
+<g fill="#24303A"><circle cx="720" cy="135.7" r="11.7"/><path d="M700.5,174.7 Q700.5,151.3 720.0,151.3 Q739.5,151.3 739.5,174.7 Z"/></g>
+<g fill="#24303A"><circle cx="560" cy="211.7" r="11.7"/><path d="M540.5,250.7 Q540.5,227.3 560.0,227.3 Q579.5,227.3 579.5,250.7 Z"/></g>
+<g fill="#24303A"><circle cx="640" cy="211.7" r="11.7"/><path d="M620.5,250.7 Q620.5,227.3 640.0,227.3 Q659.5,227.3 659.5,250.7 Z"/></g>
+<g fill="#24303A"><circle cx="720" cy="211.7" r="11.7"/><path d="M700.5,250.7 Q700.5,227.3 720.0,227.3 Q739.5,227.3 739.5,250.7 Z"/></g>
+<g fill="#24303A"><circle cx="560" cy="287.7" r="11.7"/><path d="M540.5,326.7 Q540.5,303.3 560.0,303.3 Q579.5,303.3 579.5,326.7 Z"/></g>
+<g fill="#24303A"><circle cx="640" cy="287.7" r="11.7"/><path d="M620.5,326.7 Q620.5,303.3 640.0,303.3 Q659.5,303.3 659.5,326.7 Z"/></g>
+<g fill="#B58A3A"><circle cx="720" cy="287.7" r="11.7"/><path d="M700.5,326.7 Q700.5,303.3 720.0,303.3 Q739.5,303.3 739.5,326.7 Z"/></g>
+<line x1="336" y1="221" x2="454.8" y2="221.0" stroke="#24303A" stroke-width="3" stroke-linecap="round"/><polygon points="466.0,221.0 453.9,228.0 453.9,214.0" fill="#24303A"/>
+<text x="401" y="196" font-size="20" font-weight="600" fill="#24303A" text-anchor="middle">Quellen</text>
+<text x="401" y="256" font-size="18" font-weight="400" fill="#5F6B76" text-anchor="middle">perfekte</text>
+<text x="401" y="280" font-size="18" font-weight="400" fill="#5F6B76" text-anchor="middle">Stichprobe</text>
+<circle cx="780" cy="100" r="18" fill="#24303A"/><path d="M772,100 l6,6 l11,-12" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#24303A"><circle cx="10" cy="393.3" r="6.3"/><path d="M-0.5,414.3 Q-0.5,401.7 10.0,401.7 Q20.5,401.7 20.5,414.3 Z"/></g><text x="30" y="410" font-size="20" font-weight="400" fill="#24303A" text-anchor="start">Männer</text>
+<g fill="#B58A3A"><circle cx="190" cy="393.3" r="6.3"/><path d="M179.5,414.3 Q179.5,401.7 190.0,401.7 Q200.5,401.7 200.5,414.3 Z"/></g><text x="210" y="410" font-size="20" font-weight="400" fill="#24303A" text-anchor="start">Frauen</text>
+<text x="0" y="470" font-size="24" font-weight="400" text-anchor="start"><tspan fill="#24303A" font-weight="700">Daten korrekt</tspan><tspan fill="#24303A" font-weight="400"> – Ungleichheit liegt in der Geschichte,</tspan></text>
+<text x="0" y="504" font-size="24" font-weight="400" fill="#24303A" text-anchor="start">nicht im Datenfehler</text>
+</svg>

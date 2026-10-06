@@ -1,0 +1,12 @@
+::: {.callout-important title="Content Note"}
+In diesem Workshop analysieren wir historische und aktuelle Beispiele, die diskriminierende Sprache, Kategorisierungen oder Darstellungen enthalten können.
+
+Für die gemeinsame Arbeit gelten folgende Grundsätze:
+
+- Wir reproduzieren diskriminierende Begriffe nur, wenn dies für die Analyse nötig ist.
+- Wir wiederholen problematische Begriffe nicht unnötig.
+- Niemand muss persönliche Diskriminierungserfahrungen teilen.
+- Alle Teilnehmenden dürfen sich aus einzelnen Diskussionen zurückziehen.
+- Wir analysieren Datenpraktiken und Strukturen. Wir bewerten nicht einzelne Personen moralisch.
+
+:::

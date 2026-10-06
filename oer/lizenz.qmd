@@ -1,0 +1,42 @@
+---
+title: Lizenz
+description: Lizenzen, Nachnutzungsbedingungen und Zitierhinweis der OER.
+---
+
+Diese OER ist offen lizenziert. Sie dürfen sie nutzen, anpassen und weitergeben, wenn Sie die Bedingungen der Lizenz einhalten.
+
+## Inhalte: CC BY-SA 4.0
+
+Texte, Arbeitsblätter, Fallkarten und das Foliendeck stehen unter der Lizenz [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.de). Der vollständige Lizenztext liegt im Repository: [LICENSE-CCBYSA.md](https://github.com/maehr/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop/blob/main/LICENSE-CCBYSA.md).
+
+Sie dürfen das Material:
+
+- teilen: in jedwedem Format oder Medium vervielfältigen und weiterverbreiten;
+- bearbeiten: remixen, verändern und darauf aufbauen, auch kommerziell.
+
+Dabei gelten diese Bedingungen:
+
+- **Namensnennung:** Nennen Sie die Urheber:innen, die Lizenz und die Quelle. Geben Sie an, ob Sie Änderungen vorgenommen haben.
+- **Weitergabe unter gleichen Bedingungen:** Wenn Sie das Material verändern, verbreiten Sie Ihre Fassung unter derselben Lizenz.
+
+Die OER verwendet dieselbe Lizenz wie das [Handbuch](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/). So lassen sich Inhalte aus beiden Werken kombinieren.
+
+## Code: AGPL-3.0
+
+Konfiguration, Workflows und Skripte stehen unter der [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.html) (SPDX: `AGPL-3.0-only`). Der Lizenztext liegt im Repository: [LICENSE-AGPL.md](https://github.com/maehr/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop/blob/main/LICENSE-AGPL.md).
+
+## Ausnahme: Screenshots von Datensätzen
+
+Die Fallkarten und das Foliendeck zeigen Screenshots von Katalog-, Archiv- und Normdatensätzen. Diese Screenshots und die darin sichtbaren Objekte stehen **nicht** unter der Lizenz dieser OER. Für sie gelten die Rechte der jeweiligen Institutionen und Rechteinhaber:innen. Prüfen Sie diese Rechte, bevor Sie die Screenshots ausserhalb dieser OER nachnutzen.
+
+## Namensnennung
+
+Nennen Sie die OER zum Beispiel so:
+
+> Moritz Mähr und Noëlle Schnegg: _Diskriminierungssensible Metadatenpraxis. OER für einen Hands-on-Kurs._ <https://maehr.github.io/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop/>, lizenziert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
+
+Wenn Sie das Material verändern, ergänzen Sie: «Angepasst von [Name], [Jahr].»
+
+## Zitieren
+
+Die Zitationsdaten stehen in der Datei [CITATION.cff](https://github.com/maehr/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop/blob/main/CITATION.cff). Nach der ersten Veröffentlichung auf Zenodo erhält die OER einen DOI. Dieser Abschnitt nennt ihn dann.

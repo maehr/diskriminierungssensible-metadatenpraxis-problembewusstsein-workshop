@@ -1,0 +1,31 @@
+---
+title: Weiterführende Lektüre
+description: Das Handbuch und ausgewählte Literatur zur Vertiefung nach dem Workshop.
+nocite: '@*'
+bibliography: ../references.bib
+---
+
+Diese Seite hilft, die Themen des Workshops nach dem Kurs zu vertiefen. Der erste Einstieg ist das Handbuch. Die Literaturliste nennt die Werke, auf die sich das Foliendeck stützt.
+
+## Handbuch
+
+Das Handbuch [_Diskriminierungssensible Metadatenpraxis_](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/) ist das Referenzwerk für diese OER. Es führt entlang des Forschungsdatenlebenszyklus durch Entscheidungen, Checklisten und Beispiele. Der theoretische Teil erklärt die Begriffe des Workshops.
+
+- [Theorie: Schlüsselbegriffe und Konzepte](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-theorie)
+- [Diskriminierung in und durch Daten](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-diskriminierung-in-und-durch-daten)
+- [Verzerrungen und Fehler (Bias)](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-verzerrungen-und-fehler-bias)
+- [Checklisten im Anhang](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-checkliste)
+
+Das Literaturverzeichnis des Handbuchs enthält weitere Titel.
+
+## Ausgewählte Literatur
+
+- Klassifikation und ihre Folgen: @bowker1999 zeigen, wie Klassifikationssysteme Wirklichkeit ordnen und welche Folgen diese Ordnung hat.
+- Intersektionalität: @crenshaw1989 prägt den Begriff am Beispiel des US-Antidiskriminierungsrechts. @collins2000 entwickelt das Konzept verflochtener Unterdrückungsverhältnisse weiter.
+- Bias in Algorithmen und Suche: @buolamwini_gender_2018 messen, wie Gesichtserkennung an der Schnittstelle von Geschlecht und Hautfarbe versagt. @noble_algorithms_2018 untersucht, wie Suchmaschinen Rassismus verstärken.
+- Taxonomie von Bias: @mehrabi2021 ordnen Formen von Bias nach ihrem Entstehungsort. Das Foliendeck übernimmt diese Ordnung.
+
+## Literatur
+
+::: {#refs}
+:::

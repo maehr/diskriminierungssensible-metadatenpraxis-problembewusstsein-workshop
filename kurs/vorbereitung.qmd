@@ -1,0 +1,58 @@
+---
+title: Vorbereitung
+description: Was Kursleitende vor dem Workshop vorbereiten, ausdrucken und versenden.
+---
+
+Diese Seite führt Schritt für Schritt durch die Vorbereitung. Der Workshop braucht wenig Vorbereitung, wenn Sie die Einladung früh versenden und die Fallkarten vorher lesen.
+
+## Vor dem Workshop
+
+::: {.schritte}
+
+1. Wählen Sie ein Zeitformat: [60](ablauf-60.qmd), [75](ablauf-75.qmd) oder [90 Minuten](ablauf-90.qmd).
+2. Versenden Sie die Einladung mit der Aufforderung, ein eigenes Beispiel mitzubringen (siehe unten). Fügen Sie die [Content Note](content-note.qmd) an.
+3. Lesen Sie die [Fallkarten](../hands-on/fallbeispiele/index.qmd) und die [Hinweise zu den Fallkarten](hinweise-fallkarten.qmd). Wählen Sie die Fallkarten, die zu Ihrem Publikum passen.
+4. Gehen Sie die [Slides](../input/slides.qmd) durch. Die Folienübersicht zeigt, welche Folien zu Ihrem Zeitformat gehören.
+5. Lesen Sie die [Hinweise für Kursleitende](moderation.qmd), besonders den Abschnitt zu schwierigen Diskussionen.
+
+:::
+
+## Materialliste
+
+| Material                                              | Menge                                   | Hinweis                                |
+| ----------------------------------------------------- | --------------------------------------- | -------------------------------------- |
+| Slides (HTML oder PDF)                                | 1                                       | Beamer oder Bildschirm                 |
+| [Metadaten-Audit](../hands-on/metadaten-audit.qmd)    | 1 pro Gruppe, A4 quer                   | als PDF oder DOCX                      |
+| [Fallkarten](../hands-on/fallbeispiele/index.qmd)     | 1 Satz pro Gruppe ohne eigenes Beispiel | nur Karten für Teilnehmende ausdrucken |
+| [Transfer-Karte](../nach-dem-kurs/transfer.qmd)       | 1 pro Person                            |                                        |
+| [Hinweise zu den Fallkarten](hinweise-fallkarten.qmd) | 1 für Kursleitende                      | nicht an Teilnehmende verteilen        |
+| Flipchart oder digitales Whiteboard                   | 1                                       | für die Auswertung im Plenum           |
+
+## Einladungstext
+
+Verwenden Sie diesen Text in der Einladung:
+
+> Bringen Sie nach Möglichkeit einen Metadatensatz, Katalogeintrag oder eine Beschreibung aus Ihrer eigenen Forschung oder Institution mit, bei dem Sie unsicher sind, wie mit Benennungen, Kategorien, historischen Kontexten oder sensiblen Inhalten umzugehen ist.
+
+Verlinken Sie zusätzlich die Seite [Eigenes Beispiel verwenden](../hands-on/eigenes-beispiel.qmd). Sie erklärt, was sich als Beispiel eignet und wie Teilnehmende vertrauliche Informationen schützen.
+
+## Arbeit mit eigenen Beispielen
+
+Eigene Beispiele machen den Transfer in die Praxis leichter. Sie bringen aber auch Unsicherheit mit sich. Beachten Sie deshalb:
+
+- Ein Beispiel muss nicht «offensichtlich problematisch» sein. Unauffällige Datensätze zeigen oft besser, wie selbstverständlich Entscheidungen wirken.
+- Die Person, die das Beispiel mitbringt, erklärt der Gruppe kurz den Kontext. Danach analysiert die Gruppe gemeinsam.
+- Die Gruppe analysiert den Datensatz, nicht die Person, die ihn erstellt hat.
+- Vertrauliche Informationen gehören nicht in den Workshop. Ein Screenshot oder Ausdruck genügt. Teilnehmende anonymisieren bei Bedarf.
+- Hat eine Gruppe mehrere Beispiele, wählt sie eines aus. Sie kann die anderen Beispiele in der Transferphase wieder aufgreifen.
+
+## Gruppenbildung
+
+- Bilden Sie Gruppen mit drei bis fünf Personen.
+- Gruppieren Sie nach Beispielen: Teilnehmende mit eigenem Beispiel verteilen sich auf die Gruppen. Gruppen ohne eigenes Beispiel erhalten eine Fallkarte.
+- Gemischte Gruppen aus Forschung und GLAM-Praxis bringen unterschiedliche Perspektiven zusammen. Gruppen aus derselben Institution können dafür institutionelle Rahmenbedingungen konkreter diskutieren. Wählen Sie bewusst.
+- Bitten Sie jede Gruppe, eine Person für die Zeit und eine Person für die Dokumentation zu bestimmen.
+
+## Online durchführen
+
+Der Workshop funktioniert auch online. Teilen Sie die Slides über den Bildschirm. Verwenden Sie Breakout-Räume für die Gruppenarbeit. Geben Sie den Gruppen das Metadaten-Audit als DOCX oder als gemeinsames Dokument.

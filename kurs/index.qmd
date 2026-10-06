@@ -1,0 +1,84 @@
+---
+title: Lernziele und Überblick
+description: Ziel, Zielgruppe, Lernziele und Aufbau des Workshops.
+---
+
+Diese Seite ist der Einstieg in den Facilitator Guide. Sie zeigt, was der Workshop erreichen soll und wie er aufgebaut ist. Die weiteren Seiten unter «Kurs durchführen» beschreiben die Vorbereitung, die drei Abläufe und die Moderation.
+
+## Ziel
+
+Der Workshop schafft Problembewusstsein für Diskriminierung in und durch Daten und Metadaten. Die Teilnehmenden erkennen problematische Aspekte in bestehenden Datenpraktiken. Sie diskutieren diese Aspekte und formulieren begründete Handlungsoptionen für die eigene Praxis.
+
+Der Workshop vermittelt keine einfachen universellen Lösungen. Er trainiert Entscheidungen und Abwägungen, nicht das Auswendiglernen von Terminologie.
+
+## Zielgruppe
+
+- Forschende in den Geistes- und Kulturwissenschaften;
+- Mitarbeitende aus GLAM-Institutionen (Galerien, Bibliotheken, Archive, Museen);
+- Personen, die Daten oder Metadaten erstellen, erschliessen, transformieren, kuratieren, publizieren oder nachnutzen.
+
+Die Teilnehmenden brauchen keine Vorkenntnisse zu diskriminierungssensibler Datenpraxis. Grundkenntnisse im Umgang mit Daten, Metadaten, Katalogen, Sammlungen oder Forschungsdaten sind hilfreich.
+
+## Lernziele
+
+Nach Abschluss des Workshops können Teilnehmende:
+
+::: {.schritte}
+
+1. erklären, warum Daten und Metadaten nicht neutral sind;
+2. Formen von Diskriminierung, Bias und intersektionalen Effekten an Beispielen erkennen;
+3. bestehende Metadaten hinsichtlich Herkunft, Kontext, Beschreibung und sensiblen Inhalten kritisch prüfen;
+4. potenzielle Auswirkungen von Benennungen, Kategorien, Leerstellen und Modellierungsentscheidungen diskutieren;
+5. begründete Handlungsoptionen für problematische Metadaten formulieren;
+6. reflektieren, wer an Metadatenentscheidungen beteiligt sein sollte;
+7. mindestens eine konkrete Konsequenz für die eigene Forschung oder institutionelle Praxis formulieren.
+
+:::
+
+## Kernbotschaft
+
+Metadaten entstehen durch Entscheidungen. Diese Entscheidungen betreffen Auswahl, Beschreibung, Kategorisierung, Kontextualisierung, Normalisierung, Nachnutzung, Sichtbarkeit, Zugang und Dokumentation. Diskriminierungssensible Metadatenpraxis ersetzt deshalb nicht einfach Begriffe durch eine Liste vermeintlich korrekter Begriffe. Sie macht diese Entscheidungen sichtbar, begründet sie und dokumentiert sie.
+
+## Aufbau
+
+Der Workshop hat zwei Phasen. Der Input vermittelt nur die zentralen Konzepte. Der Schwerpunkt liegt auf der gemeinsamen Analyse konkreter Beispiele.
+
+**Teil 1: Problembewusstsein schaffen.** Der Input mit den [Slides](../input/slides.qmd) behandelt:
+
+- Einführung: Thema, Relevanz und Erwartungen. Der Workshop vermittelt keine einfachen universellen Lösungen.
+- Daten sind nicht neutral: Daten werden ausgewählt, strukturiert und beschrieben. Kategorien und Datenmodelle beeinflussen Sichtbarkeit und Interpretation.
+- Formen der Diskriminierung und Intersektionalität: Diskriminierung entsteht explizit oder strukturell. Intersektionalität ist eine Analyseperspektive, keine zusätzliche Metadatenkategorie.
+- Verzerrung und Fehler (Bias): Bias entsteht in Quellen, Datenmodellen, Erschliessung, Normdaten, Workflows und Nachnutzung. Formale Korrektheit verhindert diskriminierende Wirkungen nicht automatisch.
+
+**Teil 2: Problematisches erkennen.** Die Teilnehmenden analysieren in Gruppen ein Beispiel mit dem [Metadaten-Audit](../hands-on/metadaten-audit.qmd). Dabei kommen diese Themen zur Sprache:
+
+- Primärerschliessung und Nachnutzung;
+- Kontextualisierung der Quellen;
+- Beschreibung und Verschlagwortung;
+- historische Begriffe: bewahren oder korrigieren?
+- Umgang mit sensiblen und diskriminierenden Inhalten.
+
+Die [Arbeitshilfen](../arbeitshilfen/index.qmd) verbinden jedes Thema mit der passenden Checkliste im Handbuch.
+
+## Zeitformate
+
+| Format     | Wofür                                                 | Ablauf                             |
+| ---------- | ----------------------------------------------------- | ---------------------------------- |
+| 60 Minuten | knappes Zeitfenster, z. B. in einer Tagung            | [Ablauf 60 Minuten](ablauf-60.qmd) |
+| 75 Minuten | Standard                                              | [Ablauf 75 Minuten](ablauf-75.qmd) |
+| 90 Minuten | Vertiefung: Jede Gruppe setzt eine Handlungsoption um | [Ablauf 90 Minuten](ablauf-90.qmd) |
+
+## Materialien im Überblick
+
+| Material                                                              | Für                        | Druckversion |
+| --------------------------------------------------------------------- | -------------------------- | ------------ |
+| [Slides](../input/slides.qmd)                                         | Kursleitende               | PDF          |
+| [Video](../input/video.qmd)                                           | Kursleitende, Teilnehmende | MP4          |
+| [Metadaten-Audit](../hands-on/metadaten-audit.qmd)                    | Teilnehmende               | PDF, DOCX    |
+| [Bring-your-own-Metadata-Anleitung](../hands-on/eigenes-beispiel.qmd) | Teilnehmende               | PDF, DOCX    |
+| [Fallkarten](../hands-on/fallbeispiele/index.qmd)                     | Teilnehmende               | PDF, DOCX    |
+| [Hinweise zu den Fallkarten](hinweise-fallkarten.qmd)                 | Kursleitende               | –            |
+| [Transfer-Karte](../nach-dem-kurs/transfer.qmd)                       | Teilnehmende               | PDF, DOCX    |
+| [Content Note](content-note.qmd)                                      | Kursleitende, Teilnehmende | –            |
+
+Die Seite [Materialien herunterladen](../oer/materialien.qmd) sammelt alle Dateien.

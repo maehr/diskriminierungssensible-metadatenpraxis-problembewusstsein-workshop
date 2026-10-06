@@ -1,0 +1,91 @@
+---
+title: Metadaten-Audit
+subtitle: Arbeitsblatt für die Gruppenarbeit
+description: Eine kompakte Arbeitsvorlage, die in fünf Schritten durch die Analyse eines Metadatensatzes führt.
+raster: true
+format:
+  html:
+    format-links:
+      - html
+      # Explicit hrefs avoid the format name suffix that Quarto adds for extension formats.
+      - text: PDF zum Ausdrucken
+        href: metadaten-audit.pdf
+        icon: file-pdf
+      - text: DOCX zum Bearbeiten
+        href: metadaten-audit.docx
+        icon: file-word
+  oer-typst:
+    margin:
+      x: 1.5cm
+      y: 1.2cm
+    fontsize: 9.5pt
+    include-in-header:
+      text: |
+        #set page(flipped: true)
+        #set table(rows: (auto, 1.25cm))
+  oer-docx: default
+---
+
+**Unser Beispiel:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+::: {.arbeitsblatt}
+
+| Prüfschritt            | Leitfrage                                                                   | Befund | Handlungsoption |
+| :--------------------- | :-------------------------------------------------------------------------- | :----- | :-------------- |
+| **Herkunft**           | Woher stammen Daten und Beschreibung?                                       |        |                 |
+| **Auswahl**            | Was fehlt oder wurde priorisiert?                                           |        |                 |
+| **Kontext**            | Welche historischen oder gesellschaftlichen Kontexte fehlen?                |        |                 |
+| **Sprache**            | Welche Benennungen oder Kategorien sind problematisch?                      |        |                 |
+| **Perspektiven**       | Wer beschreibt wen? Wer fehlt?                                              |        |                 |
+| **Intersektionalität** | Welche Überschneidungen werden unsichtbar?                                  |        |                 |
+| **Sensibilität**       | Welche möglichen Schäden entstehen durch Veröffentlichung oder Nachnutzung? |        |                 |
+| **Entscheidung**       | Ändern, ergänzen, bewahren oder schützen?                                   |        |                 |
+| **Dokumentation**      | Wie wird die Entscheidung nachvollziehbar?                                  |        |                 |
+
+: {tbl-colwidths="[13,29,29,29]"}
+:::
+
+{{< pagebreak >}}
+
+## So gehen Sie vor
+
+Das Metadaten-Audit führt Ihre Gruppe durch die Analyse eines Beispiels. Verwenden Sie ein eigenes Beispiel oder eine Fallkarte. Das Audit ist ein kompakter Einstieg. Es ersetzt die ausführlichen [Checklisten im Handbuch](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-checkliste) nicht.
+
+Die Analyse folgt fünf Schritten. Die Leitfragen helfen beim Ausfüllen des Arbeitsblatts. Sie müssen nicht jede Frage beantworten.
+
+**A. Sehen**
+
+- Was wird beschrieben?
+- Welche Informationen werden erfasst? Welche Informationen fehlen?
+- Welche Kategorien werden verwendet? Welche Begriffe fallen auf?
+- Was erscheint selbstverständlich oder neutral?
+
+**B. Hinterfragen**
+
+- Wer hat die Metadaten erstellt? Wann und zu welchem Zweck?
+- Wurden Daten oder Beschreibungen übernommen?
+- Welche institutionellen Entscheidungen oder Standards wirken hier?
+- Welche Unsicherheiten oder Leerstellen bestehen?
+
+**C. Kontextualisieren**
+
+- Unter welchen historischen, sozialen oder institutionellen Bedingungen entstand das Objekt oder die Quelle?
+- Wer beschreibt wen? Welche Machtverhältnisse sind relevant? Welche Perspektiven fehlen?
+- Welche Informationen sind nötig, um die Daten angemessen zu interpretieren?
+
+**D. Entscheiden**
+
+- Was sollte beibehalten, ergänzt oder geändert werden?
+- Welche Begriffe sollten kontextualisiert werden? Welche historischen Begriffe müssen erhalten bleiben?
+- Welche Selbstbezeichnungen oder Alternativbegriffe sollten ergänzt werden?
+- Wo sollte Unsicherheit sichtbar werden?
+- Ist eine Content Note nötig? Ist eine Änderung des Zugangs oder der Darstellung nötig?
+
+**E. Dokumentieren**
+
+Halten Sie mindestens eine Entscheidung fest und beantworten Sie diese Pflichtfragen:
+
+- Was würden wir ändern, ergänzen, beibehalten oder schützen?
+- Warum?
+- Wer sollte an dieser Entscheidung beteiligt sein?
+- Wie sollte die Entscheidung dokumentiert werden?

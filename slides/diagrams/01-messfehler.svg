@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="dg" viewBox="0 0 800 560" role="img" aria-labelledby="dg01-t dg01-d" font-family="Inter, Helvetica Neue, Arial, sans-serif">
+<title id="dg01-t">Messfehler: zwei Beispiele</title>
+<desc id="dg01-d">Beispiel 1: Das Wort Waſſer mit langem s geht durch eine OCR und wird zu Waffer. Eine Suche nach Wasser ergibt 0 Treffer. Beispiel 2: Der Beruf Haushaltsvorstand wird als Geschlecht männlich codiert. Haushaltsvorständinnen verschwinden.</desc>
+<text x="0" y="26" font-size="20" font-weight="600" fill="#5F6B76" text-anchor="start">Beispiel 1 · OCR</text>
+<rect x="0" y="50" width="220" height="110" rx="12" fill="#EEF1F4"/>
+<text x="110" y="122" font-size="50" font-weight="400" fill="#24303A" text-anchor="middle" font-family="Georgia, Times New Roman, serif">Waſſer</text>
+<text x="110" y="190" font-size="20" font-weight="400" fill="#5F6B76" text-anchor="middle">Druck, 18. Jh.</text>
+<line x1="232" y1="105" x2="290.8" y2="105.0" stroke="#24303A" stroke-width="3" stroke-linecap="round"/><polygon points="302.0,105.0 289.9,112.0 289.9,98.0" fill="#24303A"/>
+<rect x="312" y="66" width="170" height="78" rx="39" fill="#24303A"/>
+<text x="397" y="115" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">OCR</text>
+<line x1="494" y1="105" x2="552.8" y2="105.0" stroke="#24303A" stroke-width="3" stroke-linecap="round"/><polygon points="564.0,105.0 551.9,112.0 551.9,98.0" fill="#24303A"/>
+<rect x="576" y="50" width="224" height="110" rx="12" fill="#EEF1F4"/>
+<text x="688" y="122" font-size="50" font-weight="400" text-anchor="middle" font-family="Georgia, Times New Roman, serif"><tspan fill="#24303A" font-weight="400">Wa</tspan><tspan fill="#8A6422" font-weight="700">ff</tspan><tspan fill="#24303A" font-weight="400">er</tspan></text>
+<text x="688" y="190" font-size="20" font-weight="400" fill="#5F6B76" text-anchor="middle">Volltext</text>
+<text x="400" y="252" font-size="24" font-weight="400" text-anchor="middle"><tspan fill="#24303A" font-weight="400">Suche nach «Wasser»:  </tspan><tspan fill="#8A6422" font-weight="700">0 Treffer</tspan></text>
+<line x1="0" y1="296" x2="800" y2="296" stroke="#C9D0D6" stroke-width="2" stroke-linecap="round"/>
+<text x="0" y="348" font-size="20" font-weight="600" fill="#5F6B76" text-anchor="start">Beispiel 2 · Volkszählung</text>
+<rect x="0" y="372" width="270" height="120" rx="12" fill="#EEF1F4"/>
+<text x="22" y="412" font-size="20" font-weight="400" fill="#5F6B76" text-anchor="start">Beruf:</text>
+<text x="22" y="448" font-size="24" font-weight="600" fill="#24303A" text-anchor="start">Haushaltsvorstand</text>
+<line x1="282" y1="432" x2="340.8" y2="432.0" stroke="#24303A" stroke-width="3" stroke-linecap="round"/><polygon points="352.0,432.0 339.9,439.0 339.9,425.0" fill="#24303A"/>
+<text x="317" y="416" font-size="18" font-weight="400" fill="#5F6B76" text-anchor="middle">codiert</text>
+<rect x="364" y="372" width="230" height="120" rx="12" fill="#EEF1F4"/>
+<text x="386" y="412" font-size="20" font-weight="400" fill="#5F6B76" text-anchor="start">Geschlecht:</text>
+<text x="386" y="448" font-size="26" font-weight="700" fill="#8A6422" text-anchor="start">männlich</text>
+<g fill="#C9D0D6"><circle cx="700" cy="387.7" r="11.7"/><path d="M680.5,426.7 Q680.5,403.3 700.0,403.3 Q719.5,403.3 719.5,426.7 Z"/></g>
+<circle cx="730" cy="384" r="18" fill="#B58A3A"/><path d="M723,377 l14,14 M737,377 l-14,14" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+<text x="700" y="470" font-size="20" font-weight="400" fill="#24303A" text-anchor="middle">Haushalts-</text>
+<text x="700" y="496" font-size="20" font-weight="400" fill="#24303A" text-anchor="middle">vorständinnen</text>
+<text x="700" y="530" font-size="20" font-weight="700" fill="#8A6422" text-anchor="middle">verschwinden</text>
+</svg>

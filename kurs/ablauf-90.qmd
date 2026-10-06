@@ -1,0 +1,52 @@
+---
+title: Ablauf 90 Minuten
+description: Das Langformat des Workshops mit einer Umsetzungsphase.
+---
+
+Das Langformat folgt dem [Ablauf 75 Minuten](ablauf-75.qmd). Die zusätzliche Zeit dient der Vertiefung, nicht zusätzlichem Theorieinput. Nach dem Audit setzt jede Gruppe mindestens eine Handlungsoption exemplarisch um.
+
+## Zeitplan
+
+| Zeit      | Element                    | Ziel                                                 |
+| --------- | -------------------------- | ---------------------------------------------------- |
+| 0–5 min   | Einstieg und Content Note  | Rahmen und Lernziel setzen                           |
+| 5–20 min  | Input                      | gemeinsames Vokabular schaffen                       |
+| 20–25 min | Einführung Metadaten-Audit | Aufgabe und Gruppenarbeit erklären                   |
+| 25–50 min | Hands-on in Gruppen        | Beispiel analysieren                                 |
+| 50–65 min | Umsetzung in Gruppen       | eine Handlungsoption exemplarisch umsetzen           |
+| 65–80 min | Präsentation im Plenum     | Ausgangszustand, Änderung und Begründung vergleichen |
+| 80–87 min | Transfer                   | Konsequenzen für eigene Praxis formulieren           |
+| 87–90 min | Abschluss                  | Take-away und Ressourcen                             |
+
+## Anpassungen gegenüber 75 Minuten
+
+- **Input:** Verwenden Sie dieselben Folien wie im 75-Minuten-Format. Die [Folienübersicht](../input/slides.qmd#sec-folienuebersicht) zeigt sie.
+- **Umsetzung:** Nach dem Audit wählt jede Gruppe mindestens eine Handlungsoption und setzt sie am Beispiel um.
+- **Präsentation:** Das Plenum vergleicht konkrete Änderungen statt nur Befunde.
+
+## Aufgaben für die Umsetzung
+
+Jede Gruppe wählt mindestens eine Aufgabe:
+
+- Beschreibung neu formulieren;
+- Schlagwörter überarbeiten;
+- Kontextinformation ergänzen;
+- Content Note verfassen;
+- alternative Begriffe dokumentieren;
+- Unsicherheit kennzeichnen;
+- Vorschlag für eine institutionelle Regel formulieren.
+
+## Präsentation
+
+Jede Gruppe präsentiert in drei bis vier Minuten:
+
+::: {.schritte}
+
+1. den Ausgangszustand;
+2. die Änderung;
+3. die Begründung;
+4. offene Fragen.
+
+:::
+
+Fragen Sie nach jeder Präsentation: Wer sollte an dieser Entscheidung beteiligt sein? Wie würde die Institution die Änderung dokumentieren?
