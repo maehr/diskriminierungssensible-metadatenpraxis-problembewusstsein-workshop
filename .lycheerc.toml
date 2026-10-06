@@ -8,10 +8,14 @@ exclude = [
   "^https://github\\.com/maehr/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop",
   "^https://dls\\.staatsarchiv\\.bs\\.ch/",
   "^https://www\\.contributor-covenant\\.org/faq",
+  # gnu.org and fsf.org time out for GitHub runners.
+  "^https://(www\\.)?gnu\\.org/",
+  "^https://(www\\.)?fsf\\.org/",
 ]
 
 # Local links to rendered files (PDF, DOCX, HTML) exist only in _site/.
-exclude_path = ["_site", "node_modules", ".venv", "SPECS.md"]
+# The licence texts are legal documents. Do not check their links.
+exclude_path = ["_site", "node_modules", ".venv", "SPECS.md", "LICENSE-AGPL.md", "LICENSE-CCBYSA.md"]
 scheme = ["https", "http"]
 
 timeout = 20
