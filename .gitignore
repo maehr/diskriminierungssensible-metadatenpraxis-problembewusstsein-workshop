@@ -30,3 +30,6 @@ Thumbs.db
 
 # Raw Zoom recordings stay outside git. assets/video/ holds the published cut.
 /GMT*_Recording*.mp4
+
+# Raw speech-recognition export of the recording. input/transkript.qmd holds the edited text.
+/Audio Transcript*.txt

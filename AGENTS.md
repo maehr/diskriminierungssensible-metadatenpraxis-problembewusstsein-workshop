@@ -77,6 +77,7 @@ Context is the scarce resource. Manage it.
 - Keep facilitator material and participant material apart. Put the possible findings for a case card in `kurs/hinweise-fallkarten.qmd`, never on the card.
 - Take facts about a record only from the linked record or its screenshot. Never invent a record fact.
 - Reproduce a discriminatory term only when the analysis needs it. Mask it in a screenshot, as in `assets/images/fallkarten/*-maskiert.png`.
+- Leave a blank line before a closing `:::` that follows a list. Prettier otherwise moves the fence into the last list item.
 - Reuse a partial for repeated text: `_partials/content-note.qmd`, `_partials/arbeitsauftrag.qmd`, `_partials/kontext-voelkerschauen.qmd`.
 - Follow the typography of the deck. `site.scss` styles the website, and `_extensions/oer/` styles the PDFs. Mark a numbered sequence with `::: {.schritte}` and a record excerpt with `::: {.datensatz}`.
 - `entwurf: true` in `_quarto.yml` marks every page as a draft. Set `entwurf: false` on a page only after the author review.

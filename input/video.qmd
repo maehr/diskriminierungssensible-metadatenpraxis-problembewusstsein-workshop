@@ -17,33 +17,36 @@ Die Videoaufzeichnung zeigt den Input des Workshops mit dem Foliendeck. Sie ist 
 
 ## Übersicht
 
-| Angabe       | Inhalt                                                                       |
-| :----------- | :--------------------------------------------------------------------------- |
-| Dauer        | 14:40 Minuten                                                                |
-| Aufzeichnung | 6. Oktober 2026                                                              |
-| Sprache      | Deutsch                                                                      |
-| Datei        | [MP4, 26 MB](../assets/video/input.mp4)                                      |
-| Folien       | [Foliendeck](slides.qmd); das Video zeigt eine frühere Fassung mit 55 Folien |
+| Angabe         | Inhalt                                                                       |
+| :------------- | :--------------------------------------------------------------------------- |
+| Dauer          | 14:40 Minuten                                                                |
+| Aufzeichnung   | 6. Oktober 2026                                                              |
+| Sprache        | Deutsch                                                                      |
+| Datei          | [MP4, 26 MB](../assets/video/input.mp4)                                      |
+| Folien         | [Foliendeck](slides.qmd); das Video zeigt eine frühere Fassung mit 55 Folien |
+| Sprecher:innen | Moritz Mähr, Noëlle Schnegg                                                  |
+| Transkript     | [Transkript des Videos](transkript.qmd), nach Kapiteln gegliedert            |
+| Untertitel     | in Vorbereitung                                                              |
 
 ## Kapitel
 
-Ein Klick auf die Zeit springt im Video an diese Stelle. Die Kapitel folgen den Abschnitten des Foliendecks.
+Ein Klick auf die Zeit springt im Video an diese Stelle. Die Kapitel folgen den Abschnitten des Foliendecks. Das [Transkript](transkript.qmd) gibt den gesprochenen Text jedes Kapitels wieder.
 
-| Zeit                                      | Kapitel                            |
-| :---------------------------------------- | :--------------------------------- |
-| [0:03](#video){.kapitel data-t="2.88"}    | Einstieg: Setting the scene        |
-| [0:41](#video){.kapitel data-t="40.88"}   | Daten sind nicht neutral           |
-| [2:21](#video){.kapitel data-t="140.52"}  | Direkte Diskriminierung            |
-| [3:15](#video){.kapitel data-t="195.40"}  | Indirekte Diskriminierung          |
-| [3:56](#video){.kapitel data-t="236.44"}  | Strukturelle Diskriminierung       |
-| [4:35](#video){.kapitel data-t="275.04"}  | Institutionelle Diskriminierung    |
-| [5:26](#video){.kapitel data-t="326.36"}  | Statistische Diskriminierung       |
-| [5:59](#video){.kapitel data-t="359.04"}  | Intersektionale Diskriminierung    |
-| [6:49](#video){.kapitel data-t="409.28"}  | Was ist Bias?                      |
-| [7:40](#video){.kapitel data-t="460.44"}  | Verzerrung in Daten                |
-| [10:53](#video){.kapitel data-t="652.80"} | Verzerrung durch Algorithmen       |
-| [11:49](#video){.kapitel data-t="708.64"} | Verzerrung durch Nutzerinteraktion |
-| [14:31](#video){.kapitel data-t="871.00"} | Merkschema und Quellen             |
+| Zeit                                      | Kapitel                            | Sprecher:in    |
+| :---------------------------------------- | :--------------------------------- | :------------- |
+| [0:03](#video){.kapitel data-t="2.88"}    | Einstieg: Setting the scene        | Moritz Mähr    |
+| [0:41](#video){.kapitel data-t="40.88"}   | Daten sind nicht neutral           | Noëlle Schnegg |
+| [2:21](#video){.kapitel data-t="140.52"}  | Direkte Diskriminierung            | Noëlle Schnegg |
+| [3:15](#video){.kapitel data-t="195.40"}  | Indirekte Diskriminierung          | Noëlle Schnegg |
+| [3:56](#video){.kapitel data-t="236.44"}  | Strukturelle Diskriminierung       | Noëlle Schnegg |
+| [4:35](#video){.kapitel data-t="275.04"}  | Institutionelle Diskriminierung    | Noëlle Schnegg |
+| [5:26](#video){.kapitel data-t="326.36"}  | Statistische Diskriminierung       | Noëlle Schnegg |
+| [5:59](#video){.kapitel data-t="359.04"}  | Intersektionale Diskriminierung    | Noëlle Schnegg |
+| [6:49](#video){.kapitel data-t="409.28"}  | Was ist Bias?                      | Moritz Mähr    |
+| [7:40](#video){.kapitel data-t="460.44"}  | Verzerrung in Daten                | Moritz Mähr    |
+| [10:53](#video){.kapitel data-t="652.80"} | Verzerrung durch Algorithmen       | Moritz Mähr    |
+| [11:49](#video){.kapitel data-t="708.64"} | Verzerrung durch Nutzerinteraktion | Moritz Mähr    |
+| [14:31](#video){.kapitel data-t="871.00"} | Merkschema und Quellen             | Moritz Mähr    |
 
 ```{=html}
 <script>

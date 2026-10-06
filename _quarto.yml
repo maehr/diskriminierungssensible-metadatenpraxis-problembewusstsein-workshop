@@ -76,6 +76,8 @@ website:
             href: input/slides.qmd
           - text: Video
             href: input/video.qmd
+          - text: Transkript des Videos
+            href: input/transkript.qmd
           - text: Kernkonzepte
             href: input/kernkonzepte.qmd
       - section: Hands-on

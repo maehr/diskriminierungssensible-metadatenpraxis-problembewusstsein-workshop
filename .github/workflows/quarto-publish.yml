@@ -2,8 +2,7 @@ name: Render and Publish
 
 on:
   push:
-    # feat/workshop-oer deploys a preview of the content before the merge. Remove it after the merge.
-    branches: [main, feat/workshop-oer]
+    branches: [main]
   pull_request:
     branches: [main]
   workflow_dispatch:
