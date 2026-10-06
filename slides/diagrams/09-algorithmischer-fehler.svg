@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="dg" viewBox="0 0 800 540" role="img" aria-labelledby="dg09-t dg09-d" font-family="Inter, Helvetica Neue, Arial, sans-serif">
+<title id="dg09-t">Algorithmischer Fehler: Topic Modeling mit zwei Stoppwortlisten</title>
+<desc id="dg09-d">Dieselben philosophischen Texte gehen durch zwei Topic Models mit unterschiedlichen Stoppwortlisten. Das eine ergibt die Themen Gott, Seele, Geist; das andere Natur, Vernunft, Erkenntnis (schematisch).</desc>
+<text x="0" y="36" font-size="22" font-weight="700" fill="#000000" text-anchor="start">Gleiche Texte</text>
+<rect x="20" y="80" width="100" height="130" rx="5" fill="#9AA5AF"/><line x1="28" y1="94" x2="86.8" y2="94" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/><line x1="28" y1="105" x2="74.2" y2="105" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/><line x1="28" y1="116" x2="86.8" y2="116" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/><line x1="28" y1="127" x2="65.80000000000001" y2="127" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+<rect x="34" y="94" width="100" height="130" rx="5" fill="#9AA5AF"/><line x1="42" y1="108" x2="100.8" y2="108" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/><line x1="42" y1="119" x2="88.2" y2="119" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/><line x1="42" y1="130" x2="100.8" y2="130" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/><line x1="42" y1="141" x2="79.80000000000001" y2="141" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+<rect x="48" y="108" width="100" height="130" rx="5" fill="#24303A"/><line x1="56" y1="122" x2="114.8" y2="122" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/><line x1="56" y1="133" x2="102.2" y2="133" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/><line x1="56" y1="144" x2="114.8" y2="144" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/><line x1="56" y1="155" x2="93.80000000000001" y2="155" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+<text x="84" y="268" font-size="18" font-weight="400" fill="#5F6B76" text-anchor="middle">philosophische</text>
+<text x="84" y="292" font-size="18" font-weight="400" fill="#5F6B76" text-anchor="middle">Texte</text>
+<path d="M150,160 Q170,150 182.4,150.0" fill="none" stroke="#24303A" stroke-width="3" stroke-linecap="round"/><polygon points="192.0,150.0 181.6,156.0 181.6,144.0" fill="#24303A"/>
+<rect x="200" y="110" width="196" height="80" rx="12" fill="#EEF1F4"/>
+<text x="298" y="144" font-size="19" font-weight="600" fill="#24303A" text-anchor="middle">Stoppwortliste A</text>
+<text x="298" y="172" font-size="18" font-weight="400" fill="#5F6B76" text-anchor="middle">+ Topic Model</text>
+<line x1="404" y1="150" x2="420.4" y2="150.0" stroke="#24303A" stroke-width="3" stroke-linecap="round"/><polygon points="430.0,150.0 419.6,156.0 419.6,144.0" fill="#24303A"/>
+<rect x="440" y="130" width="66" height="40" rx="20" fill="#F6EFE2"/>
+<text x="473.0" y="157" font-size="18" font-weight="600" fill="#8A6422" text-anchor="middle">Gott</text>
+<rect x="512" y="130" width="77" height="40" rx="20" fill="#F6EFE2"/>
+<text x="550.5" y="157" font-size="18" font-weight="600" fill="#8A6422" text-anchor="middle">Seele</text>
+<rect x="595" y="130" width="77" height="40" rx="20" fill="#F6EFE2"/>
+<text x="633.5" y="157" font-size="18" font-weight="600" fill="#8A6422" text-anchor="middle">Geist</text>
+<path d="M150,160 Q170,370 182.4,370.0" fill="none" stroke="#24303A" stroke-width="3" stroke-linecap="round"/><polygon points="192.0,370.0 181.6,376.0 181.6,364.0" fill="#24303A"/>
+<rect x="200" y="330" width="196" height="80" rx="12" fill="#EEF1F4"/>
+<text x="298" y="364" font-size="19" font-weight="600" fill="#24303A" text-anchor="middle">Stoppwortliste B</text>
+<text x="298" y="392" font-size="18" font-weight="400" fill="#5F6B76" text-anchor="middle">+ Topic Model</text>
+<line x1="404" y1="370" x2="420.4" y2="370.0" stroke="#24303A" stroke-width="3" stroke-linecap="round"/><polygon points="430.0,370.0 419.6,376.0 419.6,364.0" fill="#24303A"/>
+<rect x="440" y="350" width="77" height="40" rx="20" fill="#F6EFE2"/>
+<text x="478.5" y="377" font-size="18" font-weight="600" fill="#8A6422" text-anchor="middle">Natur</text>
+<rect x="523" y="350" width="110" height="40" rx="20" fill="#F6EFE2"/>
+<text x="578.0" y="377" font-size="18" font-weight="600" fill="#8A6422" text-anchor="middle">Vernunft</text>
+<rect x="639" y="350" width="132" height="40" rx="20" fill="#F6EFE2"/>
+<text x="705.0" y="377" font-size="18" font-weight="600" fill="#8A6422" text-anchor="middle">Erkenntnis</text>
+<text x="440" y="36" font-size="22" font-weight="700" fill="#000000" text-anchor="start">«Themen»</text>
+<text x="0" y="490" font-size="24" font-weight="400" text-anchor="start"><tspan fill="#8A6422" font-weight="700">Andere Designentscheidung</tspan><tspan fill="#24303A" font-weight="400"> → andere «Themen»</tspan></text>
+<text x="0" y="524" font-size="20" font-weight="400" fill="#5F6B76" text-anchor="start">Nicht-Expert*innen lesen sie als inhaltliche Topoi.</text>
+</svg>

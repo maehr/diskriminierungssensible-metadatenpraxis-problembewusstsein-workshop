@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="dg" viewBox="0 0 800 570" role="img" aria-labelledby="dg06-t dg06-d" font-family="Inter, Helvetica Neue, Arial, sans-serif">
+<title id="dg06-t">Längsschnittfehler: Erfassungsregeln ändern sich</title>
+<desc id="dg06-d">Eine Linie zeigt die Zahl der Einträge über die Zeit. Sie springt genau dort nach oben, wo die Erfassungsregeln von A zu B und von B zu C wechseln. Der Sprung zeigt eine neue Regel, nicht eine neue Geschichte.</desc>
+<rect x="60" y="70" width="240" height="330" rx="0" fill="#EEF1F4"/>
+<text x="180.0" y="104" font-size="22" font-weight="700" fill="#24303A" text-anchor="middle">Regeln A</text>
+<rect x="300" y="70" width="240" height="330" rx="0" fill="#F7F8FA"/>
+<text x="420.0" y="104" font-size="22" font-weight="700" fill="#24303A" text-anchor="middle">Regeln B</text>
+<rect x="540" y="70" width="240" height="330" rx="0" fill="#EEF1F4"/>
+<text x="660.0" y="104" font-size="22" font-weight="700" fill="#24303A" text-anchor="middle">Regeln C</text>
+<text x="0" y="36" font-size="20" font-weight="600" fill="#5F6B76" text-anchor="start">Einträge zu historischen Personen (schematisch)</text>
+<path d="M60,350 L120,345 L180,352 L240,342 L298,346 L302,262 L360,256 L420,262 L480,252 L538,258 L542,168 L600,160 L660,166 L720,156 L780,160" fill="none" stroke="#24303A" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="300" cy="304" r="24" fill="none" stroke="#B58A3A" stroke-width="3"/>
+<circle cx="540" cy="213" r="24" fill="none" stroke="#B58A3A" stroke-width="3"/>
+<line x1="60" y1="400" x2="780" y2="400" stroke="#9AA5AF" stroke-width="2" stroke-linecap="round"/>
+<line x1="60" y1="430" x2="770.4" y2="430.0" stroke="#5F6B76" stroke-width="2" stroke-linecap="round"/><polygon points="780.0,430.0 769.6,436.0 769.6,424.0" fill="#5F6B76"/>
+<text x="60" y="462" font-size="20" font-weight="400" fill="#5F6B76" text-anchor="start">Zeitpunkt der Erfassung</text>
+<text x="0" y="520" font-size="24" font-weight="400" text-anchor="start"><tspan fill="#8A6422" font-weight="700">Sprung</tspan><tspan fill="#24303A" font-weight="400"> = neue Regel, nicht neue Geschichte</tspan></text>
+<text x="0" y="556" font-size="20" font-weight="400" fill="#5F6B76" text-anchor="start">Direkter Vergleich: «Die Welt hat sich verändert» – oder die Erfassung?</text>
+</svg>

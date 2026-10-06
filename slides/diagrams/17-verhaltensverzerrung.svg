@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="dg" viewBox="0 0 800 540" role="img" aria-labelledby="dg17-t dg17-d" font-family="Inter, Helvetica Neue, Arial, sans-serif">
+<title id="dg17-t">Verhaltensverzerrung: zwei Gruppen suchen unterschiedlich</title>
+<desc id="dg17-d">Historiker*innen suchen systematisch über Bestand, Serie und Dossier oder über Signaturen. Lai*innen suchen nach Familiennamen und spektakulären Ereignissen. Die Zugriffszahlen sind deshalb bei Familiennamen und Ereignissen hoch und bei Verwaltungsserien niedrig (schematisch).</desc>
+<text x="0" y="30" font-size="22" font-weight="700" fill="#000000" text-anchor="start">Historiker*innen</text>
+<g fill="#3F6FB0"><circle cx="30" cy="77.9" r="9.9"/><path d="M13.5,110.9 Q13.5,91.1 30.0,91.1 Q46.5,91.1 46.5,110.9 Z"/></g>
+<g fill="#3F6FB0"><circle cx="74" cy="77.9" r="9.9"/><path d="M57.5,110.9 Q57.5,91.1 74.0,91.1 Q90.5,91.1 90.5,110.9 Z"/></g>
+<rect x="170" y="50" width="305" height="40" rx="20" fill="#EEF1F4"/>
+<text x="185" y="77" font-size="18" font-weight="400" fill="#24303A" text-anchor="start">Bestand → Serie → Dossier</text>
+<rect x="170" y="104" width="195" height="40" rx="20" fill="#EEF1F4"/>
+<text x="185" y="131" font-size="18" font-weight="400" fill="#24303A" text-anchor="start">Signatur PA 123</text>
+<text x="0" y="280" font-size="22" font-weight="700" fill="#000000" text-anchor="start">Lai*innen</text>
+<g fill="#B58A3A"><circle cx="30" cy="327.9" r="9.9"/><path d="M13.5,360.9 Q13.5,341.1 30.0,341.1 Q46.5,341.1 46.5,360.9 Z"/></g>
+<g fill="#B58A3A"><circle cx="74" cy="327.9" r="9.9"/><path d="M57.5,360.9 Q57.5,341.1 74.0,341.1 Q90.5,341.1 90.5,360.9 Z"/></g>
+<g fill="#B58A3A"><circle cx="118" cy="327.9" r="9.9"/><path d="M101.5,360.9 Q101.5,341.1 118.0,341.1 Q134.5,341.1 134.5,360.9 Z"/></g>
+<rect x="170" y="300" width="118" height="40" rx="20" fill="#EEF1F4"/>
+<text x="185" y="327" font-size="18" font-weight="600" fill="#24303A" text-anchor="start">«Müller»</text>
+<rect x="170" y="354" width="217" height="40" rx="20" fill="#EEF1F4"/>
+<text x="185" y="381" font-size="18" font-weight="600" fill="#24303A" text-anchor="start">«Stadtbrand 1917»</text>
+<rect x="170" y="408" width="195" height="40" rx="20" fill="#EEF1F4"/>
+<text x="185" y="435" font-size="18" font-weight="600" fill="#24303A" text-anchor="start">«Familie Meier»</text>
+<line x1="492" y1="240" x2="522.4" y2="240.0" stroke="#24303A" stroke-width="3" stroke-linecap="round"/><polygon points="532.0,240.0 521.6,246.0 521.6,234.0" fill="#24303A"/>
+<text x="548" y="30" font-size="22" font-weight="700" fill="#000000" text-anchor="start">Zugriffszahlen</text>
+<text x="548" y="90" font-size="19" font-weight="600" fill="#24303A" text-anchor="start">Familiennamen</text>
+<path d="M548,104 L748.6,104 Q752.6,104 752.6,108 L752.6,138 Q752.6,142 748.6,142 L548,142 Z" fill="#B58A3A"/>
+<text x="760.6" y="132" font-size="18" font-weight="600" fill="#24303A" text-anchor="start">62</text>
+<text x="548" y="210" font-size="19" font-weight="600" fill="#24303A" text-anchor="start">Ereignisse</text>
+<path d="M548,224 L695.8,224 Q699.8,224 699.8,228 L699.8,258 Q699.8,262 695.8,262 L548,262 Z" fill="#B58A3A"/>
+<text x="707.8" y="252" font-size="18" font-weight="600" fill="#24303A" text-anchor="start">46</text>
+<text x="548" y="330" font-size="19" font-weight="600" fill="#24303A" text-anchor="start">Verwaltungsserien</text>
+<path d="M548,344 L590.2,344 Q594.2,344 594.2,348 L594.2,378 Q594.2,382 590.2,382 L548,382 Z" fill="#3F6FB0"/>
+<text x="602.2" y="372" font-size="18" font-weight="600" fill="#24303A" text-anchor="start">14</text>
+<text x="0" y="520" font-size="24" font-weight="400" text-anchor="start"><tspan fill="#8A6422" font-weight="700">Zugriffe</tspan><tspan fill="#24303A" font-weight="400"> zeigen Suchverhalten, nicht Bedeutung</tspan></text>
+</svg>

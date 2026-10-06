@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="dg" viewBox="0 0 800 600" role="img" aria-labelledby="dg20-t dg20-d" font-family="Inter, Helvetica Neue, Arial, sans-serif">
+<title id="dg20-t">Intersektionalität: Schnittmenge zweier Kategorien</title>
+<desc id="dg20-d">Zwei überlappende Kreise. Links die Kategorie «Frauen», implizit als weiss gelesen. Rechts die Kategorie «Schwarze Menschen», implizit als männlich gelesen. Die Schnittmenge «Schwarze Frauen» ist hervorgehoben: Sie ist weder in der einen noch in der anderen Kategorie sichtbar und verschwindet zwischen den Kategorien.</desc>
+<circle cx="290" cy="270" r="190" fill="#3F6FB0" fill-opacity="0.12" stroke="#3F6FB0" stroke-width="3"/>
+<circle cx="510" cy="270" r="190" fill="#C1557B" fill-opacity="0.12" stroke="#C1557B" stroke-width="3"/>
+<path d="M400,115.1 A190,190 0 0 1 400,424.9 A190,190 0 0 1 400,115.1 Z" fill="#B58A3A"/>
+<text x="205" y="228" font-size="26" font-weight="700" fill="#24303A" text-anchor="middle">«Frauen»</text>
+<text x="205" y="264" font-size="19" font-weight="400" fill="#5F6B76" text-anchor="middle">implizit als</text>
+<text x="205" y="290" font-size="19" font-weight="400" fill="#5F6B76" text-anchor="middle">«weiss»</text>
+<text x="205" y="316" font-size="19" font-weight="400" fill="#5F6B76" text-anchor="middle">gelesen</text>
+<text x="595" y="214" font-size="26" font-weight="700" fill="#24303A" text-anchor="middle">«Schwarze</text>
+<text x="595" y="246" font-size="26" font-weight="700" fill="#24303A" text-anchor="middle">Menschen»</text>
+<text x="595" y="282" font-size="19" font-weight="400" fill="#5F6B76" text-anchor="middle">implizit als</text>
+<text x="595" y="308" font-size="19" font-weight="400" fill="#5F6B76" text-anchor="middle">«männlich»</text>
+<text x="595" y="334" font-size="19" font-weight="400" fill="#5F6B76" text-anchor="middle">gelesen</text>
+<text x="400" y="262" font-size="22" font-weight="700" fill="#FFFFFF" text-anchor="middle">Schwarze</text>
+<text x="400" y="290" font-size="22" font-weight="700" fill="#FFFFFF" text-anchor="middle">Frauen</text>
+<text x="400" y="510" font-size="24" font-weight="400" text-anchor="middle"><tspan fill="#24303A" font-weight="400">Weder in A noch in B sichtbar:</tspan></text>
+<text x="400" y="544" font-size="24" font-weight="400" text-anchor="middle"><tspan fill="#8A6422" font-weight="700">verschwinden zwischen den Kategorien</tspan></text>
+<text x="400" y="584" font-size="18" font-weight="400" fill="#5F6B76" text-anchor="middle">nach Crenshaw 1989</text>
+</svg>

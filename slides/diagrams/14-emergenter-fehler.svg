@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="dg" viewBox="0 0 800 550" role="img" aria-labelledby="dg14-t dg14-d" font-family="Inter, Helvetica Neue, Arial, sans-serif">
+<title id="dg14-t">Emergenter Fehler: Editionsprojekt im Zeitverlauf</title>
+<desc id="dg14-d">Drei Phasen. Konzeption: Philolog*innen nutzen die Edition, Variantenkritik ist stark ausgebaut. Neue Nutzung: Familienforschende kommen dazu. Anpassung: Der Namens- und Ortsindex wächst, die Variantenkritik schrumpft (schematisch).</desc>
+<rect x="0" y="0" width="250" height="430" rx="18" fill="#EEF1F4"/>
+<text x="20" y="40" font-size="22" font-weight="700" fill="#000000" text-anchor="start">Konzeption</text>
+<text x="20" y="68" font-size="18" font-weight="400" fill="#5F6B76" text-anchor="start">Editionsphilologie</text>
+<g fill="#3F6FB0"><circle cx="83.0" cy="117.0" r="9.0"/><path d="M68.0,147.0 Q68.0,129.0 83.0,129.0 Q98.0,129.0 98.0,147.0 Z"/></g>
+<g fill="#3F6FB0"><circle cx="125.0" cy="117.0" r="9.0"/><path d="M110.0,147.0 Q110.0,129.0 125.0,129.0 Q140.0,129.0 140.0,147.0 Z"/></g>
+<g fill="#3F6FB0"><circle cx="167.0" cy="117.0" r="9.0"/><path d="M152.0,147.0 Q152.0,129.0 167.0,129.0 Q182.0,129.0 182.0,147.0 Z"/></g>
+<text x="20" y="216" font-size="18" font-weight="600" fill="#24303A" text-anchor="start">Variantenkritik</text>
+<path d="M20,230 L200.8,230 Q204.8,230 204.8,234 L204.8,256 Q204.8,260 200.8,260 L20,260 Z" fill="#3F6FB0"/>
+<text x="20" y="304" font-size="18" font-weight="600" fill="#24303A" text-anchor="start">Namens-/Ortsindex</text>
+<path d="M20,318 L66.4,318 Q70.4,318 70.4,322 L70.4,344 Q70.4,348 66.4,348 L20,348 Z" fill="#B58A3A"/>
+<rect x="275" y="0" width="250" height="430" rx="18" fill="#EEF1F4"/>
+<text x="295" y="40" font-size="22" font-weight="700" fill="#000000" text-anchor="start">Neue Nutzung</text>
+<text x="295" y="68" font-size="18" font-weight="400" fill="#5F6B76" text-anchor="start">Genealogie-Communities</text>
+<g fill="#3F6FB0"><circle cx="316.0" cy="117.0" r="9.0"/><path d="M301.0,147.0 Q301.0,129.0 316.0,129.0 Q331.0,129.0 331.0,147.0 Z"/></g>
+<g fill="#B58A3A"><circle cx="358.0" cy="117.0" r="9.0"/><path d="M343.0,147.0 Q343.0,129.0 358.0,129.0 Q373.0,129.0 373.0,147.0 Z"/></g>
+<g fill="#B58A3A"><circle cx="400.0" cy="117.0" r="9.0"/><path d="M385.0,147.0 Q385.0,129.0 400.0,129.0 Q415.0,129.0 415.0,147.0 Z"/></g>
+<g fill="#B58A3A"><circle cx="442.0" cy="117.0" r="9.0"/><path d="M427.0,147.0 Q427.0,129.0 442.0,129.0 Q457.0,129.0 457.0,147.0 Z"/></g>
+<g fill="#B58A3A"><circle cx="484.0" cy="117.0" r="9.0"/><path d="M469.0,147.0 Q469.0,129.0 484.0,129.0 Q499.0,129.0 499.0,147.0 Z"/></g>
+<text x="295" y="216" font-size="18" font-weight="600" fill="#24303A" text-anchor="start">Variantenkritik</text>
+<path d="M295,230 L475.8,230 Q479.8,230 479.8,234 L479.8,256 Q479.8,260 475.8,260 L295,260 Z" fill="#3F6FB0"/>
+<text x="295" y="304" font-size="18" font-weight="600" fill="#24303A" text-anchor="start">Namens-/Ortsindex</text>
+<path d="M295,318 L341.4,318 Q345.4,318 345.4,322 L345.4,344 Q345.4,348 341.4,348 L295,348 Z" fill="#B58A3A"/>
+<rect x="550" y="0" width="250" height="430" rx="18" fill="#EEF1F4"/>
+<text x="570" y="40" font-size="22" font-weight="700" fill="#000000" text-anchor="start">Anpassung</text>
+<text x="570" y="68" font-size="18" font-weight="400" fill="#5F6B76" text-anchor="start">Infrastruktur folgt</text>
+<g fill="#3F6FB0"><circle cx="591.0" cy="117.0" r="9.0"/><path d="M576.0,147.0 Q576.0,129.0 591.0,129.0 Q606.0,129.0 606.0,147.0 Z"/></g>
+<g fill="#B58A3A"><circle cx="633.0" cy="117.0" r="9.0"/><path d="M618.0,147.0 Q618.0,129.0 633.0,129.0 Q648.0,129.0 648.0,147.0 Z"/></g>
+<g fill="#B58A3A"><circle cx="675.0" cy="117.0" r="9.0"/><path d="M660.0,147.0 Q660.0,129.0 675.0,129.0 Q690.0,129.0 690.0,147.0 Z"/></g>
+<g fill="#B58A3A"><circle cx="717.0" cy="117.0" r="9.0"/><path d="M702.0,147.0 Q702.0,129.0 717.0,129.0 Q732.0,129.0 732.0,147.0 Z"/></g>
+<g fill="#B58A3A"><circle cx="759.0" cy="117.0" r="9.0"/><path d="M744.0,147.0 Q744.0,129.0 759.0,129.0 Q774.0,129.0 774.0,147.0 Z"/></g>
+<text x="570" y="216" font-size="18" font-weight="600" fill="#24303A" text-anchor="start">Variantenkritik</text>
+<path d="M570,230 L629.0,230 Q633.0,230 633.0,234 L633.0,256 Q633.0,260 629.0,260 L570,260 Z" fill="#3F6FB0"/>
+<text x="570" y="304" font-size="18" font-weight="600" fill="#24303A" text-anchor="start">Namens-/Ortsindex</text>
+<path d="M570,318 L759.2,318 Q763.2,318 763.2,322 L763.2,344 Q763.2,348 759.2,348 L570,348 Z" fill="#B58A3A"/>
+<line x1="254" y1="128" x2="264.0" y2="128.0" stroke="#24303A" stroke-width="3" stroke-linecap="round"/><polygon points="272.0,128.0 263.3,133.0 263.3,123.0" fill="#24303A"/>
+<line x1="529" y1="128" x2="539.0" y2="128.0" stroke="#24303A" stroke-width="3" stroke-linecap="round"/><polygon points="547.0,128.0 538.3,133.0 538.3,123.0" fill="#24303A"/>
+<g fill="#3F6FB0"><circle cx="10" cy="459.3" r="6.3"/><path d="M-0.5,480.3 Q-0.5,467.7 10.0,467.7 Q20.5,467.7 20.5,480.3 Z"/></g><text x="30" y="476" font-size="20" font-weight="400" fill="#24303A" text-anchor="start">Philolog*innen</text>
+<g fill="#B58A3A"><circle cx="270" cy="459.3" r="6.3"/><path d="M259.5,480.3 Q259.5,467.7 270.0,467.7 Q280.5,467.7 280.5,480.3 Z"/></g><text x="290" y="476" font-size="20" font-weight="400" fill="#24303A" text-anchor="start">Familienforschende</text>
+<text x="0" y="532" font-size="24" font-weight="400" text-anchor="start"><tspan fill="#8A6422" font-weight="700">Variantenkritik</tspan><tspan fill="#24303A" font-weight="400"> wird erst mit der Zeit an den Rand gedrängt</tspan></text>
+</svg>
