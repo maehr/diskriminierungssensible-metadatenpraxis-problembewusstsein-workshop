@@ -1,0 +1,10 @@
+# Ignore files for Prettier
+
+LICENSE-AGPL.md
+LICENSE-CCBYSA.md
+CHANGELOG.md
+package-lock.json
+uv.lock
+_site/
+.quarto/
+slides/folien.qmd

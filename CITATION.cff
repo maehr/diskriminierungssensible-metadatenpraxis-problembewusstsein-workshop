@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+title: 'Diskriminierungssensible Metadatenpraxis. OER für einen Hands-on-Kurs'
+message: >-
+  Wenn Sie diese Open Educational Resource verwenden, zitieren Sie sie mit den
+  Angaben aus dieser Datei.
+authors:
+  - family-names: Mähr
+    given-names: Moritz
+    orcid: 'https://orcid.org/0000-0002-1367-1618'
+    affiliation: 'Universität Bern, Digital Humanities'
+  - family-names: Schnegg
+    given-names: Noëlle
+    orcid: 'https://orcid.org/0009-0008-5207-6652'
+    affiliation: Sciences Po
+version: 0.1.0
+date-released: '2026-10-06'
+url: 'https://maehr.github.io/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop/'
+repository-code: 'https://github.com/maehr/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop'
+license: CC-BY-SA-4.0
+abstract: >-
+  Open Educational Resource mit allen Materialien, um einen 60- bis 90-minütigen
+  Hands-on-Kurs zu diskriminierungssensibler Metadatenpraxis selbstständig
+  durchzuführen: Facilitator Guide, Abläufe für 60, 75 und 90 Minuten,
+  Foliendeck, Metadaten-Audit, Fallkarten und Transfer-Karte.
+keywords:
+  - Metadaten
+  - Diskriminierung
+  - Bias
+  - Intersektionalität
+  - GLAM
+  - Forschungsdaten
+  - Open Educational Resource
+references:
+  - type: book
+    title: 'Diskriminierungssensible Metadatenpraxis'
+    authors:
+      - family-names: Mähr
+        given-names: Moritz
+    url: 'https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/'

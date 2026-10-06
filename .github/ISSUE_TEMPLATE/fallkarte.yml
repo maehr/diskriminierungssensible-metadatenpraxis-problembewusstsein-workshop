@@ -1,0 +1,38 @@
+name: Fallkarte vorschlagen
+description: Schlagen Sie ein neues Beispiel für eine Fallkarte vor.
+title: 'Fallkarte: '
+labels: [fallkarte]
+body:
+  - type: markdown
+    attributes:
+      value: Verwenden Sie nur öffentlich zugängliche Datensätze. Schreiben Sie diskriminierende Begriffe nur aus, wenn es für das Verständnis nötig ist.
+  - type: input
+    id: datensatz
+    attributes:
+      label: Link zum Datensatz
+    validations:
+      required: true
+  - type: dropdown
+    id: falltyp
+    attributes:
+      label: Falltyp
+      options:
+        - Fehlende Kontextualisierung
+        - Historische Bezeichnung
+        - Kontrolliertes Vokabular
+        - Struktureller Bias im Datenmodell
+        - Sensible Inhalte
+        - Anderer
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Was macht das Beispiel lehrreich?
+    validations:
+      required: true
+  - type: input
+    id: sparte
+    attributes:
+      label: Sparte
+      description: Zum Beispiel Archiv, Bibliothek, Museum, Forschungsdaten.

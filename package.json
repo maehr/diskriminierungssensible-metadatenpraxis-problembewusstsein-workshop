@@ -1,0 +1,34 @@
+{
+  "name": "diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop",
+  "private": true,
+  "description": "Open Educational Resource für einen 60–90-minütigen Hands-on-Kurs zu diskriminierungssensibler Metadatenpraxis.",
+  "author": "Moritz Mähr",
+  "contributors": [
+    "Noëlle Schnegg"
+  ],
+  "homepage": "https://maehr.github.io/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop/",
+  "bugs": "https://github.com/maehr/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop/issues",
+  "license": "AGPL-3.0-only",
+  "type": "module",
+  "scripts": {
+    "check": "prettier --check . && uv run ruff check scripts && uv run ruff format --check scripts",
+    "format": "prettier --write . && uv run ruff format scripts",
+    "prepare": "prek install --hook-type pre-commit --hook-type commit-msg",
+    "preview": "quarto preview",
+    "site:build": "quarto render",
+    "site:archive": "uv run python scripts/release_site_archive.py",
+    "release:prepare": "npm run site:build && npm run site:archive -- --stage",
+    "slides:pdf": "npx --yes decktape@3.16.1 reveal --size 1600x900 _site/slides/folien.html slides/folien.pdf",
+    "changelog": "git-cliff --config cliff.toml",
+    "changelog:unreleased": "git-cliff --config cliff.toml --unreleased --strip all",
+    "lychee-check": "lychee --config .lycheerc.toml './**/*.md' './**/*.qmd'"
+  },
+  "devDependencies": {
+    "@j178/prek": "0.5.5",
+    "git-cliff": "2.14.2",
+    "prettier": "3.9.9"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}

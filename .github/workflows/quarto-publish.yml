@@ -1,0 +1,100 @@
+name: Render and Publish
+
+on:
+  push:
+    # feat/workshop-oer deploys a preview of the content before the merge. Remove it after the merge.
+    branches: [main, feat/workshop-oer]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    name: Check formatting and lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - name: Set up uv
+        uses: astral-sh/setup-uv@c18668ad3cf93ea998bef934396af7bb5c839dc7 # v10.2.0
+
+      - name: Install dependencies
+        run: |
+          npm ci --ignore-scripts
+          uv sync --locked
+
+      - name: Run the gate
+        run: npm run check
+
+  build:
+    name: Render site
+    runs-on: ubuntu-latest
+    outputs:
+      site: ${{ steps.site.outputs.present }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      # A branch without a Quarto project (main before the first content merge) builds nothing.
+      - name: Detect Quarto project
+        id: site
+        run: |
+          if [ -f _quarto.yml ]; then
+            echo "present=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "present=false" >> "$GITHUB_OUTPUT"
+            echo "No _quarto.yml on this branch. Nothing to render."
+          fi
+
+      - name: Set up Quarto
+        if: steps.site.outputs.present == 'true'
+        uses: quarto-dev/quarto-actions/setup@8a96df13519ee81fd526f2dfca5962811136661b # v2.2.0
+        env:
+          GH_TOKEN: ${{ github.token }}
+        with:
+          version: 1.10.18
+
+      - name: Render Quarto project
+        if: steps.site.outputs.present == 'true'
+        run: quarto render
+
+      - name: Upload Pages artifact
+        if: steps.site.outputs.present == 'true'
+        uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
+        with:
+          path: _site
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: [check, build]
+    # The github-pages Environment limits which branches can deploy.
+    if: github.event_name != 'pull_request' && needs.build.outputs.site == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1

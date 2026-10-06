@@ -1,0 +1,19 @@
+# prek hooks: https://prek.j178.dev/
+
+[[repos]]
+repo = "local"
+
+[[repos.hooks]]
+id = "check"
+name = "npm run check"
+entry = "npm run check"
+language = "system"
+pass_filenames = false
+stages = ["pre-commit"]
+
+[[repos.hooks]]
+id = "commitizen"
+name = "cz check"
+entry = "uv run cz check --allow-abort --commit-msg-file"
+language = "system"
+stages = ["commit-msg"]

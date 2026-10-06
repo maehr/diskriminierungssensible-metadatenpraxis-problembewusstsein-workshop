@@ -1,0 +1,23 @@
+# Lychee configuration for link checking
+# https://lychee.cli.rs/guides/config/
+
+# The site does not exist before the first deployment.
+# Sites that block automated requests produce false errors.
+exclude = [
+  "^https://maehr\\.github\\.io/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop",
+  "^https://github\\.com/maehr/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop",
+  "^https://dls\\.staatsarchiv\\.bs\\.ch/",
+  "^https://www\\.contributor-covenant\\.org/faq",
+]
+
+# Local links to rendered files (PDF, DOCX, HTML) exist only in _site/.
+exclude_path = ["_site", "node_modules", ".venv", "SPECS.md"]
+scheme = ["https", "http"]
+
+timeout = 20
+max_retries = 2
+format = "compact"
+no_progress = true
+cache = true
+max_cache_age = "7d"
+accept = ["100..=103", "200..=299", "429"]

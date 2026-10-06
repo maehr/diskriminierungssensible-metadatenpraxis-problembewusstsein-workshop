@@ -1,0 +1,43 @@
+name: Feedback zum Workshop
+description: Berichten Sie, wie die Durchführung mit dieser OER funktioniert hat.
+title: 'Feedback: '
+labels: [feedback]
+body:
+  - type: markdown
+    attributes:
+      value: Danke, dass Sie Ihre Erfahrung teilen. Ihre Rückmeldung verbessert die OER.
+  - type: dropdown
+    id: rolle
+    attributes:
+      label: Ihre Rolle
+      options:
+        - Kursleitung
+        - Teilnahme
+        - Andere
+    validations:
+      required: true
+  - type: dropdown
+    id: format
+    attributes:
+      label: Zeitformat
+      options:
+        - 60 Minuten
+        - 75 Minuten
+        - 90 Minuten
+        - Selbststudium
+        - Anderes
+  - type: input
+    id: kontext
+    attributes:
+      label: Kontext
+      description: Zum Beispiel Archiv, Bibliothek, Museum, Forschungsprojekt, Lehre. Bitte keine vertraulichen Angaben.
+  - type: textarea
+    id: gut
+    attributes:
+      label: Was hat funktioniert?
+  - type: textarea
+    id: verbessern
+    attributes:
+      label: Was sollten wir verbessern?
+    validations:
+      required: true

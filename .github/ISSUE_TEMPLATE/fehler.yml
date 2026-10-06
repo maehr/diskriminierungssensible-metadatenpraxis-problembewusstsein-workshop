@@ -1,0 +1,25 @@
+name: Fehler im Material
+description: Ein Tippfehler, ein falscher Link oder eine sachlich falsche Angabe.
+title: 'Fehler: '
+labels: [documentation]
+body:
+  - type: input
+    id: link
+    attributes:
+      label: Link zur Seite oder Datei
+    validations:
+      required: true
+  - type: textarea
+    id: beschreibung
+    attributes:
+      label: Beschreibung des Fehlers
+      description: Was ist falsch? Was wäre richtig? Nennen Sie wenn möglich eine Quelle.
+    validations:
+      required: true
+  - type: dropdown
+    id: pr
+    attributes:
+      label: Können Sie einen Pull Request mit der Korrektur erstellen?
+      options:
+        - 'Ja'
+        - 'Nein'

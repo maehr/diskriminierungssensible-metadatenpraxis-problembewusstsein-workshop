@@ -1,0 +1,3 @@
+# Maintainers review every change. Workflow changes need explicit owner review.
+* @maehr
+/.github/workflows/** @maehr

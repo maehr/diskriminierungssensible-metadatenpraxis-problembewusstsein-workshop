@@ -1,0 +1,25 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Notebooks and data
+*.ipynb text eol=lf
+*.csv   text
+
+# Binary files
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.gif    binary
+*.ico    binary
+*.pdf    binary
+*.zip    binary
+*.rds    binary
+*.RData  binary
+*.Rdata  binary
+*.rda    binary
+*.db     binary
+*.pkl    binary
+*.pickle binary
+*.mp4    binary
+*.jpg    binary
+*.vtt    text eol=lf

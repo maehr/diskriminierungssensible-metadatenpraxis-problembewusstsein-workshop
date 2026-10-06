@@ -1,0 +1,30 @@
+# Quarto
+/.quarto/
+**/*.quarto_ipynb
+_site/
+/_freeze/
+**/*_files/
+**/*.html
+
+# Lychee link checker cache
+.lycheecache
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Python (uv, ruff)
+.venv/
+__pycache__/
+*.py[cod]
+.ruff_cache/
+
+# Secrets
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Raw Zoom recordings stay outside git. assets/video/ holds the published cut.
+/GMT*_Recording*.mp4

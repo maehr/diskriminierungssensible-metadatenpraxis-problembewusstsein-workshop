@@ -1,0 +1,44 @@
+name: Attach Rendered Site to Release
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: read
+
+jobs:
+  build-and-attach:
+    name: Build site and upload release asset
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@8a96df13519ee81fd526f2dfca5962811136661b # v2.2.0
+        env:
+          GH_TOKEN: ${{ github.token }}
+        with:
+          version: 1.10.18
+
+      - name: Set up uv
+        uses: astral-sh/setup-uv@c18668ad3cf93ea998bef934396af7bb5c839dc7 # v10.2.0
+
+      - name: Render Quarto project
+        run: quarto render
+
+      - name: Build site archive
+        env:
+          RELEASE_TAG: ${{ github.event.release.tag_name }}
+        run: uv run --locked python scripts/release_site_archive.py --tag "$RELEASE_TAG"
+
+      - name: Upload release asset
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_TAG: ${{ github.event.release.tag_name }}
+        run: gh release upload "$RELEASE_TAG" release-artifacts/site-*.zip --repo "$GITHUB_REPOSITORY"

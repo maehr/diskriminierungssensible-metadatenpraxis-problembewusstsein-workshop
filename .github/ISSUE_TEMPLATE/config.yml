@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Website der OER
+    url: https://maehr.github.io/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop/
+    about: Alle Materialien für den Workshop.
+  - name: Handbuch Diskriminierungssensible Metadatenpraxis
+    url: https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/
+    about: Das Referenzwerk mit Begriffen, Hintergründen und Checklisten.

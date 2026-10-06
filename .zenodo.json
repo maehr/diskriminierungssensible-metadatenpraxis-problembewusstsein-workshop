@@ -1,0 +1,35 @@
+{
+  "title": "Diskriminierungssensible Metadatenpraxis. OER für einen Hands-on-Kurs",
+  "upload_type": "lesson",
+  "description": "<p>Open Educational Resource mit allen Materialien, um einen 60- bis 90-minütigen Hands-on-Kurs zu diskriminierungssensibler Metadatenpraxis selbstständig durchzuführen: Facilitator Guide, Abläufe für 60, 75 und 90 Minuten, Foliendeck, Metadaten-Audit, Fallkarten und Transfer-Karte.</p>",
+  "creators": [
+    {
+      "name": "Mähr, Moritz",
+      "affiliation": "Universität Bern, Digital Humanities",
+      "orcid": "0000-0002-1367-1618"
+    },
+    {
+      "name": "Schnegg, Noëlle",
+      "affiliation": "Sciences Po",
+      "orcid": "0009-0008-5207-6652"
+    }
+  ],
+  "license": "cc-by-sa-4.0",
+  "language": "deu",
+  "keywords": [
+    "Metadaten",
+    "Diskriminierung",
+    "Bias",
+    "Intersektionalität",
+    "GLAM",
+    "Forschungsdaten",
+    "Open Educational Resource"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-book"
+    }
+  ]
+}
