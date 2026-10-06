@@ -1,0 +1,34 @@
+---
+title: Materialien herunterladen
+description: Alle Materialien der OER als PDF, DOCX und HTML.
+---
+
+Diese Seite sammelt alle Dateien zum Herunterladen. PDF-Dateien eignen sich zum Ausdrucken. DOCX-Dateien können Sie mit einer Textverarbeitung an Ihren Kontext anpassen.
+
+## Für Teilnehmende
+
+| Material                                                                                         |                                 PDF                                 |                                 DOCX                                  |
+| :----------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------: | :-------------------------------------------------------------------: |
+| [Metadaten-Audit](../hands-on/metadaten-audit.qmd)                                               |               [PDF](../hands-on/metadaten-audit.pdf)                |               [DOCX](../hands-on/metadaten-audit.docx)                |
+| [Eigenes Beispiel verwenden](../hands-on/eigenes-beispiel.qmd)                                   |               [PDF](../hands-on/eigenes-beispiel.pdf)               |               [DOCX](../hands-on/eigenes-beispiel.docx)               |
+| [Fall 1: Fehlende Kontextualisierung](../hands-on/fallbeispiele/fall-1-kontextualisierung.qmd)   |   [PDF](../hands-on/fallbeispiele/fall-1-kontextualisierung.pdf)    |   [DOCX](../hands-on/fallbeispiele/fall-1-kontextualisierung.docx)    |
+| [Fall 2: Historische Bezeichnung](../hands-on/fallbeispiele/fall-2-historische-bezeichnung.qmd)  | [PDF](../hands-on/fallbeispiele/fall-2-historische-bezeichnung.pdf) | [DOCX](../hands-on/fallbeispiele/fall-2-historische-bezeichnung.docx) |
+| [Fall 3: Kontrolliertes Vokabular und Normdaten](../hands-on/fallbeispiele/fall-3-normdaten.qmd) |        [PDF](../hands-on/fallbeispiele/fall-3-normdaten.pdf)        |        [DOCX](../hands-on/fallbeispiele/fall-3-normdaten.docx)        |
+| [Fall 4: Struktureller Bias im Datenmodell](../hands-on/fallbeispiele/fall-4-datenmodell.qmd)    |       [PDF](../hands-on/fallbeispiele/fall-4-datenmodell.pdf)       |       [DOCX](../hands-on/fallbeispiele/fall-4-datenmodell.docx)       |
+| [Fall 5: Sensible Inhalte](../hands-on/fallbeispiele/fall-5-sensible-inhalte.qmd)                |    [PDF](../hands-on/fallbeispiele/fall-5-sensible-inhalte.pdf)     |    [DOCX](../hands-on/fallbeispiele/fall-5-sensible-inhalte.docx)     |
+| [Transfer-Karte](../nach-dem-kurs/transfer.qmd)                                                  |                [PDF](../nach-dem-kurs/transfer.pdf)                 |                [DOCX](../nach-dem-kurs/transfer.docx)                 |
+
+## Für Kursleitende
+
+| Material                                                      | Datei                                |
+| :------------------------------------------------------------ | :----------------------------------- |
+| Foliendeck, eigenständige HTML-Datei (funktioniert offline)   | [HTML](../slides/folien.html)        |
+| Foliendeck zum Ausdrucken                                     | [PDF](../slides/folien.pdf)          |
+| [Video des Inputs](../input/video.qmd), 14:40 Minuten         | [MP4](../assets/video/input.mp4)     |
+| [Hinweise zu den Fallkarten](../kurs/hinweise-fallkarten.qmd) | Webseite; im Browser als PDF drucken |
+
+## Alles auf einmal
+
+Jede Version der OER erscheint als Release auf GitHub. Jedes Release enthält die vollständige Website als ZIP-Archiv. Sie können sie entpacken und offline im Browser öffnen.
+
+- [Releases auf GitHub](https://github.com/maehr/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop/releases)

@@ -1,0 +1,30 @@
+---
+title: Feedback und Beiträge
+description: Wie Sie Fehler melden, Rückmeldungen geben und neue Fallkarten vorschlagen.
+---
+
+Die OER lebt von Erfahrungen aus der Praxis. Rückmeldungen von Kursleitenden und Teilnehmenden verbessern sie.
+
+## Rückmeldung geben
+
+Melden Sie sich über die [Issues im GitHub-Repository](https://github.com/maehr/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop/issues/new/choose). Es gibt Vorlagen für:
+
+- **Feedback zum Workshop:** Was hat in Ihrer Durchführung funktioniert, was nicht?
+- **Fehler im Material:** ein Tippfehler, ein falscher Link oder eine sachlich falsche Angabe;
+- **Fallkarte vorschlagen:** ein neues Beispiel aus Ihrer Sparte.
+
+Jede Seite dieser Website hat zudem rechts die Links «Seite bearbeiten» und «Problem melden».
+
+## Beiträge
+
+Sie können Änderungen direkt als Pull Request einreichen. Die Datei [CONTRIBUTING.md](https://github.com/maehr/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop/blob/main/CONTRIBUTING.md) beschreibt den Ablauf. Für alle Beiträge gilt der [Verhaltenskodex](https://github.com/maehr/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop/blob/main/CODE_OF_CONDUCT.md).
+
+Neue Fallkarten sind besonders willkommen. Eine Fallkarte braucht:
+
+- Ausgangsmaterial mit einem Link auf den Originaldatensatz;
+- Kontext;
+- einen Arbeitsauftrag;
+- mögliche Analysepunkte;
+- Hinweise für Kursleitende.
+
+Verwenden Sie nur öffentlich zugängliche Datensätze. Decken Sie diskriminierende Begriffe in Screenshots ab, wenn die Analyse sie nicht braucht.

@@ -1,0 +1,62 @@
+---
+title: Arbeitshilfen
+description: Die Checklisten des Handbuchs, zugeordnet zu den Themen und Schritten des Workshops.
+---
+
+Das [Handbuch](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/) enthält ausführliche Checklisten. Das [Metadaten-Audit](../hands-on/metadaten-audit.qmd) ersetzt sie nicht. Es dient als kompakter Einstieg und als Navigationshilfe. Diese Seite zeigt, welche Checkliste zu welchem Thema und zu welchem Schritt des Audits passt.
+
+Verwenden Sie die Checklisten zur Vertiefung: im 90-Minuten-Format während der Umsetzung oder nach dem Workshop in der eigenen Praxis.
+
+## Kritische Fragen an bestehende Metadaten {#sec-kritische-fragen}
+
+**Thema:** Primärerschliessung und Nachnutzung.
+
+**Wofür:** Sie prüfen Metadaten, die andere erstellt haben, bevor Sie sie übernehmen oder weiterverwenden.
+
+**Im Audit:** Schritt B (Hinterfragen) und die Prüfschritte «Herkunft» und «Auswahl».
+
+Handbuch: [2.1 Primärerschliessung vs. Nachnutzung](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-21-primärerschliessung-vs.-nachnutzung)
+
+## Re-Use {#sec-re-use}
+
+**Thema:** Primärerschliessung und Nachnutzung.
+
+**Wofür:** Sie übernehmen Daten oder Beschreibungen aus anderen Quellen und dokumentieren, was Sie übernommen und verändert haben.
+
+**Im Audit:** Schritt B (Hinterfragen) und der Prüfschritt «Dokumentation».
+
+Handbuch: [Checkliste Re-Use in Abschnitt 2.1](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-21-primärerschliessung-vs.-nachnutzung)
+
+## Kontextualisierung {#sec-kontextualisierung}
+
+**Thema:** Kontextualisierung der Quellen.
+
+**Wofür:** Sie ergänzen historische, soziale und institutionelle Zusammenhänge, die zum Verständnis eines Datensatzes nötig sind.
+
+**Im Audit:** Schritt C (Kontextualisieren) und die Prüfschritte «Kontext» und «Perspektiven».
+
+Handbuch: [2.2 Kontextualisierung der Quellen](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-22-kontextualisierung-der-quellen)
+
+## Beschreibung {#sec-beschreibung}
+
+**Thema:** Beschreibung und Verschlagwortung.
+
+**Wofür:** Sie formulieren Titel, Beschreibungen und Schlagwörter oder überarbeiten bestehende.
+
+**Im Audit:** Schritt D (Entscheiden) und die Prüfschritte «Sprache» und «Intersektionalität».
+
+Handbuch: [3.2 Beschreibung und Verschlagwortung](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-32-beschreibung-und-verschlagwortung)
+
+## Sensible und diskriminierende Inhalte {#sec-sensible-inhalte}
+
+**Thema:** Umgang mit sensiblen und diskriminierenden Inhalten.
+
+**Wofür:** Sie entscheiden, wie Sie Inhalte veröffentlichen, die Personen oder Gruppen schaden können. Mögliche Handlungsoptionen sind: Kontext ergänzen, eine Content Note hinzufügen, die Darstellung verändern, den Zugriff differenzieren, sensible Informationen reduzieren und die Entscheidung dokumentieren.
+
+**Im Audit:** Schritt D (Entscheiden) und die Prüfschritte «Sensibilität» und «Entscheidung».
+
+Handbuch: [5.2 Umgang mit sensiblen und diskriminierenden Inhalten](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-52-umgang-mit-sensiblen-und-diskriminierenden-inhalten)
+
+## Alle Checklisten
+
+Das Handbuch fasst alle Checklisten im Anhang zusammen: [Checkliste](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-checkliste).
