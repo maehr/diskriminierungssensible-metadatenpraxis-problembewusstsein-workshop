@@ -11,6 +11,8 @@ exclude = [
   # gnu.org and fsf.org time out for GitHub runners.
   "^https://(www\\.)?gnu\\.org/",
   "^https://(www\\.)?fsf\\.org/",
+  # ACM and BMJ answer automated DOI requests with 403.
+  "^https://doi\\.org/10\\.(1145|1136)/",
 ]
 
 # Local links to rendered files (PDF, DOCX, HTML) exist only in _site/.
