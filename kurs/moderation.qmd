@@ -1,0 +1,83 @@
+---
+title: Hinweise für Kursleitende
+description: Moderationsprinzipien, Fragen für die Gruppenarbeit und der Umgang mit schwierigen Diskussionen.
+---
+
+Diese Seite sammelt die Grundsätze für die Moderation. Sie hilft besonders in der Gruppenarbeit und im Plenum, wenn Diskussionen über Begriffe festfahren.
+
+## Moderationsprinzipien
+
+Als Kursleitende:
+
+- unterscheiden Sie zwischen Beobachtung und Bewertung;
+- machen Sie unterschiedliche Handlungsoptionen sichtbar;
+- suggerieren Sie keine universelle «richtige» Lösung;
+- fragen Sie nach Auswirkungen;
+- lassen Sie Unsicherheiten zu;
+- berücksichtigen Sie institutionelle Rahmenbedingungen;
+- nehmen Sie Selbstbezeichnungen und Perspektiven betroffener Gruppen ernst;
+- machen Sie Entscheidungen dokumentierbar.
+
+## Fragen statt «Welcher Begriff ist richtig?»
+
+Diskussionen über problematische Begriffe kreisen oft um die Frage nach dem richtigen Begriff. Diese Frage führt selten weiter. Stellen Sie stattdessen diese Fragen:
+
+- Auf welcher Ebene wird der Begriff verwendet: Quelle, Transkription, Beschreibung oder Indexierung?
+- Wer verwendet ihn?
+- Für welchen Zweck?
+- Welche Alternativen existieren?
+- Welche Auswirkungen haben die Optionen?
+- Was muss erhalten bleiben?
+- Was muss erklärt werden?
+- Wer sollte an der Entscheidung beteiligt sein?
+
+## Historische Begriffe: bewahren oder korrigieren? {#sec-historische-begriffe}
+
+Diese Frage taucht in fast jeder Gruppenarbeit auf. Behandeln Sie sie als Entscheidungsdilemma, nicht als Wissensfrage. Diese Spannungsfelder helfen bei der Diskussion:
+
+- Quellentreue;
+- historische Nachvollziehbarkeit;
+- Auffindbarkeit;
+- heutige respektvolle Benennung;
+- Selbstbezeichnungen;
+- potenzielle Verletzungen;
+- Dokumentation von Änderungen;
+- unterschiedliche Ebenen von Quelle, Transkription, Beschreibung und Indexierung.
+
+Das Handbuch vertieft das Thema im Abschnitt [Historische Begriffe: Bewahren oder Korrigieren?](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-historische-begriffe).
+
+## Umgang mit schwierigen Diskussionen
+
+Der Workshop berührt Diskriminierung. Diskussionen können deshalb persönlich werden. Die [Content Note](content-note.qmd) setzt den Rahmen. Diese Situationen kommen häufig vor:
+
+**Jemand wiederholt einen diskriminierenden Begriff ohne analytischen Grund.**
+: Erinnern Sie freundlich an die Content Note. Schlagen Sie eine Umschreibung vor, zum Beispiel «der Begriff im Titel».
+
+**Jemand berichtet von eigenen Diskriminierungserfahrungen.**
+: Nehmen Sie den Beitrag ernst und bedanken Sie sich. Fragen Sie nicht nach. Niemand muss persönliche Erfahrungen teilen.
+
+**Die Diskussion bewertet einzelne Personen moralisch.**
+: Lenken Sie zurück auf Praktiken und Strukturen: Welche Standards, Routinen oder Rahmenbedingungen haben zu dieser Beschreibung geführt?
+
+**Die Gruppe verlangt die richtige Lösung.**
+: Zeigen Sie mindestens zwei Optionen und ihre Auswirkungen. Fragen Sie, unter welchen Bedingungen welche Option besser passt.
+
+**Die Gruppe hält das Beispiel für unproblematisch.**
+: Fragen Sie nach Leerstellen, Kategorien und Nachnutzung: Wer findet den Datensatz nicht? Was passiert, wenn ein anderes System die Daten übernimmt?
+
+**Eine Person zieht sich zurück.**
+: Respektieren Sie das. Bieten Sie bei Bedarf eine andere Fallkarte oder eine andere Rolle in der Gruppe an, zum Beispiel die Dokumentation.
+
+**Die Zeit reicht nicht.**
+: Notieren Sie offene Fragen sichtbar auf einer Liste. Verweisen Sie auf das Handbuch und auf die Transferphase.
+
+## Transfer- und Abschlussfragen
+
+Verwenden Sie diese Fragen in der Transferphase und im Abschluss:
+
+- Welchen problematischen oder potenziell problematischen Aspekt haben Sie im Beispiel benannt?
+- Warum ist dieser Aspekt relevant?
+- Welche alternative Handlungsoption haben Sie formuliert? Wie begründen Sie sie?
+- Wer sollte an dieser Entscheidung beteiligt sein?
+- Eine Sache, die ich künftig bei Daten oder Metadaten prüfen werde.
+- Eine Sache, die wir in unserem Projekt oder unserer Institution diskutieren sollten.

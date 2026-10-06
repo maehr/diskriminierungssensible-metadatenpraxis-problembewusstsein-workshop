@@ -1,0 +1,22 @@
+---
+title: Content Note
+description: Eine wiederverwendbare Content Note für Einladung, Einstieg und Fallkarten.
+---
+
+Die Content Note macht transparent, dass der Workshop mit diskriminierenden Inhalten arbeitet. Sie legt Grundsätze für den Umgang damit fest. Verwenden Sie den Text unverändert oder passen Sie ihn an Ihren Kontext an.
+
+{{< include /_partials/content-note.qmd >}}
+
+## Wann Sie die Content Note einsetzen
+
+::: {.schritte}
+
+1. **In der Einladung:** Die Teilnehmenden wissen vorab, was sie erwartet.
+2. **Zu Beginn des Workshops:** Lesen Sie die Content Note in den ersten fünf Minuten vor.
+3. **Vor sensiblen Fallkarten:** Die Fallkarten [Historische Bezeichnung](../hands-on/fallbeispiele/fall-2-historische-bezeichnung.qmd) und [Sensible Inhalte](../hands-on/fallbeispiele/fall-5-sensible-inhalte.qmd) enthalten die Content Note bereits.
+
+:::
+
+## Wie diese OER mit diskriminierenden Begriffen umgeht
+
+Die OER zeigt diskriminierende Begriffe nur, wenn die Analyse sie braucht. In den Screenshots der Fallkarten ist ein rassistischer Begriff teilweise abgedeckt. Die Fallkarten verlinken die Originaldatensätze. Dort ist der Begriff vollständig sichtbar.

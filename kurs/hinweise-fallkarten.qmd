@@ -1,0 +1,103 @@
+---
+title: Hinweise zu den Fallkarten
+description: Mögliche Befunde, Handlungsoptionen und Moderationshinweise zu den fünf Fallkarten.
+---
+
+Diese Seite ergänzt die [Fallkarten](../hands-on/fallbeispiele/index.qmd). Sie nennt mögliche Befunde und Handlungsoptionen. Die Listen sind keine Musterlösungen. Gruppen kommen oft zu anderen, ebenso gut begründeten Ergebnissen. Geben Sie diese Seite nicht an Teilnehmende weiter.
+
+Die Befunde beruhen auf den Screenshots in den Fallkarten. Originaldatensätze können sich seither geändert haben. Prüfen Sie die verlinkten Datensätze vor dem Workshop.
+
+## Fall 1: Plakat «Knie Völkerschau» {#sec-fall-1}
+
+**Mögliche Befunde**
+
+- Der Titel übernimmt den Plakattext «Knie Völkerschau». Die Metadaten erklären nicht, was eine Völkerschau war.
+- Die Beschreibung «drei Handwerker bei der Arbeit» beschreibt das Motiv, aber nicht seine Funktion: Das Plakat wirbt dafür, Menschen zur Schau zu stellen.
+- Die Einordnung erfolgt nur als Zirkusplakat. Schlagwörter zu Völkerschau oder Kolonialismus fehlen im sichtbaren Ausschnitt.
+- Die Datierung «1969?» macht Unsicherheit sichtbar. Das ist eine gute Praxis.
+- Das Feld «Topic» enthält einen Dateinamen. Felder enthalten nicht immer, was ihr Name verspricht.
+
+**Mögliche Handlungsoptionen**
+
+- Eine Kontextinformation zu Völkerschauen ergänzen, mit Verweis auf Forschungsliteratur.
+- Schlagwörter ergänzen, die das Plakat auffindbar machen, wenn jemand zu Völkerschauen forscht.
+- Die Bildbeschreibung um die Darstellungsweise ergänzen: Wie stellt das Plakat die abgebildeten Personen dar?
+
+**Moderationshinweis:** Gruppen nehmen diesen Datensatz oft zuerst als unproblematisch wahr. Fragen Sie: Wer findet das Plakat, wer nicht? Was weiss eine Person, die nur die Metadaten liest?
+
+## Fall 2: Dossier BSL 1001 N 2.13 {#sec-fall-2}
+
+**Mögliche Befunde**
+
+- Der Dossiertitel enthält eine koloniale, rassistische Fremdbezeichnung. Die Anführungszeichen markieren ihn vermutlich als Quellenbegriff. Die Oberfläche erklärt das nicht.
+- Der Bilddatensatz BSL 1001 G 1.1.13.2 verwendet eine neue Bezeichnung und stellt den historischen Titel in eckige Klammern. Das ist ein Kompromissmodell: Der Quellenbegriff bleibt erhalten, ist aber nicht mehr die bevorzugte Benennung.
+- Die beiden Ebenen (Dossier und Einzelbild) behandeln den Begriff unterschiedlich. Die Lösung ist nicht konsistent.
+- Die neue Bezeichnung «Maori» wirft eigene Fragen auf: Auf welcher Quelle beruht sie? Die übliche Schreibweise der Selbstbezeichnung ist «Māori».
+- Der historische Begriff bleibt durchsuchbar. Das hilft der Forschung und kann zugleich verletzen.
+
+**Mögliche Handlungsoptionen**
+
+- Historischen Titel und heutige Beschreibung in getrennten, klar benannten Feldern führen.
+- Eine Content Note und eine kurze Kontextualisierung ergänzen.
+- Die Änderung mit Datum, Grund und Quelle dokumentieren.
+- Für die Benennung Communities und Fachpersonen einbeziehen.
+
+**Moderationshinweis:** Achten Sie darauf, dass die Gruppe den Begriff nicht unnötig ausspricht. Lenken Sie die Diskussion auf die Ebenen: Quelle, Titel der Verzeichnung, Suchindex. Das Handbuch vertieft das Thema im Abschnitt [Historische Begriffe](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-historische-begriffe).
+
+## Fall 3: Die Krim in Wikidata {#sec-fall-3}
+
+**Mögliche Befunde**
+
+- Wikidata bildet die umstrittene Zugehörigkeit mit den Qualifikatoren «de jure» und «de facto» ab. Das ist eine Form von Mehrperspektivität.
+- Verknüpfte Objekte wie Städte oder Verwaltungseinheiten übernehmen diese Mehrdeutigkeit nicht konsistent.
+- Die Karte auf Wikimedia Commons zeigt nur eine Perspektive.
+- Wer Wikidata als Normdatei nutzt, übernimmt Entscheidungen einer anderen Gemeinschaft, oft ohne es zu merken.
+
+**Mögliche Handlungsoptionen** (nach der Folie «Das Beispiel Krim»)
+
+- Modellierungsentscheidungen transparent dokumentieren: Schema, Version, Geltungsbereich.
+- Parallele Felder für Mehrperspektivität vorsehen: de jure und de facto, Selbst- und Fremdbezeichnungen.
+- Überprüfbare Quellen- und Provenienzangaben machen.
+- Konflikte und Unsicherheiten explizit und maschinenlesbar markieren: Status, Zeitraum, räumliche Gültigkeit.
+
+**Moderationshinweis:** Der Fall ist politisch aktuell. Halten Sie die Diskussion bei der Modellierung: Wie bildet ein Datenmodell einen Konflikt ab? Eine Bewertung des Konflikts selbst ist nicht Ziel des Workshops.
+
+## Fall 4: GND-Datenfeld «Geschlecht» {#sec-fall-4}
+
+**Mögliche Befunde**
+
+- Der Code kennt nur «männlich» und «weiblich». Andere Angaben erscheinen nur als Freitext in einem anderen Feld.
+- Freitext ist schlechter durchsuchbar und auswertbar als ein Code. Personen ausserhalb der binären Codes werden in Auswertungen unsichtbar.
+- Die Bedingung «Teil der öffentlichen Darstellung» ist für historische Personen schwer zu erfüllen.
+- Die Norm ISO 5218, auf die die Tabelle verweist, kennt zusätzlich die Codes 0 (nicht bekannt) und 9 (nicht anwendbar). Die GND-Dokumentation sieht sie im sichtbaren Ausschnitt nicht vor.
+- Viele Systeme übernehmen GND-Daten. Die Entscheidung wirkt deshalb weit über die GND hinaus.
+- Variante Élites suisses: Ein Index nach Nachnamen macht Personen mit Namenswechsel schwer auffindbar. Das betrifft verheiratete und geschiedene Frauen stärker als andere Gruppen.
+
+**Mögliche Handlungsoptionen**
+
+- Im eigenen System offene oder zusätzliche Werte vorsehen und Selbstbezeichnungen getrennt von Quellenangaben erfassen.
+- Das Feld leer lassen, wenn keine belastbare Angabe vorliegt, statt eine Angabe zu erzwingen.
+- Änderungsvorschläge an die Normdatenredaktion richten.
+- Namensvarianten (zum Beispiel Ledignamen) als gleichwertige Sucheinstiege erfassen.
+
+**Moderationshinweis:** Der Fall zeigt strukturelle Diskriminierung ohne diskriminierende Sprache. Fragen Sie: Wer hat das Feld so gestaltet? Wer müsste zustimmen, damit es sich ändert?
+
+## Fall 5: Fotografie BSL 1001 G 1.1.13.2 {#sec-fall-5}
+
+**Mögliche Befunde**
+
+- Die Fotografie zeigt eine Person, die in einer Völkerschau ausgestellt wurde. Ob sie der Aufnahme und ihrer Veröffentlichung zustimmen konnte, ist nicht dokumentiert.
+- Der Rechtehinweis «StABS-gemeinfrei» betrifft das Urheberrecht. Er beantwortet keine ethischen Fragen wie Würde, Persönlichkeitsrechte oder Interessen von Nachfahren und Communities.
+- Der Viewer bietet einen Export an. Das Bild kann ohne Kontext weiterverbreitet werden.
+- Im sichtbaren Ausschnitt fehlen eine Content Note und eine Kontextualisierung.
+
+**Mögliche Handlungsoptionen**
+
+- Kontext ergänzen;
+- eine Content Note hinzufügen;
+- die Darstellung verändern, zum Beispiel ein Vorschaubild mit Hinweis statt des direkt angezeigten Bilds;
+- den Zugriff differenzieren, zum Beispiel für die Forschung vollständig und öffentlich mit Kontext;
+- sensible Informationen reduzieren;
+- die Entscheidung dokumentieren.
+
+**Moderationshinweis:** Diese OER zeigt das Bild ebenfalls. Thematisieren Sie das: Ist die Verwendung im Workshop analytisch nötig? Bieten Sie Gruppen an, nur mit der Textbeschreibung zu arbeiten. Das Handbuch behandelt den [Umgang mit sensiblen und diskriminierenden Inhalten](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-52-umgang-mit-sensiblen-und-diskriminierenden-inhalten) ausführlich.

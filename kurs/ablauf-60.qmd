@@ -1,0 +1,38 @@
+---
+title: Ablauf 60 Minuten
+description: Das Kurzformat des Workshops mit reduziertem Input und priorisierten Leitfragen.
+---
+
+Das Kurzformat folgt dem [Ablauf 75 Minuten](ablauf-75.qmd). Es kürzt den Input, die Gruppenphase und das Plenum. Lesen Sie zuerst die Detailbeschreibung des Standardablaufs.
+
+## Zeitplan
+
+| Zeit      | Element                          | Ziel                                       |
+| --------- | -------------------------------- | ------------------------------------------ |
+| 0–5 min   | Einstieg und Content Note        | Rahmen und Lernziel setzen                 |
+| 5–15 min  | Input (ca. 10 min)               | gemeinsames Vokabular schaffen             |
+| 15–18 min | Einführung Metadaten-Audit       | Aufgabe und Gruppenarbeit erklären         |
+| 18–38 min | Hands-on in Gruppen (ca. 20 min) | Beispiel analysieren                       |
+| 38–50 min | Auswertung im Plenum             | zentrale Befunde vergleichen               |
+| 50–57 min | Transfer                         | Konsequenzen für eigene Praxis formulieren |
+| 57–60 min | Abschluss                        | Take-away und Ressourcen                   |
+
+## Anpassungen gegenüber 75 Minuten
+
+- **Input:** Zeigen Sie nur die Folien, die in der [Folienübersicht](../input/slides.qmd#sec-folienuebersicht) für 60 Minuten markiert sind.
+- **Gruppenphase:** Begrenzen Sie die Gruppenphase auf etwa 20 Minuten. Die Gruppen arbeiten mit den priorisierten Leitfragen unten statt mit allen Schritten des Metadaten-Audits.
+- **Plenum:** Konzentrieren Sie die Auswertung auf zentrale Befunde. Jede Gruppe nennt eine Entscheidung und ihre Begründung.
+
+## Priorisierte Leitfragen
+
+Geben Sie den Gruppen diese fünf Fragen. Die Gruppen notieren die Antworten auf dem [Metadaten-Audit](../hands-on/metadaten-audit.qmd) in den Zeilen «Entscheidung» und «Dokumentation».
+
+::: {.schritte}
+
+1. Was erscheint problematisch?
+2. Warum ist es problematisch?
+3. Welche Auswirkungen könnte es haben?
+4. Was würden wir ändern, ergänzen, beibehalten oder schützen?
+5. Warum?
+
+:::
