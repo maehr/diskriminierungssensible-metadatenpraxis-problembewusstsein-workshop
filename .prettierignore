@@ -8,3 +8,5 @@ uv.lock
 _site/
 .quarto/
 slides/folien.qmd
+# Pandoc template partials use $...$ syntax that Prettier must not reformat.
+_partials/*.html

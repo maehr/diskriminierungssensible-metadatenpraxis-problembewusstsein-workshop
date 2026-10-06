@@ -5,6 +5,8 @@ _site/
 /_freeze/
 **/*_files/
 **/*.html
+# HTML template partials are source files.
+!_partials/*.html
 
 # Lychee link checker cache
 .lycheecache
