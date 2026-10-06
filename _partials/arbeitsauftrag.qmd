@@ -1,0 +1,11 @@
+Analysieren Sie das Material in fünf Schritten. Halten Sie Ihre Befunde auf dem Arbeitsblatt «Metadaten-Audit» fest.
+
+::: {.schritte}
+
+A) **Sehen:** Was wird beschrieben? Welche Informationen fehlen? Welche Kategorien und Begriffe fallen auf? Was erscheint selbstverständlich oder neutral?
+B) **Hinterfragen:** Wer hat die Metadaten wann und zu welchem Zweck erstellt? Welche institutionellen Entscheidungen oder Standards wirken hier? Welche Unsicherheiten oder Leerstellen bestehen?
+C) **Kontextualisieren:** Unter welchen Bedingungen entstand die Quelle? Wer beschreibt wen? Welche Perspektiven fehlen?
+D) **Entscheiden:** Was sollte beibehalten, ergänzt, geändert oder geschützt werden?
+E) **Dokumentieren:** Halten Sie mindestens eine Entscheidung fest. Was würden Sie ändern, ergänzen, beibehalten oder schützen? Warum? Wer sollte an dieser Entscheidung beteiligt sein? Wie sollte die Entscheidung dokumentiert werden?
+
+:::

@@ -1,0 +1,130 @@
+project:
+  type: website
+  render:
+    - index.qmd
+    - kurs/*.qmd
+    - input/*.qmd
+    - slides/folien.qmd
+    - hands-on/**/*.qmd
+    - arbeitshilfen/*.qmd
+    - nach-dem-kurs/*.qmd
+    - oer/*.qmd
+  resources:
+    - slides/folien.pdf
+    - assets/video/input.mp4
+    - assets/video/kapitel.vtt
+    - assets/video/poster.jpg
+
+lang: de
+# Every page is a draft until the author review. Set entwurf: false per page after the review.
+entwurf: true
+
+website:
+  title: Diskriminierungssensible Metadatenpraxis
+  description: >-
+    Open Educational Resource für einen 60- bis 90-minütigen Hands-on-Kurs:
+    Problembewusstsein für Diskriminierung in und durch Daten und Metadaten schaffen.
+  site-url: https://maehr.github.io/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop/
+  repo-url: https://github.com/maehr/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop
+  repo-actions: [edit, issue]
+  favicon: assets/favicon.svg
+  open-graph: true
+  page-navigation: true
+  bread-crumbs: false
+  back-to-top-navigation: true
+  search:
+    type: overlay
+    show-item-context: true
+  navbar:
+    left:
+      - text: Für Kursleitende
+        href: kurs/index.qmd
+      - text: Für Teilnehmende
+        href: hands-on/metadaten-audit.qmd
+    right:
+      - text: Handbuch
+        href: https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/
+      - icon: github
+        href: https://github.com/maehr/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop
+        aria-label: GitHub-Repository
+  sidebar:
+    style: docked
+    contents:
+      - text: Start
+        href: index.qmd
+      - section: Kurs durchführen
+        contents:
+          - text: Lernziele und Überblick
+            href: kurs/index.qmd
+          - text: Vorbereitung
+            href: kurs/vorbereitung.qmd
+          - text: Ablauf 60 Minuten
+            href: kurs/ablauf-60.qmd
+          - text: Ablauf 75 Minuten
+            href: kurs/ablauf-75.qmd
+          - text: Ablauf 90 Minuten
+            href: kurs/ablauf-90.qmd
+          - text: Hinweise für Kursleitende
+            href: kurs/moderation.qmd
+          - text: Content Note
+            href: kurs/content-note.qmd
+          - text: Hinweise zu den Fallkarten
+            href: kurs/hinweise-fallkarten.qmd
+      - section: Input
+        contents:
+          - text: Slides
+            href: input/slides.qmd
+          - text: Video
+            href: input/video.qmd
+          - text: Kernkonzepte
+            href: input/kernkonzepte.qmd
+      - section: Hands-on
+        contents:
+          - text: Metadaten-Audit
+            href: hands-on/metadaten-audit.qmd
+          - text: Eigenes Beispiel verwenden
+            href: hands-on/eigenes-beispiel.qmd
+          - section: Fallbeispiele
+            href: hands-on/fallbeispiele/index.qmd
+            contents:
+              - hands-on/fallbeispiele/fall-1-kontextualisierung.qmd
+              - hands-on/fallbeispiele/fall-2-historische-bezeichnung.qmd
+              - hands-on/fallbeispiele/fall-3-normdaten.qmd
+              - hands-on/fallbeispiele/fall-4-datenmodell.qmd
+              - hands-on/fallbeispiele/fall-5-sensible-inhalte.qmd
+      - text: Arbeitshilfen
+        href: arbeitshilfen/index.qmd
+      - section: Nach dem Kurs
+        contents:
+          - text: Transfer
+            href: nach-dem-kurs/transfer.qmd
+          - text: Weiterführende Lektüre
+            href: nach-dem-kurs/lektuere.qmd
+          - text: Handbuch
+            href: https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/
+      - section: OER verwenden
+        contents:
+          - text: Lizenz
+            href: oer/lizenz.qmd
+          - text: Materialien herunterladen
+            href: oer/materialien.qmd
+          - text: Bearbeitbare Quelldateien
+            href: oer/quelldateien.qmd
+          - text: Feedback und Beiträge
+            href: oer/feedback.qmd
+  page-footer:
+    left: >-
+      Inhalte: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de) ·
+      Code: [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html)
+    right: >-
+      Moritz Mähr und Noëlle Schnegg ·
+      [Handbuch](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/)
+
+format:
+  html:
+    theme: [cosmo, brand, site.scss]
+    template-partials:
+      - _partials/title-block.html
+    toc: true
+    toc-title: Auf dieser Seite
+    canonical-url: true

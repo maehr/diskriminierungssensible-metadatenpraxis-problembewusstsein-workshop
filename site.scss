@@ -1,0 +1,409 @@
+// Website typography after slides/theme.scss.
+// Inter in four weights with fixed roles: 400 text, 500 page titles, 600 section titles and labels,
+// 700 numbers and the kicker. Play only in the kicker. Gold only as an accent: navbar line, kicker,
+// numbers, active page, links. Flat grey cards instead of framed boxes.
+
+/*-- scss:defaults --*/
+
+$oer-ink: #24303a;
+$oer-muted: #5f6b76;
+$oer-faint: #c9d0d6;
+$oer-pale: #eef1f4;
+$oer-accent: #b58a3a;
+$oer-accent-dark: #8a6422;
+$oer-accent-tint: #f6efe2;
+$oer-kicker-font: 'Play', 'Inter', 'Helvetica Neue', Arial, sans-serif;
+
+$font-size-root: 17px;
+$line-height-base: 1.6;
+$headings-color: #000000;
+$headings-font-weight: 500;
+
+$link-color: $oer-accent-dark;
+$link-decoration: underline;
+
+$navbar-bg: #ffffff;
+$navbar-fg: $oer-muted;
+$navbar-hl: $oer-accent-dark;
+
+$sidebar-bg: #ffffff;
+$sidebar-fg: $oer-ink;
+$sidebar-hl: $oer-accent-dark;
+$sidebar-font-size: 0.86rem;
+$sidebar-font-size-section: 0.86rem;
+
+$toc-color: $oer-muted;
+$toc-active-border: $oer-accent;
+$toc-font-size: 0.82rem;
+
+$footer-bg: #ffffff;
+$footer-fg: $oer-muted;
+
+$table-border-color: $oer-pale;
+$border-radius: 0.5rem;
+
+/*-- scss:rules --*/
+
+// Navbar: white, title in ink, a gold line like the progress bar of the deck.
+.navbar {
+  border-bottom: 1px solid $oer-pale;
+  box-shadow: inset 0 -3px 0 $oer-accent;
+}
+
+.navbar-title {
+  font-weight: 600;
+  color: $oer-ink;
+}
+
+.navbar .nav-link.active,
+.navbar .nav-link:hover {
+  color: $oer-accent-dark;
+}
+
+// Links: dark gold with a light underline.
+a {
+  text-decoration-color: rgba($oer-accent, 0.45);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+
+a:hover {
+  text-decoration-color: $oer-accent-dark;
+}
+
+// Kicker line: area in Play, tags in Inter.
+.kicker {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  margin-bottom: 0.6rem;
+}
+
+.kicker-bereich {
+  font-family: $oer-kicker-font;
+  font-size: 1rem;
+  font-weight: 700;
+  color: $oer-accent-dark;
+}
+
+.kicker-tags {
+  display: flex;
+  gap: 0.9rem;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: $oer-muted;
+}
+
+.kicker-entwurf {
+  color: $oer-accent-dark;
+}
+
+// Title block: large title in 500, subtitle as the grey second line of the slides.
+#title-block-header.quarto-title-block.default {
+  margin-bottom: 2rem;
+}
+
+#title-block-header .title {
+  font-size: 2.6rem;
+  font-weight: 500;
+  line-height: 1.08;
+  letter-spacing: -0.015em;
+  text-wrap: balance;
+}
+
+#title-block-header .subtitle {
+  margin-top: 0.35rem;
+  font-size: 1.55rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+  color: $oer-muted;
+  text-wrap: balance;
+}
+
+#title-block-header .description {
+  margin-top: 0.5rem;
+  max-width: 40em;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: $oer-muted;
+  text-wrap: pretty;
+}
+
+#title-block-header .subtitle + .description,
+#title-block-header .quarto-title:has(.subtitle) + div .description {
+  font-size: 1.05rem;
+}
+
+// Section titles: smaller and heavier, like the slide titles.
+main h2,
+main .h2 {
+  margin-top: 2.4rem;
+  padding-bottom: 0;
+  border-bottom: none;
+  font-size: 1.55rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+main h3,
+main .h3 {
+  margin-top: 1.8rem;
+  font-size: 1.15rem;
+  font-weight: 600;
+}
+
+main h4,
+main .h4 {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+strong,
+b {
+  font-weight: 600;
+}
+
+// Sidebar: section names as small grey labels, the active page in dark gold.
+.sidebar-item-section > .sidebar-item-container .menu-text {
+  font-size: 0.74rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: $oer-muted;
+}
+
+// A nested section (for example Fallbeispiele) is also a page link: show it like a normal entry.
+.sidebar-section .sidebar-item-section > .sidebar-item-container .menu-text {
+  font-size: inherit;
+  font-weight: 400;
+  letter-spacing: 0;
+  color: $oer-ink;
+}
+
+.sidebar-navigation .sidebar-item a.active .menu-text,
+.sidebar-navigation .sidebar-link.active .menu-text {
+  font-weight: 600;
+  color: $oer-accent-dark;
+}
+
+// Table of contents and page actions.
+#toc-title,
+#quarto-margin-sidebar .quarto-alternate-formats h2,
+#quarto-margin-sidebar .toc-actions h2 {
+  font-size: 0.74rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: $oer-muted;
+}
+
+// Tables: grey header labels, hairlines, aligned figures.
+main table {
+  font-variant-numeric: tabular-nums;
+}
+
+main table thead th {
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: $oer-muted;
+  border-bottom: 1px solid $oer-faint;
+}
+
+main table > :not(caption) > * > * {
+  border-bottom-color: $oer-pale;
+}
+
+// Callouts become flat cards like on the slides.
+// The selectors start with `main` to outrank the Quarto callout rules.
+main div.callout.callout-style-default,
+main div.callout.callout-style-simple {
+  margin: 1.4rem 0;
+  border: 0;
+  border-radius: 14px;
+  background-color: $oer-pale;
+  box-shadow: none;
+}
+
+main div.callout.callout-style-default > .callout-header,
+main div.callout.callout-style-simple > .callout-header {
+  padding: 0.9rem 1.2rem 0;
+  background-color: transparent;
+  border: 0;
+}
+
+main div.callout .callout-icon-container {
+  display: none;
+}
+
+main div.callout .callout-title-container {
+  padding: 0;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: $oer-muted;
+}
+
+main div.callout .callout-body-container,
+main div.callout .callout-body {
+  padding: 0.35rem 1.2rem 1rem;
+  font-size: 0.95rem;
+  background-color: transparent;
+}
+
+main div.callout .callout-body-container > :last-child {
+  margin-bottom: 0;
+}
+
+main div.callout.callout-titled .callout-body > :first-child {
+  margin-top: 0;
+}
+
+main div.callout.callout-important {
+  background-color: $oer-accent-tint;
+
+  .callout-title-container {
+    color: $oer-accent-dark;
+  }
+}
+
+// Numbered steps: gold circles like the core elements of the deck.
+.schritte ol {
+  display: grid;
+  gap: 0.6rem;
+  margin: 1rem 0 1.4rem;
+  padding: 0;
+  list-style: none;
+  counter-reset: schritt;
+}
+
+.schritte ol > li {
+  position: relative;
+  min-height: 2.6rem;
+  padding: 0.7rem 1rem 0.7rem 3.4rem;
+  background: $oer-pale;
+  border-radius: 14px;
+  counter-increment: schritt;
+}
+
+.schritte ol > li::before {
+  content: counter(schritt);
+  position: absolute;
+  top: 0.62rem;
+  left: 0.9rem;
+  display: grid;
+  place-items: center;
+  width: 1.75rem;
+  height: 1.75rem;
+  font-size: 0.85rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  color: #ffffff;
+  background: $oer-accent-dark;
+  border-radius: 50%;
+}
+
+.schritte ol[type='A'] > li::before {
+  content: counter(schritt, upper-alpha);
+}
+
+.schritte ol > li > p:last-child {
+  margin-bottom: 0;
+}
+
+// Record excerpts: Roboto Mono like the record slides.
+.datensatz table {
+  font-family: $font-family-monospace;
+  font-size: 0.86rem;
+  background: $oer-pale;
+  border-radius: 14px;
+  overflow: hidden;
+}
+
+.datensatz table th,
+.datensatz table td {
+  padding: 0.45rem 1rem;
+  border-bottom: none;
+  background: transparent;
+}
+
+.datensatz table td:first-child {
+  color: $oer-muted;
+  white-space: nowrap;
+}
+
+.datensatz table thead th {
+  font-family: $font-family-sans-serif;
+  border-bottom: 1px solid $oer-faint;
+}
+
+// Start page: flat entry cards.
+.einstieg .card {
+  height: 100%;
+  border: none;
+  border-radius: 16px;
+  background: $oer-pale;
+
+  h3 {
+    margin-top: 0;
+    font-size: 1.15rem;
+    font-weight: 600;
+  }
+}
+
+// Worksheets on screen.
+.schreibfeld {
+  min-height: 7rem;
+  margin: 0.5rem 0 1.5rem;
+  background: $oer-pale;
+  border-radius: 14px;
+}
+
+.arbeitsblatt td {
+  height: 5rem;
+  vertical-align: top;
+}
+
+// Video: the frame hides the browser toolbar and its shadow (top 72 px of 948) of the screen recording.
+.video-frame video {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1512 / 876;
+  object-fit: cover;
+  object-position: 50% 100%;
+  background: #ffffff;
+  border: 1px solid $oer-pale;
+  border-radius: 8px;
+}
+
+a.kapitel {
+  font-variant-numeric: tabular-nums;
+}
+
+.folien-embed {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 1px solid $oer-pale;
+  border-radius: 8px;
+}
+
+kbd {
+  padding: 0.1rem 0.4rem;
+  font-size: 0.8rem;
+  color: $oer-ink;
+  background: $oer-pale;
+  border-radius: 4px;
+  box-shadow: none;
+}
+
+.page-footer {
+  border-top: 1px solid $oer-pale;
+  font-size: 0.8rem;
+}
+
+@media print {
+  .callout-warning {
+    display: none;
+  }
+}

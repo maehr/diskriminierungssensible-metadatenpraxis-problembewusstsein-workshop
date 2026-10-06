@@ -1,0 +1,55 @@
+---
+title: Diskriminierungssensible Metadatenpraxis
+subtitle: Ein Hands-on-Kurs in 60, 75 oder 90 Minuten
+description: >-
+  Open Educational Resource mit allen Materialien, um einen Workshop zu diskriminierungssensibler
+  Metadatenpraxis selbstständig durchzuführen.
+toc: false
+kicker: Open Educational Resource
+---
+
+Diese Open Educational Resource (OER) enthält alle Materialien für einen Hands-on-Kurs zu diskriminierungssensibler Metadatenpraxis. Der Kurs dauert 60, 75 oder 90 Minuten. Kursleitende können ihn ohne die Autor:innen durchführen.
+
+Der Kurs schafft Problembewusstsein für Diskriminierung in und durch Daten und Metadaten. Die Teilnehmenden lernen, problematische Aspekte in bestehenden Datenpraktiken zu erkennen und zu diskutieren. Sie formulieren begründete Handlungsoptionen für die eigene Praxis.
+
+## Für wen ist der Kurs?
+
+Der Kurs richtet sich an Forschende in den Geistes- und Kulturwissenschaften, an Mitarbeitende von GLAM-Institutionen und an alle Personen, die Daten oder Metadaten erstellen, erschliessen, transformieren, kuratieren, publizieren oder nachnutzen. Vorkenntnisse zu diskriminierungssensibler Datenpraxis sind nicht nötig. Grundkenntnisse im Umgang mit Daten, Metadaten, Katalogen, Sammlungen oder Forschungsdaten sind hilfreich.
+
+## Einstieg
+
+::: {.grid .einstieg}
+::: {.g-col-12 .g-col-md-6}
+::: {.card .p-3}
+
+### Ich leite den Kurs
+
+Beginnen Sie mit den [Lernzielen und dem Überblick](kurs/index.qmd). Wählen Sie danach einen Ablauf für [60](kurs/ablauf-60.qmd), [75](kurs/ablauf-75.qmd) oder [90 Minuten](kurs/ablauf-90.qmd). Die [Vorbereitung](kurs/vorbereitung.qmd) listet alle Materialien zum Ausdrucken.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .p-3}
+
+### Ich nehme teil
+
+Bringen Sie nach Möglichkeit ein [eigenes Beispiel](hands-on/eigenes-beispiel.qmd) mit. Im Workshop arbeiten Sie mit dem [Metadaten-Audit](hands-on/metadaten-audit.qmd) oder mit einer [Fallkarte](hands-on/fallbeispiele/index.qmd). Am Ende füllen Sie die [Transfer-Karte](nach-dem-kurs/transfer.qmd) aus.
+:::
+:::
+:::
+
+## Kernbotschaft
+
+Diskriminierungssensible Metadatenpraxis ersetzt nicht problematische Begriffe durch eine Liste vermeintlich korrekter Begriffe. Metadaten entstehen durch Entscheidungen. Diese Entscheidungen betreffen unter anderem Auswahl, Beschreibung, Kategorisierung, Kontextualisierung, Normalisierung, Nachnutzung, Sichtbarkeit, Zugang und Dokumentation.
+
+Der Workshop hat deshalb nicht das Ziel, vollständig «diskriminierungsfreie» Metadaten herzustellen. Das Ziel ist eine reflektierte, kontextabhängige und nachvollziehbare Datenpraxis.
+
+{{< include /_partials/content-note.qmd >}}
+
+## Verhältnis zum Handbuch
+
+Die OER baut auf dem Handbuch [_Diskriminierungssensible Metadatenpraxis_](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/) auf. Sie wiederholt das Handbuch nicht. Sie ergänzt es um die didaktische Struktur für einen Workshop. Für Begriffe, Hintergründe und ausführliche Checklisten verweist die OER auf das Handbuch.
+
+## Was die OER nicht ist
+
+Die OER ist ein praxisorientierter Einstieg in die kritische Reflexion von Daten- und Metadatenpraktiken. Sie ist kein Zertifikatskurs, keine vollständige Einführung in die Diskriminierungsforschung und kein Glossar zulässiger und unzulässiger Begriffe. Sie enthält kein Regelwerk mit universell gültigen Lösungen. Sie ersetzt weder institutionelle Richtlinien noch die Beteiligung betroffener Communities.
