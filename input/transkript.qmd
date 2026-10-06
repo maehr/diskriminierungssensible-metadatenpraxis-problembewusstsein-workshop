@@ -1,0 +1,105 @@
+---
+title: Transkript des Videos
+description: Das gesprochene Wort des Videos zum Input, nach Kapiteln gegliedert.
+---
+
+Dieses Transkript gibt das gesprochene Wort der [Videoaufzeichnung](video.qmd) wieder. Es dient als Alternative zum Video, etwa zum Nachlesen, für die Suche oder wenn Sie das Video nicht hören können.
+
+::: {.callout-note title="Zum Stand des Transkripts"}
+Das Transkript beruht auf einer automatischen Spracherkennung. Es ist leicht redigiert: Erkennungsfehler, Satzzeichen und Gross- und Kleinschreibung sind korrigiert, die gesprochene Wortfolge ist beibehalten. Die Sprecher:innen haben das Transkript noch nicht geprüft.
+
+- `[Wort]` ist eine Ergänzung der Redaktion.
+- `[…]` markiert ausgelassene, nicht erkannte Wörter.
+- `[unverständlich]` markiert eine Stelle, die die Spracherkennung nicht erfasst hat.
+
+:::
+
+Die Zeitangaben beziehen sich auf das Video. Sie markieren den Beginn des Kapitels, nicht den Beginn der einzelnen Sätze.
+
+## 0:03 · Einstieg: Setting the scene
+
+**Moritz Mähr:** Hallo zusammen. Mein Name ist Moritz Mähr, und zusammen mit Noëlle Schnegg stelle ich euch heute diskriminierungssensible Metadatenpraxis vor. Das motivierende Beispiel ist dieses Plakat der Völkerschau des Zirkus Knie, das auf dieser Sammlungsseite komplett ohne den rassistischen Kontext dargestellt wird. So etwas sollte unserer Meinung nach nicht passieren, und deswegen werden wir euch jetzt darauf sensibilisieren, was Diskriminierung und Bias in GLAM-Institutionen heisst.
+
+## 0:41 · Daten sind nicht neutral
+
+**Noëlle Schnegg:** Genau. Ich beginne mal mit dem […]. Und genau: Daten sind nicht neutral, das heisst, sie sind immer normativ. Also, sie erscheinen vielleicht auf den ersten Blick als objektive Repräsentation der Wirklichkeit, doch sie sind meistens oder [unverständlich] in historisch gewachsene Machtverhältnisse und normative Ordnungen eingebettet.
+
+Ein sehr gutes Beispiel dazu aus Wikidata: die Krim. Und zwar steht dort: «[…] peninsula in the Black Sea […] de jure and Russia de facto». Und wenn man jetzt die Karte anschaut und die verschiedenen Orte mal sich genauer anschaut, sieht man, dass viele verknüpfte Objekte wie Städte oder auch administrative Einheiten diese Mehrdeutigkeit nicht konsistent übernehmen oder einfach einzig die ukrainische Perspektive abbilden. Zusammengefasst […] einfach als Beispiel zu Normativität in Daten.
+
+## 2:21 · Direkte Diskriminierung
+
+**Noëlle Schnegg:** Kommen wir weiter zu verschiedenen Formen von Diskriminierung, beginnend mit der direkten Diskriminierung. Das ist eigentlich eine Regel oder Entscheidung, Handlung, die direkt diskriminierend ist, wenn sie Personen aufgrund eines geschützten Merkmals ungleich behandelt und diese Ungleichbehandlung nicht durch einen legitimen, verhältnismässigen Zweck gedeckt ist.
+
+Als Beispiel hier vom Staatsarchiv Basel-Stadt haben wir diesen kletternden Jungen mitgebracht. Und zwar sieht man direkt – wir haben es durch Sterne unkenntlich gemacht –, dass das N-Wort hier in den Metadaten einfach unkommentiert oder unzensiert dargestellt wird, und diese Diskriminierung, diese direkte, [unverständlich] sich genauer anschaut.
+
+## 3:15 · Indirekte Diskriminierung
+
+**Noëlle Schnegg:** Weiter mit der indirekten Diskriminierung, die dann vorliegt, wenn formal neutrale Kriterien, Methoden oder Regelungen zur Erhebung, Auswahl, Beschreibung und Interpretation historischer Daten in ihrer Wirkung systematisch bestimmte Gruppen benachteiligen.
+
+Genau, da haben wir ein Beispiel eines Namensregisters, das eigentlich nur nach einer patriarchalen Logik sortiert wird. Das heisst, wenn man jetzt eine Frau nach ihrem ledigen Namen suchen möchte, [findet] man diese Frau einfach nicht, sondern nur den Nachnamen des Mannes oder des Ehemannes, besser gesagt. Genau, das wäre ein Beispiel einer indirekten Diskriminierung.
+
+## 3:56 · Strukturelle Diskriminierung
+
+**Noëlle Schnegg:** Gehen wir gleich weiter zur strukturellen Diskriminierung. Das bezeichnet Benachteiligungen, die in etablierten Praktiken [unverständlich] oder in Dokumentation verankert sind. Nächste Folie. Wir haben hier ein Beispiel aus [der GND], und zwar gibt es hier nur zwei mögliche Werte beim Geschlecht.
+
+## 4:35 · Institutionelle Diskriminierung
+
+**Noëlle Schnegg:** Dann noch ein paar Worte zur institutionellen Diskriminierung. Die entsteht dann, wenn interne Ordnungen und Routinen von einer spezifischen Gedächtnisinstitution systematisch bestimmte Gruppen benachteiligen. Das heisst, diese Metadaten wurden nur aus der Perspektive des Bildarchivs in diesem Fall beschrieben.
+
+## 5:26 · Statistische Diskriminierung
+
+**Noëlle Schnegg:** Dann weiter zur statistischen Diskriminierung. Die bezeichnet die Benachteiligung von Individuen, wenn unter unvollständiger Information Entscheidungen auf gruppenbezogenen Durchschnittswerten beruhen. Das ist ein bisschen eine Knacknuss, weil wir haben hier kein Beispiel dafür.
+
+## 5:59 · Intersektionale Diskriminierung
+
+**Noëlle Schnegg:** Also, wenn ihr [unverständlich] genau, das bezeichnet eigentlich einen Analyseansatz, der Diskriminierung nicht als isolierte [unverständlich], sondern als verflochtene und sich wechselseitig konstituierende Macht- und Ungleich[heitsverhältnisse versteht]. Und das wird auch hier in dieser Grafik veranschaulicht.
+
+Genau, und dann in der Metadatenpraxis eigentlich, wo diese intersektionalen [unverständlich]: also in der Klassifikation einerseits, dann in der Retrieval-Logik und auch zum Schluss in der Quellenlage und Erschliessung. Genau, wenn dann die Überlieferungen und institutionellen Sammelpraktiken nicht gleich verteilt sind.
+
+## 6:49 · Was ist Bias?
+
+**Moritz Mähr:** Nun gehen wir weiter mit Bias. Bei Bias handelt es sich um Verzerrungen und Fehler. Diese können klassischerweise in Daten, Algorithmen oder auch in den Nutzeroberflächen auftauchen. Unter Bias ist, wie gesagt, eine systematische Abweichung von der objektiven Darstellung gemeint, und es ist ein technischer Terminus, der versucht zu beschreiben, was in den Daten vorgeht.
+
+Es gibt drei Familien von Biases, wie bereits gesagt: die Daten, Algorithmen und die Nutzerinteraktion. Wir werden durch alle drei Familien durchgehen, und diese drei können auch unabhängig voneinander auftreten. Sie können sich jedoch auch verstärken, wenn sie in Serie geschaltet werden.
+
+## 7:40 · Verzerrung in Daten
+
+**Moritz Mähr:** Es gibt acht Formen von Data Bias. Die erste Form […] ist ein sehr häufiger Fall. Das ist der Messfehler, und der passiert banalerweise, wenn beispielsweise die OCR nicht richtig funktioniert und gewisse Dinge nicht richtig wiedergegeben werden.
+
+Wir haben weiterhin einen sogenannten Auslassungsfehler, das ist, wenn nur ein Teil der Grundgesamtheit der Daten überhaupt erfasst wird. Das passiert in Archiven auch sehr häufig. Es beschränkt sich meistens auf den Teil der Daten, die schriftlich überliefert sind; alle mündlichen Überlieferungen, die fehlen natürlich.
+
+Wir haben Repräsentationsfehler, die entstehen dadurch, dass die Stichprobe nicht repräsentativ ist, die gezogen wird. Das kann dadurch entstehen, dass man beispielsweise gewisse Quellentypen oder Gattungen bevorzugt gegenüber anderen Quellen und dann im digitalisierten Archiv nur noch einen Quellentyp vorfindet.
+
+Der Aggregationsfehler entsteht, wenn man verschiedene, unterschiedliche Daten zusammenmischt, und ist insbesondere dann ein Problem, wenn die zusammengemischten, die aggregierten Daten sich unterscheiden von den einzelnen Gruppen, von wo sie herkommen.
+
+Der Stichprobenfehler kann dadurch passieren, dass die Auswahl der Stichprobe nicht zufällig genug ist. Das passiert beispielsweise, wenn man nach Freiwilligen sucht: Da samplet man meistens die Leute, die mehr motiviert sind, häufiger.
+
+Es gibt den Längsschnittfehler, der dadurch passieren kann, dass die Daten an einem bestimmten Punkt sich systematisch ändern, weil institutionelle Regeln der Erfassung sich ändern. Und wenn man das über eine längere Zeitdauer sich anschaut, dann entstehen Brüche, die sich nicht erklären lassen oder die einen zu falschen Schlüssen verleiten.
+
+Die historische Verzerrung ist eigentlich streng genommen keine Datenverzerrung, sondern es liegt einfach darin, dass gewisse Biases bereits schon – also beziehungsweise gewisse Ungleichheiten – bereits historisch vorgelegen haben und die einfach heute auffallen, und dass das quasi gar nicht ein Messfehler ist, sondern dass es perfekt erhoben worden ist, aber dass der Bias schon bestanden hat.
+
+Den Populationsfehler gibt es dann, wenn [unverständlich].
+
+## 10:53 · Verzerrung durch Algorithmen
+
+**Moritz Mähr:** Verzerrungen in Algorithmen gibt es glücklicherweise nur zwei. Und der erste ist der sogenannte algorithmische Fehler. Das liegt dann vor, wenn beispielsweise mit unterschiedlichen Parametern das gleiche Korpus behandelt wird und die Parameter bei den Durchläufen nicht vernünftig angepasst sind an das Inputmaterial.
+
+Der schwerwiegende Fehler, der oft nicht auffällt, ist der Evaluationsfehler: dass man beispielsweise auf der Sammlung OCR laufen lässt und dann sich die OCR-Ergebnisse der Dokumente aus dem 20. Jahrhundert anschaut und total glücklich ist, während alle Dokumente von früher nicht korrekt erfasst worden sind und man das gar nicht merkt.
+
+## 11:49 · Verzerrung durch Nutzerinteraktion
+
+**Moritz Mähr:** Verzerrungen in der Nutzerinteraktion gibt es ebenfalls viele Formen, und sie sind auch sehr häufig. Der erste Fehler ist der Darstellungsfehler: dass man die Nutzeraufmerksamkeit durch Hervorhebung irgendwohin lenkt und dadurch andere Sachen überdeckt werden.
+
+Es gibt Rangfolgenfehler: dass man beispielsweise ältere Exponate bevorzugt, indem man sagt, wir haben aufgrund von Klicks [sortiert], aber die Klicks halt ungleich verteilt sind. Ältere Exponate haben typischerweise mehr als neuere.
+
+Wir haben Popularitätsbias: dass User, die sehr viel interagieren, mehr Macht haben auf die Darstellungsform. Wir haben den emergenten Fehler. Das passiert durch langfristige Interaktion mit Nutzenden oder durch gesellschaftlichen Wandel.
+
+Wir haben auch den Self-Selection-Bias, und das passiert auch wieder wie in Umfragen: dass halt Leute, die ein hohes kulturelles Kapital haben, eher bereit sind, mitzumachen an einer Umfrage als Leute mit einem tiefen kulturellen Kapital.
+
+Wir haben soziale Verzerrungen. Hier sind es eindeutig die sozialen Entscheidungen, also individuelle Entscheidungen werden durch soziale Einflüsse weiterhin verzerrt. Wir haben den Behavioral Bias: dass unterschiedliches Verhalten von Nutzenden je nach Plattform, Kontext oder Zeit zu unterschiedlichen Resultaten führen und dass das auch die Zugriffszahlen beeinflussen kann. Das ist oft auch sehr absichtlich [unverständlich].
+
+Und wir haben einen Content Production Bias, einen Inhaltsproduktionsfehler: dass beispielsweise sich eine Sprache als Wissenschaftssprache etabliert und deswegen bevorzugt behandelt wird.
+
+## 14:31 · Merkschema und Quellen
+
+**Moritz Mähr:** Vielen herzlichen Dank für die Aufmerksamkeit. Das ist unser kurzer Input zum Thema.
