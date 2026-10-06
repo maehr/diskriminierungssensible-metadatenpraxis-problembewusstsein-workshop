@@ -9,8 +9,8 @@ Dieses Transkript gibt das gesprochene Wort der [Videoaufzeichnung](video.qmd) w
 Das Transkript beruht auf einer automatischen Spracherkennung. Es ist leicht redigiert: Erkennungsfehler, Satzzeichen und Gross- und Kleinschreibung sind korrigiert, die gesprochene Wortfolge ist beibehalten. Die Sprecher:innen haben das Transkript noch nicht geprüft.
 
 - `[Wort]` ist eine Ergänzung der Redaktion.
-- `[…]` markiert ausgelassene, nicht erkannte Wörter.
-- `[unverständlich]` markiert eine Stelle, die die Spracherkennung nicht erfasst hat.
+- `[…]` markiert eine Auslassung der Redaktion: Die Spracherkennung hat hier Wörter ausgegeben, die keinen Sinn ergeben. Die Redaktion hat sie weggelassen.
+- `[unverständlich]` markiert eine Stelle, an der die Spracherkennung nichts oder nur Bruchstücke erfasst hat.
 
 :::
 
