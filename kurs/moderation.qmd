@@ -81,3 +81,5 @@ Verwenden Sie diese Fragen in der Transferphase und im Abschluss:
 - Wer sollte an dieser Entscheidung beteiligt sein?
 - Eine Sache, die ich künftig bei Daten oder Metadaten prüfen werde.
 - Eine Sache, die wir in unserem Projekt oder unserer Institution diskutieren sollten.
+
+Bitten Sie zum Schluss um Rückmeldungen zur OER: per E-Mail an <moritz.maehr@gmail.com> oder über die Seite [Feedback und Beiträge](../oer/feedback.qmd). Das gilt auch für Sie als Kursleitende.

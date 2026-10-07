@@ -46,6 +46,10 @@ Der Workshop hat deshalb nicht das Ziel, vollständig «diskriminierungsfreie» 
 
 {{< include /_partials/content-note.qmd >}}
 
+## Rückmeldungen
+
+Haben Sie den Workshop durchgeführt oder besucht? Schreiben Sie uns an <moritz.maehr@gmail.com>. Weitere Wege stehen unter [Feedback und Beiträge](oer/feedback.qmd).
+
 ## Verhältnis zum Handbuch
 
 Die OER baut auf dem Handbuch [_Diskriminierungssensible Metadatenpraxis_](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/) auf. Sie wiederholt das Handbuch nicht. Sie ergänzt es um die didaktische Struktur für einen Workshop. Für Begriffe, Hintergründe und ausführliche Checklisten verweist die OER auf das Handbuch.
