@@ -1,0 +1,61 @@
+name: Erprobungsbericht
+description: Berichten Sie von einer Durchführung des Workshops mit dieser OER.
+title: 'Erprobung: '
+labels: [feedback]
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        Danke für Ihre Erprobung. Der Bericht zeigt, ob Kursleitende den Workshop mit der OER allein
+        durchführen können. Bitte nennen Sie keine vertraulichen Angaben zu Teilnehmenden.
+  - type: dropdown
+    id: format
+    attributes:
+      label: Zeitformat
+      options:
+        - 60 Minuten
+        - 75 Minuten
+        - 90 Minuten
+    validations:
+      required: true
+  - type: input
+    id: kontext
+    attributes:
+      label: Kontext und Zahl der Teilnehmenden
+      description: Zum Beispiel Archiv, Bibliothek, Museum, Lehre; etwa 15 Personen in 4 Gruppen.
+  - type: dropdown
+    id: allein
+    attributes:
+      label: Konnten Sie den Workshop mit der OER allein vorbereiten und durchführen?
+      options:
+        - 'Ja'
+        - Teilweise
+        - 'Nein'
+    validations:
+      required: true
+  - type: textarea
+    id: vorbereitung
+    attributes:
+      label: Vorbereitung
+      description: Wie lange haben Sie gebraucht? Was hat gefehlt?
+  - type: textarea
+    id: zeitplan
+    attributes:
+      label: Zeitplan
+      description: Welche Phasen waren zu kurz oder zu lang?
+  - type: textarea
+    id: material
+    attributes:
+      label: Material
+      description: Metadaten-Audit, Fallkarten, Slides, Video, Transfer-Karte. Was hat funktioniert, was nicht?
+  - type: textarea
+    id: diskussion
+    attributes:
+      label: Diskussion und Moderation
+      description: Gab es schwierige Situationen? Haben die Hinweise für Kursleitende geholfen?
+  - type: textarea
+    id: verbesserung
+    attributes:
+      label: Was sollten wir verbessern?
+    validations:
+      required: true
