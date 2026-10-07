@@ -24,7 +24,7 @@ Die Zeitangaben beziehen sich auf das Video. Sie markieren den Beginn des Kapite
 
 **Noëlle Schnegg:** Genau. Ich beginne mal mit dem […]. Und genau: Daten sind nicht neutral, das heisst, sie sind immer normativ. Also, sie erscheinen vielleicht auf den ersten Blick als objektive Repräsentation der Wirklichkeit, doch sie sind meistens oder [unverständlich] in historisch gewachsene Machtverhältnisse und normative Ordnungen eingebettet.
 
-Ein sehr gutes Beispiel dazu aus Wikidata: die Krim. Und zwar steht dort: «[…] peninsula in the Black Sea […] de jure and Russia de facto». Und wenn man jetzt die Karte anschaut und die verschiedenen Orte mal sich genauer anschaut, sieht man, dass viele verknüpfte Objekte wie Städte oder auch administrative Einheiten diese Mehrdeutigkeit nicht konsistent übernehmen oder einfach einzig die ukrainische Perspektive abbilden. Zusammengefasst […] einfach als Beispiel zu Normativität in Daten.
+Ein sehr gutes Beispiel dazu aus Wikidata: die Krim. Und zwar steht dort: «[Eastern] European peninsula in the Black Sea [and Sea of Azov, disputed between Ukraine] de jure and Russia de facto». Und wenn man jetzt die Karte anschaut und die verschiedenen Orte mal sich genauer anschaut, sieht man, dass viele verknüpfte Objekte wie Städte oder auch administrative Einheiten diese Mehrdeutigkeit nicht konsistent übernehmen oder einfach einzig die ukrainische Perspektive abbilden. Zusammengefasst […] einfach als Beispiel zu Normativität in Daten.
 
 ## 2:21 · Direkte Diskriminierung
 

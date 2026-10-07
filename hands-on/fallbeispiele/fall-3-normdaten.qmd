@@ -28,9 +28,9 @@ format:
 
 ![Wikidata-Objekt «Crimea» (Q7835): Eigenschaft «country» (Screenshot).](../../slides/images/wikidata-q7835-2.png){fig-alt="Screenshot von Wikidata, Objekt Crimea (Q7835), Eigenschaft «country»: Ukraine ab 1991 (de jure), Russland ab 2014 (de facto), Sowjetunion, Russisches Kaiserreich, Krim-Khanat." width="100%"}
 
-![Datei «Map of the Crimea.png» auf Wikimedia Commons (Screenshot).](../../slides/images/commons-map-of-the-crimea.png){fig-alt="Screenshot von Wikimedia Commons: Datei «Map of the Crimea.png», eine Karte der Halbinsel Krim mit Städten, Strassen und Grenzen." width="100%"}
+![Datei «Map of the Crimea.png» auf Wikimedia Commons (Screenshot). Karte: Maximilian Dörrbecker (Chumwa), CC BY-SA 2.0.](../../slides/images/commons-map-of-the-crimea.png){fig-alt="Screenshot von Wikimedia Commons: Datei «Map of the Crimea.png», eine Karte der Halbinsel Krim mit Städten, Strassen und Grenzen." width="100%"}
 
-Das Wikidata-Objekt beschreibt die Krim als «disputed between Ukraine (de jure) and Russia (de facto)». Die Eigenschaft «country» führt mehrere Aussagen: Ukraine ab 1991 (de jure), Russland ab 2014 (de facto), ausserdem die Sowjetunion, das Russische Kaiserreich und das Krim-Khanat.
+Das Wikidata-Objekt beschreibt die Krim auf Englisch als «Eastern European peninsula, in the Black Sea and Sea of Azov, disputed between Ukraine (de jure) and Russia (de facto)». Die deutsche Beschreibung lautet nur «Halbinsel im nördlichen Schwarzen Meer» (Stand: 7. Oktober 2026). Die Eigenschaft «country» führt mehrere Aussagen: Ukraine ab 1991 (de jure), Russland ab 2014 (de facto), ausserdem die Sowjetunion, das Russische Kaiserreich und das Krim-Khanat.
 
 Originaldaten: [wikidata.org/wiki/Q7835](https://www.wikidata.org/wiki/Q7835) und [commons.wikimedia.org/wiki/File:Map_of_the_Crimea.png](https://commons.wikimedia.org/wiki/File:Map_of_the_Crimea.png)
 

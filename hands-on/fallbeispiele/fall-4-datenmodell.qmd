@@ -43,6 +43,12 @@ Die Dokumentation sagt dazu (Stand: Juni 2026):
 
 > In der Regel wird nur eine Geschlechtsangabe erfasst. Eine von der codierten Form abweichende Geschlechtsangabe wie beispielsweise intersexuell darf im Datenfeld Historische oder biographische Angaben als Freitext erfasst werden, wenn diese Angabe sich im Werk der Person widerspiegelt bzw. Teil der öffentlichen Darstellung ist.
 
+Die Dokumentation ergänzt:
+
+> Sollte es in einem solchen Fall passend und von der Person erwünscht sein, darf sowohl der Code für weiblich als auch für männlich erfasst werden.
+
+Das Datenfeld ist in Datensätzen für Personen fakultativ und wiederholbar.
+
 Originaldokumentation: [sta.dnb.de/doc/GND-DF-PERSON-GESCHLECHT](https://sta.dnb.de/doc/GND-DF-PERSON-GESCHLECHT)
 
 ## Kontext

@@ -13,9 +13,9 @@ Die Befunde beruhen auf den Screenshots in den Fallkarten. Originaldatensätze k
 
 - Der Titel übernimmt den Plakattext «Knie Völkerschau». Die Metadaten erklären nicht, was eine Völkerschau war.
 - Die Beschreibung «drei Handwerker bei der Arbeit» beschreibt das Motiv, aber nicht seine Funktion: Das Plakat wirbt dafür, Menschen zur Schau zu stellen.
-- Die Einordnung erfolgt nur als Zirkusplakat. Schlagwörter zu Völkerschau oder Kolonialismus fehlen im sichtbaren Ausschnitt.
+- Die Einordnung erfolgt nur als Zirkusplakat. Das Feld «Topic» ist leer: Der Datensatz hat keine Schlagwörter. Wer zu Völkerschauen oder Kolonialismus sucht, findet das Plakat nur über das Wort «Völkerschau» im Titel.
 - Die Datierung «1969?» macht Unsicherheit sichtbar. Das ist eine gute Praxis.
-- Das Feld «Topic» enthält einen Dateinamen. Felder enthalten nicht immer, was ihr Name verspricht.
+- Das Feld «Id» enthält einen Dateinamen (`PL000012.tif`). Für Nutzende ist das kein sprechender Nachweis.
 
 **Mögliche Handlungsoptionen**
 
@@ -51,6 +51,7 @@ Die Befunde beruhen auf den Screenshots in den Fallkarten. Originaldatensätze k
 - Wikidata bildet die umstrittene Zugehörigkeit mit den Qualifikatoren «de jure» und «de facto» ab. Das ist eine Form von Mehrperspektivität.
 - Verknüpfte Objekte wie Städte oder Verwaltungseinheiten übernehmen diese Mehrdeutigkeit nicht konsistent.
 - Die Karte auf Wikimedia Commons zeigt nur eine Perspektive.
+- Die englische Beschreibung nennt den Konflikt, die deutsche nicht. Beschreibungen in Normdaten unterscheiden sich je nach Sprache.
 - Wer Wikidata als Normdatei nutzt, übernimmt Entscheidungen einer anderen Gemeinschaft, oft ohne es zu merken.
 
 **Mögliche Handlungsoptionen** (nach der Folie «Das Beispiel Krim»)
@@ -66,7 +67,7 @@ Die Befunde beruhen auf den Screenshots in den Fallkarten. Originaldatensätze k
 
 **Mögliche Befunde**
 
-- Der Code kennt nur «männlich» und «weiblich». Andere Angaben erscheinen nur als Freitext in einem anderen Feld.
+- Der Code kennt nur «männlich» und «weiblich». Andere Angaben erscheinen nur als Freitext in einem anderen Feld. Wenn es passt und die Person es wünscht, dürfen beide Codes erfasst werden. Die Kategorien selbst bleiben binär.
 - Freitext ist schlechter durchsuchbar und auswertbar als ein Code. Personen ausserhalb der binären Codes werden in Auswertungen unsichtbar.
 - Die Bedingung «Teil der öffentlichen Darstellung» ist für historische Personen schwer zu erfüllen.
 - Die Norm ISO 5218, auf die die Tabelle verweist, kennt zusätzlich die Codes 0 (nicht bekannt) und 9 (nicht anwendbar). Die GND-Dokumentation sieht sie im sichtbaren Ausschnitt nicht vor.
@@ -76,7 +77,7 @@ Die Befunde beruhen auf den Screenshots in den Fallkarten. Originaldatensätze k
 **Mögliche Handlungsoptionen**
 
 - Im eigenen System offene oder zusätzliche Werte vorsehen und Selbstbezeichnungen getrennt von Quellenangaben erfassen.
-- Das Feld leer lassen, wenn keine belastbare Angabe vorliegt, statt eine Angabe zu erzwingen.
+- Das Feld leer lassen, wenn keine belastbare Angabe vorliegt. Die GND erlaubt das, weil das Feld für Personen fakultativ ist.
 - Änderungsvorschläge an die Normdatenredaktion richten.
 - Namensvarianten (zum Beispiel Ledignamen) als gleichwertige Sucheinstiege erfassen.
 
@@ -90,6 +91,7 @@ Die Befunde beruhen auf den Screenshots in den Fallkarten. Originaldatensätze k
 - Der Rechtehinweis «StABS-gemeinfrei» betrifft das Urheberrecht. Er beantwortet keine ethischen Fragen wie Würde, Persönlichkeitsrechte oder Interessen von Nachfahren und Communities.
 - Der Viewer bietet einen Export an. Das Bild kann ohne Kontext weiterverbreitet werden.
 - Im sichtbaren Ausschnitt fehlen eine Content Note und eine Kontextualisierung.
+- Das Einzelbild hat keine Datierung («keine Angabe»), das Dossier BSL 1001 N 2.13 ist auf 1883 datiert. Die übergeordnete Einheit heisst «Strassenwärter; Kletternder Maori [Völkerschau]».
 
 **Mögliche Handlungsoptionen**
 

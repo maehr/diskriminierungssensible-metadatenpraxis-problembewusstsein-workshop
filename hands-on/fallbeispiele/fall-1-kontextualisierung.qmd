@@ -26,7 +26,7 @@ format:
 
 ![Datensatz «Knie Völkerschau» in den Digital Collections der Königlichen Bibliothek Kopenhagen (Screenshot).](../../slides/images/kb-dk-object488811.png){fig-alt="Screenshot der Digital Collections der Königlichen Bibliothek Kopenhagen: Plakat «Knie Völkerschau», Lithografie, mit den Metadaten des Datensatzes rechts daneben." width="100%"}
 
-Der Datensatz enthält unter anderem diese Angaben (Auszug, dänische Originalwerte):
+Der Datensatz enthält unter anderem diese Angaben (Auszug, dänische Originalwerte, Stand: 7. Oktober 2026). Im Screenshot sind die Feldnamen gegenüber den Werten leicht verschoben. Die Tabelle folgt dem Originaldatensatz.
 
 ::: {.datensatz}
 
@@ -35,7 +35,8 @@ Der Datensatz enthält unter anderem diese Angaben (Auszug, dänische Originalwe
 | Title         | Knie Völkerschau                                                                                                                                               |
 | Resource type | Plakat                                                                                                                                                         |
 | Date created  | 1969?                                                                                                                                                          |
-| Topic         | PL000012.tif                                                                                                                                                   |
+| Topic         | (leer)                                                                                                                                                         |
+| Id            | PL000012.tif                                                                                                                                                   |
 | Comment       | Litografi, flerfarvet tryk : mål: 500 x 350 mm; flerfarvet tegning af tre håndværkere ved arbejdet (mehrfarbige Zeichnung von drei Handwerkern bei der Arbeit) |
 | Is part of    | Billeder / Særudgivelser / Cirkus / Plakater                                                                                                                   |
 

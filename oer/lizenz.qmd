@@ -29,6 +29,21 @@ Konfiguration, Workflows und Skripte stehen unter der [GNU Affero General Public
 
 Die Fallkarten und das Foliendeck zeigen Screenshots von Katalog-, Archiv- und Normdatensätzen. Diese Screenshots und die darin sichtbaren Objekte stehen **nicht** unter der Lizenz dieser OER. Für sie gelten die Rechte der jeweiligen Institutionen und Rechteinhaber:innen. Prüfen Sie diese Rechte, bevor Sie die Screenshots ausserhalb dieser OER nachnutzen.
 
+## Nachweise der Screenshots
+
+| Screenshot                | Quelle                                                                                                             | Rechtehinweis der Quelle   | Verwendet in                |
+| :------------------------ | :----------------------------------------------------------------------------------------------------------------- | :------------------------- | :-------------------------- |
+| Plakat «Knie Völkerschau» | [Det Kgl. Bibliotek](https://digitalesamlinger.kb.dk/images/billed/2010/okt/billeder/object488811/en/)             | urheberrechtlich geschützt | Folie 2, Fall 1, Video      |
+| Krim (Q7835)              | [Wikidata](https://www.wikidata.org/wiki/Q7835)                                                                    | Daten CC0                  | Folien 5–6, Fall 3, Video   |
+| «Map of the Crimea.png»   | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Map_of_the_Crimea.png), Maximilian Dörrbecker (Chumwa) | CC BY-SA 2.0               | Folie 7, Fall 3, Video      |
+| BSL 1001 G 1.1.13.2       | [Staatsarchiv Basel-Stadt](https://dls.staatsarchiv.bs.ch/records/439319)                                          | StABS-gemeinfrei           | Folie 11, Fall 5, Video     |
+| BSL 1001 N 2.13           | [Staatsarchiv Basel-Stadt](https://dls.staatsarchiv.bs.ch/records/1007281)                                         | Verzeichnung ohne Bild     | Folie 12, Fall 2, Video     |
+| Index des personnes       | [Élites suisses](https://elitessuisses.unil.ch/indexPersonnes.php), Université de Lausanne                         | nicht angegeben            | Folie 15, Fall 4, Video     |
+| Datenfeld «Geschlecht»    | [Deutsche Nationalbibliothek](https://sta.dnb.de/doc/GND-DF-PERSON-GESCHLECHT)                                     | nicht angegeben            | Folien 18–19, Fall 4, Video |
+| Genozid-Denkmal, Ejmiacin | [Bildindex](https://www.bildindex.de/document/obj20544407), Bildarchiv Foto Marburg                                | nicht geprüft              | Folie 22, Video             |
+
+Stand der Prüfung: 7. Oktober 2026.
+
 ## Namensnennung
 
 Nennen Sie die OER zum Beispiel so:
