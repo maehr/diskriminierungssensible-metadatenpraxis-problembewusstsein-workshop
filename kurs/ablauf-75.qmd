@@ -47,7 +47,7 @@ Das 75-Minuten-Format ist der Standardablauf. Die Varianten für [60](ablauf-60.
 
 ### 50–65 min: Auswertung im Plenum
 
-- Jede Gruppe stellt in zwei bis drei Minuten einen Befund und eine Entscheidung vor.
+- Jede Gruppe stellt in zwei bis drei Minuten einen Befund und eine Entscheidung vor. Bei mehr als vier Gruppen wählen Sie eine kürzere Form (siehe [Auswertung bei vielen Gruppen](moderation.qmd#sec-viele-gruppen)).
 - Sammeln Sie die Entscheidungen auf dem Flipchart in vier Spalten: **Ändern**, **Ergänzen**, **Beibehalten**, **Schützen**.
 - Vergleichen Sie: Wo kamen Gruppen bei ähnlichen Problemen zu unterschiedlichen Entscheidungen? Welche Gründe und Rahmenbedingungen erklären den Unterschied?
 - Machen Sie sichtbar, dass mehrere begründete Optionen nebeneinander bestehen können.

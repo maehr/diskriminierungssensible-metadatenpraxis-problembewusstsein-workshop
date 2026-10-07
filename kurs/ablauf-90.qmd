@@ -38,7 +38,7 @@ Jede Gruppe wählt mindestens eine Aufgabe:
 
 ## Präsentation
 
-Jede Gruppe präsentiert in drei bis vier Minuten:
+Bei bis zu vier Gruppen präsentiert jede Gruppe in drei bis vier Minuten. Bei mehr Gruppen präsentieren zwei bis drei Gruppen mit unterschiedlichen Lösungen, die anderen hängen ihre Ergebnisse aus (siehe [Auswertung bei vielen Gruppen](moderation.qmd#sec-viele-gruppen)). Eine Präsentation zeigt:
 
 ::: {.schritte}
 
