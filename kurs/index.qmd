@@ -21,19 +21,42 @@ Die Teilnehmenden brauchen keine Vorkenntnisse zu diskriminierungssensibler Date
 
 ## Lernziele
 
-Nach Abschluss des Workshops können Teilnehmende:
+Ein Workshop von 60 bis 90 Minuten erreicht nicht alle Ziele gleich tief. Die OER unterscheidet deshalb drei Kernlernziele von weiterführenden Lernzielen.
+
+### Kernlernziele
+
+Nach dem Workshop können Teilnehmende:
 
 ::: {.schritte}
 
-1. erklären, warum Daten und Metadaten nicht neutral sind;
-2. Formen von Diskriminierung, Bias und intersektionalen Effekten an Beispielen erkennen;
-3. bestehende Metadaten hinsichtlich Herkunft, Kontext, Beschreibung und sensiblen Inhalten kritisch prüfen;
-4. potenzielle Auswirkungen von Benennungen, Kategorien, Leerstellen und Modellierungsentscheidungen diskutieren;
-5. begründete Handlungsoptionen für problematische Metadaten formulieren;
-6. reflektieren, wer an Metadatenentscheidungen beteiligt sein sollte;
-7. mindestens eine konkrete Konsequenz für die eigene Forschung oder institutionelle Praxis formulieren.
+1. problematische Entscheidungen in Metadaten erkennen;
+2. mögliche Auswirkungen und Kontextbedingungen analysieren;
+3. eine begründete und dokumentierbare Handlungsoption formulieren.
 
 :::
+
+Die Kernlernziele bauen aufeinander auf. Das [Metadaten-Audit](../hands-on/metadaten-audit.qmd) übt sie in der Gruppenarbeit. Die [Transfer-Karte](../nach-dem-kurs/transfer.qmd) überträgt sie auf die eigene Praxis.
+
+| Kernlernziel   | Im Metadaten-Audit                                | Auf der Transfer-Karte                                            |
+| :------------- | :------------------------------------------------ | :---------------------------------------------------------------- |
+| 1. erkennen    | A Sehen, B Hinterfragen                           | Frage 1: Was werde ich künftig prüfen?                            |
+| 2. analysieren | C Kontextualisieren, D Entscheiden (Sensibilität) | Frage 2: Was sollten wir in Projekt oder Institution diskutieren? |
+| 3. formulieren | D Entscheiden, E Dokumentieren                    | Frage 3: Welche Änderung probiere ich aus?                        |
+
+### Weiterführende Lernziele
+
+Je nach Zeitformat und Vorwissen erreichen Teilnehmende auch diese Ziele. Sie stammen aus der Spezifikation der OER. Die Lernziele 3 bis 5 der Spezifikation (prüfen, Auswirkungen diskutieren, Handlungsoptionen formulieren) gehen in den Kernlernzielen auf.
+
+- erklären, warum Daten und Metadaten nicht neutral sind;
+- Formen von Diskriminierung, Bias und intersektionalen Effekten an Beispielen erkennen;
+- reflektieren, wer an Metadatenentscheidungen beteiligt sein sollte;
+- mindestens eine konkrete Konsequenz für die eigene Forschung oder institutionelle Praxis formulieren.
+
+| Zeitformat | Schwerpunkt                                                                                          |
+| :--------- | :--------------------------------------------------------------------------------------------------- |
+| 60 Minuten | die drei Kernlernziele und die Konsequenz für die eigene Praxis                                      |
+| 75 Minuten | dazu die Formen von Diskriminierung und Bias an den Beispielen im Input                              |
+| 90 Minuten | dazu die Frage, wer an Entscheidungen beteiligt sein sollte, in der Umsetzung und den Präsentationen |
 
 ## Kernbotschaft
 

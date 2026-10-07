@@ -4,15 +4,19 @@ description: Die zentralen Begriffe des Inputs in Kurzform, mit Verweisen auf da
 bibliography: ../references.bib
 ---
 
-Diese Seite fasst die Begriffe des Inputs zusammen. Sie dient als gemeinsames Vokabular für die Gruppenarbeit. Die Definitionen stammen aus dem [Foliendeck](slides.qmd). Das [Handbuch](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/) erklärt jeden Begriff ausführlich.
+Diese Seite fasst die Begriffe des Inputs zusammen. Sie dient als gemeinsames Vokabular für die Gruppenarbeit. **Kernwissen** brauchen Sie für die Gruppenarbeit. **Referenz** dient der Vertiefung, zum Beispiel im Selbststudium. Die Definitionen stammen aus dem [Foliendeck](slides.qmd). Das [Handbuch](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/) erklärt jeden Begriff ausführlich.
 
 ## Daten sind nicht neutral
+
+_Kernwissen_
 
 Daten und Metadaten erscheinen auf den ersten Blick als objektive Repräsentationen der Wirklichkeit. Sie sind aber stets in historisch gewachsene Machtverhältnisse und normative Ordnungen eingebettet. Jede Modellierung von Daten und Metadaten beruht auf normativen Entscheidungen, die oft unsichtbar bleiben [@bowker1999].
 
 Handbuch: [Daten sind nicht neutral (Normativität)](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-daten-sind-nicht-neutral-normativität)
 
 ## Formen der Diskriminierung
+
+_Kernwissen: direkte, indirekte, strukturelle, institutionelle und intersektionale Diskriminierung. Referenz: statistische Diskriminierung._
 
 Diskriminierung kann explizit oder strukturell entstehen. Das Foliendeck unterscheidet sechs Formen:
 
@@ -38,13 +42,17 @@ Handbuch: [Diskriminierung in und durch Daten](https://moritz-maehr.quarto.pub/d
 
 ## Intersektionalität
 
+_Kernwissen_
+
 Intersektionalität ist ein Analyseansatz. Er versteht Diskriminierung nicht als isolierte Einzelphänomene, sondern als verflochtene, sich wechselseitig konstituierende Macht- und Ungleichheitsverhältnisse [@crenshaw1989; @collins2000]. Kategorien und Datenmodelle sind oft so angelegt, dass bestimmte Gruppen weder in Kategorie A noch in Kategorie B sichtbar werden, sondern zwischen beiden verschwinden.
 
-Intersektionalität ist eine Analyseperspektive, keine zusätzliche Metadatenkategorie. Sie stellt Anforderungen an Datenmodell, Arbeitsabläufe und Auswertung.
+Intersektionalität ist eine Analyseperspektive, keine zusätzliche Metadatenkategorie. Sie stellt Anforderungen an Datenmodell, Arbeitsabläufe und Auswertung. Im [Metadaten-Audit](../hands-on/metadaten-audit.qmd) hat sie deshalb keine eigene Zeile. Sie läuft als Querschnittsfrage in den Schritten Sehen, Kontextualisieren und Entscheiden mit.
 
 Handbuch: [Intersektionalität](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-intersektionalitaet)
 
 ## Verzerrung und Fehler (Bias)
+
+_Kernwissen: was Bias ist und die drei Familien. Referenz: die 19 einzelnen Formen._
 
 Ein Bias ist eine Verzerrung: eine systematische Abweichung von einer objektiven Darstellung. Bias kann in Quellen, Datenmodellen, Erschliessung, Normdaten, Workflows und Nachnutzung entstehen. Formale Korrektheit verhindert diskriminierende Wirkungen nicht automatisch.
 
@@ -57,6 +65,8 @@ Das Foliendeck ordnet 19 Formen von Bias nach dem Ort, an dem sie entstehen [@me
 Handbuch: [Verzerrungen und Fehler (Bias)](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-verzerrungen-und-fehler-bias)
 
 ## Historische Begriffe
+
+_Kernwissen für die Gruppenarbeit_
 
 Historische Quellen enthalten häufig diskriminierende Begriffe und Kategorisierungen. Daraus entsteht ein Spannungsfeld: Quellentreue und historische Nachvollziehbarkeit stehen gegen den Schutz vor Verletzung und vor der Fortschreibung diskriminierender Ordnungen. Der Workshop behandelt diese Frage als Entscheidungsdilemma in der Gruppenarbeit.
 

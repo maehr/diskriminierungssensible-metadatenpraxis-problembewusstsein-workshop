@@ -22,7 +22,8 @@ format:
     include-in-header:
       text: |
         #set page(flipped: true)
-        #set table(rows: (auto, 1.25cm))
+        // Writing space below the prompts of each step.
+        #set table(inset: (x, y) => if y > 0 { (x: 6pt, top: 6pt, bottom: 1.1cm) } else { 6pt })
   oer-docx: default
 ---
 
@@ -30,62 +31,51 @@ format:
 
 ::: {.arbeitsblatt}
 
-| Prüfschritt            | Leitfrage                                                                   | Befund | Handlungsoption |
-| :--------------------- | :-------------------------------------------------------------------------- | :----- | :-------------- |
-| **Herkunft**           | Woher stammen Daten und Beschreibung?                                       |        |                 |
-| **Auswahl**            | Was fehlt oder wurde priorisiert?                                           |        |                 |
-| **Kontext**            | Welche historischen oder gesellschaftlichen Kontexte fehlen?                |        |                 |
-| **Sprache**            | Welche Benennungen oder Kategorien sind problematisch?                      |        |                 |
-| **Perspektiven**       | Wer beschreibt wen? Wer fehlt?                                              |        |                 |
-| **Intersektionalität** | Welche Überschneidungen werden unsichtbar?                                  |        |                 |
-| **Sensibilität**       | Welche möglichen Schäden entstehen durch Veröffentlichung oder Nachnutzung? |        |                 |
-| **Entscheidung**       | Ändern, ergänzen, bewahren oder schützen?                                   |        |                 |
-| **Dokumentation**      | Wie wird die Entscheidung nachvollziehbar?                                  |        |                 |
+| Schritt                 | Worauf achten?                                                                                                                                              | Befund | Handlungsoption |
+| :---------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------- | :----- | :-------------- |
+| **A Sehen**             | _Auswahl, Sprache:_ Was wird beschrieben, was fehlt? Welche Kategorien und Begriffe fallen auf? _Intersektional:_ Was verschwindet zwischen Kategorien?     |        |                 |
+| **B Hinterfragen**      | _Herkunft:_ Wer hat die Metadaten wann und wozu erstellt oder übernommen? Welche Standards wirken?                                                          |        |                 |
+| **C Kontextualisieren** | _Kontext, Perspektiven:_ Welche Zusammenhänge fehlen? Wer beschreibt wen, wer fehlt? _Intersektional:_ Wessen Erfahrung liegt zwischen den Kategorien?      |        |                 |
+| **D Entscheiden**       | _Sensibilität, Entscheidung:_ Welche Schäden sind möglich? Ändern, ergänzen, bewahren oder schützen? _Intersektional:_ Trifft es Mehrfachbetroffene anders? |        |                 |
+| **E Dokumentieren**     | _Dokumentation, Beteiligung:_ Was entscheiden wir und warum? Wer sollte beteiligt sein? Wie wird die Entscheidung nachvollziehbar?                          |        |                 |
 
-: {tbl-colwidths="[13,29,29,29]"}
+: {tbl-colwidths="[13,35,26,26]"}
+
 :::
+
+_Intersektional_ ist keine eigene Zeile. Intersektionalität ist eine Perspektive, die in drei Schritten mitläuft.
 
 {{< pagebreak >}}
 
 ## So gehen Sie vor
 
-Das Metadaten-Audit führt Ihre Gruppe durch die Analyse eines Beispiels. Verwenden Sie ein eigenes Beispiel oder eine Fallkarte. Das Audit ist ein kompakter Einstieg. Es ersetzt die ausführlichen [Checklisten im Handbuch](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-checkliste) nicht.
+Das Metadaten-Audit führt Ihre Gruppe in fünf Schritten durch die Analyse eines Beispiels. Verwenden Sie ein eigenes Beispiel oder eine Fallkarte. Die Leitfragen unten gehören zu den fünf Zeilen des Arbeitsblatts. Sie müssen nicht jede Frage beantworten. Das Audit ist ein kompakter Einstieg. Es ersetzt die ausführlichen [Checklisten im Handbuch](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-checkliste) nicht.
 
-Die Analyse folgt fünf Schritten. Die Leitfragen helfen beim Ausfüllen des Arbeitsblatts. Sie müssen nicht jede Frage beantworten.
+### A Sehen
 
-**A. Sehen**
+- **Auswahl:** Was wird beschrieben? Welche Informationen werden erfasst, welche fehlen? Was wurde priorisiert?
+- **Sprache:** Welche Kategorien und Begriffe werden verwendet? Welche fallen auf? Was erscheint selbstverständlich oder neutral?
+- **Intersektional:** Welche Überschneidungen von Kategorien werden unsichtbar?
 
-- Was wird beschrieben?
-- Welche Informationen werden erfasst? Welche Informationen fehlen?
-- Welche Kategorien werden verwendet? Welche Begriffe fallen auf?
-- Was erscheint selbstverständlich oder neutral?
+### B Hinterfragen
 
-**B. Hinterfragen**
+- **Herkunft:** Wer hat die Metadaten erstellt? Wann und zu welchem Zweck? Wurden Daten oder Beschreibungen übernommen? Welche institutionellen Entscheidungen oder Standards wirken hier? Welche Unsicherheiten oder Leerstellen bestehen?
 
-- Wer hat die Metadaten erstellt? Wann und zu welchem Zweck?
-- Wurden Daten oder Beschreibungen übernommen?
-- Welche institutionellen Entscheidungen oder Standards wirken hier?
-- Welche Unsicherheiten oder Leerstellen bestehen?
+### C Kontextualisieren
 
-**C. Kontextualisieren**
+- **Kontext:** Unter welchen historischen, sozialen oder institutionellen Bedingungen entstand das Objekt oder die Quelle? Welche Informationen sind nötig, um die Daten angemessen zu interpretieren?
+- **Perspektiven:** Wer beschreibt wen? Welche Machtverhältnisse sind relevant? Welche Perspektiven fehlen?
+- **Intersektional:** Wessen Erfahrung liegt zwischen den Kategorien und wird deshalb nicht beschrieben?
 
-- Unter welchen historischen, sozialen oder institutionellen Bedingungen entstand das Objekt oder die Quelle?
-- Wer beschreibt wen? Welche Machtverhältnisse sind relevant? Welche Perspektiven fehlen?
-- Welche Informationen sind nötig, um die Daten angemessen zu interpretieren?
+### D Entscheiden
 
-**D. Entscheiden**
+- **Sensibilität:** Welche möglichen Schäden entstehen durch Veröffentlichung oder Nachnutzung?
+- **Entscheidung:** Was sollte beibehalten, ergänzt, geändert oder geschützt werden? Welche Begriffe sollten kontextualisiert werden, welche historischen Begriffe müssen erhalten bleiben? Welche Selbstbezeichnungen oder Alternativbegriffe sollten ergänzt werden? Wo sollte Unsicherheit sichtbar werden? Ist eine Content Note nötig? Ist eine Änderung des Zugangs oder der Darstellung nötig?
+- **Intersektional:** Wirkt die Entscheidung auf Personen, die von mehreren Formen der Diskriminierung betroffen sind, anders?
 
-- Was sollte beibehalten, ergänzt oder geändert werden?
-- Welche Begriffe sollten kontextualisiert werden? Welche historischen Begriffe müssen erhalten bleiben?
-- Welche Selbstbezeichnungen oder Alternativbegriffe sollten ergänzt werden?
-- Wo sollte Unsicherheit sichtbar werden?
-- Ist eine Content Note nötig? Ist eine Änderung des Zugangs oder der Darstellung nötig?
-
-**E. Dokumentieren**
+### E Dokumentieren
 
 Halten Sie mindestens eine Entscheidung fest und beantworten Sie diese Pflichtfragen:
 
-- Was würden wir ändern, ergänzen, beibehalten oder schützen?
-- Warum?
-- Wer sollte an dieser Entscheidung beteiligt sein?
-- Wie sollte die Entscheidung dokumentiert werden?
+- **Dokumentation:** Was würden wir ändern, ergänzen, beibehalten oder schützen? Warum? Wie sollte die Entscheidung dokumentiert werden?
+- **Beteiligung:** Wer sollte an dieser Entscheidung beteiligt sein?
