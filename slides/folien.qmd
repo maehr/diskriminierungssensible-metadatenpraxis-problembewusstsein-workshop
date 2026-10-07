@@ -103,7 +103,7 @@ Data are not neutral
 ![](images/commons-map-of-the-crimea.png){.shot-img fig-alt="Screenshot von Wikimedia Commons: Datei «Map of the Crimea.png», eine Karte der Halbinsel Krim mit Städten, Strassen und Grenzen."}
 
 ::: {.source}
-[commons.wikimedia.org/wiki/File:Map_of_the_Crimea.png](https://commons.wikimedia.org/wiki/File:Map_of_the_Crimea.png) · Karte: Maximilian Dörrbecker (Chumwa), CC BY-SA 2.0
+[commons.wikimedia.org/wiki/File:Map_of_the_Crimea.png](https://commons.wikimedia.org/wiki/File:Map_of_the_Crimea.png) · Karte: Maximilian Dörrbecker (Chumwa), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
 :::
 
 ## Das Beispiel Krim {.bias}
