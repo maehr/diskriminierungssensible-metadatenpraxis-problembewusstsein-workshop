@@ -228,6 +228,8 @@ main div.callout.callout-style-simple {
 
 main div.callout.callout-style-default > .callout-header,
 main div.callout.callout-style-simple > .callout-header {
+  // Quarto dims callout headers (opacity 0.85). That lowers the label contrast below 4.5:1.
+  opacity: 1;
   padding: 0.9rem 1.2rem 0;
   background-color: transparent;
   border: 0;
