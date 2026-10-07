@@ -75,11 +75,11 @@ Der Workshop berührt Diskriminierung. Diskussionen können deshalb persönlich 
 
 Die Zeitpläne rechnen mit bis zu vier Gruppen. Bei mehr Gruppen reicht die Zeit im Plenum nicht für eine Präsentation jeder Gruppe. Wählen Sie die Form der Auswertung nach der Zahl der Gruppen:
 
-| Gruppen    | Auswertung im Plenum                                                                                                                                                    |
-| :--------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| bis 4      | Jede Gruppe stellt einen Befund und eine Entscheidung vor (60 Minuten: je etwa 2 Minuten; 75 Minuten: je 2 bis 3 Minuten; 90 Minuten: je 3 bis 4 Minuten).              |
-| 5 bis 6    | Jede Gruppe nennt in einer Minute eine Entscheidung. Sie sammeln die Entscheidungen in den vier Spalten des Flipcharts und vertiefen ein bis zwei Kontraste.            |
-| 7 und mehr | Galeriegang: Die Gruppen hängen ihr Arbeitsblatt auf und lesen fünf Minuten lang die Ergebnisse der anderen. Danach besprechen Sie zwei bis drei kontrastierende Fälle. |
+| Gruppen    | Auswertung im Plenum                                                                                                                                                                       |
+| :--------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| bis 4      | Jede Gruppe stellt einen Befund und eine Entscheidung vor (60 Minuten: je etwa 2 Minuten; 75 Minuten: je 2 bis 3 Minuten; 90 Minuten: je höchstens 3 Minuten, einschliesslich Rückfragen). |
+| 5 bis 6    | Jede Gruppe nennt in einer Minute eine Entscheidung. Sie sammeln die Entscheidungen in den vier Spalten des Flipcharts und vertiefen ein bis zwei Kontraste.                               |
+| 7 und mehr | Galeriegang: Die Gruppen hängen ihr Arbeitsblatt auf und lesen fünf Minuten lang die Ergebnisse der anderen. Danach besprechen Sie zwei bis drei kontrastierende Fälle.                    |
 
 Statt eines Galeriegangs können die Gruppen ihre Entscheidung auch auf eine Karte schreiben. Sie wählen daraus zwei bis drei Fälle für das Gespräch im Plenum. Ab etwa 30 Teilnehmenden ist eine zweite Person für die Moderation hilfreich.
 
