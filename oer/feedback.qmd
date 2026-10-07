@@ -7,13 +7,13 @@ Die OER lebt von Erfahrungen aus der Praxis. Rückmeldungen von Kursleitenden un
 
 ## Rückmeldung per E-Mail
 
-Der einfachste Weg: Schreiben Sie eine E-Mail an <moritz.maehr@gmail.com>. Sie brauchen dafür kein Konto auf einer Plattform. Diese Fragen helfen bei einer Rückmeldung:
+Der einfachste Weg: Schreiben Sie eine E-Mail an <moritz.maehr@gmail.com>. Sie brauchen dafür kein GitHub-Konto. Diese Fragen helfen bei einer Rückmeldung:
 
 - In welchem Kontext und in welchem Zeitformat haben Sie die OER verwendet?
 - Was hat funktioniert?
 - Was sollten wir verbessern?
 
-Wir behandeln Ihre E-Mail vertraulich. Wenn Sie zustimmen, übertragen wir Ihre Hinweise ohne Namen in ein Issue.
+Wir behandeln Ihre E-Mail vertraulich. Wir veröffentlichen Hinweise aus E-Mails nur mit Ihrer ausdrücklichen Zustimmung. Vorher entfernen wir alle personenbezogenen und vertraulichen Angaben, auch zu Institutionen und Vorfällen, über die sich Personen erkennen lassen.
 
 ## Rückmeldung über GitHub
 
