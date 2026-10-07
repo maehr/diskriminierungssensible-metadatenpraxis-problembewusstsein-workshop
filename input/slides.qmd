@@ -21,67 +21,69 @@ Das Foliendeck vermittelt die zentralen Konzepte für Teil 1 des Workshops. Es i
 
 ## Folienübersicht {#sec-folienuebersicht}
 
-Die Tabelle zeigt, welche Folien zu welchem Zeitformat gehören. Ein Klick auf den Titel öffnet die Folie.
+Die Tabelle zeigt, welche Folien zu welchem Zeitformat gehören. Ein Klick auf den Titel öffnet die Folie. Die Spalte «Dauer im Video» zeigt, wie lange die Folie in der [Videoaufzeichnung](video.qmd) zu sehen ist.
 
-- **60 Minuten:** nur die Kernfolien, ca. 10 Minuten Input.
-- **75 und 90 Minuten:** Kernfolien und Beispiele, ca. 15 Minuten Input. Das 90-Minuten-Format verwendet die zusätzliche Zeit für die Gruppenarbeit, nicht für mehr Theorie.
-- **Selbststudium:** alle Folien, auch die 19 Formen von Bias.
+- **60 Minuten:** nur die Kernfolien. Im Video dauern sie zusammen 3:45 Minuten.
+- **75 und 90 Minuten:** Kernfolien und Beispiele. Im Video dauern sie zusammen 7:14 Minuten. Das 90-Minuten-Format verwendet die zusätzliche Zeit für die Gruppenarbeit, nicht für mehr Theorie.
+- **Referenz und Selbststudium:** alle Folien, auch die 19 Formen von Bias und die statistische Diskriminierung. Für die Gruppenarbeit sind diese Folien nicht nötig.
 
-| Nr. | Folie                                                                                                                | 60 min | 75 und 90 min | Selbststudium |
-| --: | :------------------------------------------------------------------------------------------------------------------- | :----: | :-----------: | :-----------: |
-|   1 | [Titelfolie](../slides/folien.html#/title-slide)                                                                     |   ✓    |       ✓       |       ✓       |
-|   2 | [Setting the scene](../slides/folien.html#/setting-the-scene)                                                        |   ✓    |       ✓       |       ✓       |
-|   3 | [Daten sind nicht neutral (Kapitelfolie)](../slides/folien.html#/daten-sind-nicht-neutral)                           |   ✓    |       ✓       |       ✓       |
-|   4 | [Normativität](../slides/folien.html#/normativität)                                                                  |   ✓    |       ✓       |       ✓       |
-|   5 | [Krim in Wikidata: Bezeichnungen](../slides/folien.html#/krim-in-wikidata-bezeichnungen)                             |        |       ✓       |       ✓       |
-|   6 | [Krim in Wikidata: Staatszugehörigkeit](../slides/folien.html#/krim-in-wikidata-staatszugehörigkeit)                 |        |       ✓       |       ✓       |
-|   7 | [Karte der Krim auf Wikimedia Commons](../slides/folien.html#/karte-der-krim-auf-wikimedia-commons)                  |        |       ✓       |       ✓       |
-|   8 | [Das Beispiel Krim](../slides/folien.html#/das-beispiel-krim)                                                        |   ✓    |       ✓       |       ✓       |
-|   9 | [Direkte Diskriminierung (Kapitelfolie)](../slides/folien.html#/direkte-diskriminierung)                             |        |       ✓       |       ✓       |
-|  10 | [Direkte Diskriminierung](../slides/folien.html#/direkte-diskriminierung-1)                                          |   ✓    |       ✓       |       ✓       |
-|  11 | [Staatsarchiv Basel-Stadt: BSL 1001 G 1.1.13.2](../slides/folien.html#/staatsarchiv-basel-stadt-bsl-1001-g-1.1.13.2) |        |       ✓       |       ✓       |
-|  12 | [Staatsarchiv Basel-Stadt: BSL 1001 N 2.13](../slides/folien.html#/staatsarchiv-basel-stadt-bsl-1001-n-2.13)         |        |       ✓       |       ✓       |
-|  13 | [Indirekte Diskriminierung (Kapitelfolie)](../slides/folien.html#/indirekte-diskriminierung)                         |        |       ✓       |       ✓       |
-|  14 | [Indirekte Diskriminierung](../slides/folien.html#/indirekte-diskriminierung-1)                                      |   ✓    |       ✓       |       ✓       |
-|  15 | [Élites suisses: Index des personnes](../slides/folien.html#/élites-suisses-index-des-personnes)                     |        |       ✓       |       ✓       |
-|  16 | [Strukturelle Diskriminierung (Kapitelfolie)](../slides/folien.html#/strukturelle-diskriminierung)                   |        |       ✓       |       ✓       |
-|  17 | [Strukturelle Diskriminierung](../slides/folien.html#/strukturelle-diskriminierung-1)                                |   ✓    |       ✓       |       ✓       |
-|  18 | [GND: Datenfeld Geschlecht](../slides/folien.html#/gnd-datenfeld-geschlecht)                                         |        |       ✓       |       ✓       |
-|  19 | [GND: Codes für Geschlecht](../slides/folien.html#/gnd-codes-für-geschlecht)                                         |        |       ✓       |       ✓       |
-|  20 | [Institutionelle Diskriminierung (Kapitelfolie)](../slides/folien.html#/institutionelle-diskriminierung)             |        |       ✓       |       ✓       |
-|  21 | [Institutionelle Diskriminierung](../slides/folien.html#/institutionelle-diskriminierung-1)                          |   ✓    |       ✓       |       ✓       |
-|  22 | [Bildindex: Genozid-Denkmal, Ejmiacin](../slides/folien.html#/bildindex-genozid-denkmal-ejmiacin)                    |        |       ✓       |       ✓       |
-|  23 | [Statistische Diskriminierung (Kapitelfolie)](../slides/folien.html#/statistische-diskriminierung)                   |        |       ✓       |       ✓       |
-|  24 | [Statistische Diskriminierung](../slides/folien.html#/statistische-diskriminierung-1)                                |        |       ✓       |       ✓       |
-|  25 | [Intersektionale Diskriminierung (Kapitelfolie)](../slides/folien.html#/intersektionale-diskriminierung)             |        |       ✓       |       ✓       |
-|  26 | [Intersektionalität](../slides/folien.html#/intersektionalität)                                                      |   ✓    |       ✓       |       ✓       |
-|  27 | [Intersektionalität in der Metadatenpraxis](../slides/folien.html#/intersektionalität-in-der-metadatenpraxis)        |        |       ✓       |       ✓       |
-|  28 | [Bias (Kapitelfolie)](../slides/folien.html#/bias)                                                                   |   ✓    |       ✓       |       ✓       |
-|  29 | [Was ist Bias?](../slides/folien.html#/was-ist-bias)                                                                 |   ✓    |       ✓       |       ✓       |
-|  30 | [Drei Familien von Bias](../slides/folien.html#/drei-familien-von-bias)                                              |   ✓    |       ✓       |       ✓       |
-|  31 | [Verzerrung in Daten (Kapitelfolie)](../slides/folien.html#/verzerrung-in-daten)                                     |        |               |       ✓       |
-|  32 | [Messfehler](../slides/folien.html#/messfehler)                                                                      |        |               |       ✓       |
-|  33 | [Auslassungsfehler](../slides/folien.html#/auslassungsfehler)                                                        |        |               |       ✓       |
-|  34 | [Repräsentationsfehler](../slides/folien.html#/repräsentationsfehler)                                                |        |               |       ✓       |
-|  35 | [Aggregationsfehler](../slides/folien.html#/aggregationsfehler)                                                      |        |               |       ✓       |
-|  36 | [Stichprobenfehler](../slides/folien.html#/stichprobenfehler)                                                        |        |               |       ✓       |
-|  37 | [Längsschnittfehler](../slides/folien.html#/längsschnittfehler)                                                      |        |               |       ✓       |
-|  38 | [Historische Verzerrung](../slides/folien.html#/historische-verzerrung)                                              |        |               |       ✓       |
-|  39 | [Populationsfehler](../slides/folien.html#/populationsfehler)                                                        |        |               |       ✓       |
-|  40 | [Verzerrung durch Algorithmen (Kapitelfolie)](../slides/folien.html#/verzerrung-durch-algorithmen)                   |        |               |       ✓       |
-|  41 | [Algorithmischer Fehler](../slides/folien.html#/algorithmischer-fehler)                                              |        |               |       ✓       |
-|  42 | [Evaluationsfehler](../slides/folien.html#/evaluationsfehler)                                                        |        |               |       ✓       |
-|  43 | [Verzerrung durch Nutzerinteraktion (Kapitelfolie)](../slides/folien.html#/verzerrung-durch-nutzerinteraktion)       |        |               |       ✓       |
-|  44 | [Darstellungsfehler](../slides/folien.html#/darstellungsfehler)                                                      |        |               |       ✓       |
-|  45 | [Rangfolgenfehler](../slides/folien.html#/rangfolgenfehler)                                                          |        |               |       ✓       |
-|  46 | [Popularitätsfehler](../slides/folien.html#/popularitätsfehler)                                                      |        |               |       ✓       |
-|  47 | [Emergenter Fehler](../slides/folien.html#/emergenter-fehler)                                                        |        |               |       ✓       |
-|  48 | [Selbstselektionsverzerrung](../slides/folien.html#/selbstselektionsverzerrung)                                      |        |               |       ✓       |
-|  49 | [Soziale Verzerrung](../slides/folien.html#/soziale-verzerrung)                                                      |        |               |       ✓       |
-|  50 | [Verhaltensverzerrung](../slides/folien.html#/verhaltensverzerrung)                                                  |        |               |       ✓       |
-|  51 | [Zeitliche Verzerrung](../slides/folien.html#/zeitliche-verzerrung)                                                  |        |               |       ✓       |
-|  52 | [Inhaltsproduktionsfehler](../slides/folien.html#/inhaltsproduktionsfehler)                                          |        |               |       ✓       |
-|  53 | [Quellen](../slides/folien.html#/quellen)                                                                            |   ✓    |       ✓       |       ✓       |
+Das Video zeigt einen zügigen Vortrag ohne Rückfragen. Planen Sie für den Input im Raum etwa die doppelte Zeit ein: rund 8 Minuten für das 60-Minuten-Format und rund 15 Minuten für das 75- und 90-Minuten-Format. Das entspricht den Zeitplänen.
+
+| Nr. | Folie                                                                                                                | Dauer im Video | 60 min | 75 und 90 min | Referenz und Selbststudium |
+| --: | :------------------------------------------------------------------------------------------------------------------- | -------------: | :----: | :-----------: | :------------------------: |
+|   1 | [Titelfolie](../slides/folien.html#/title-slide)                                                                     |           0:10 |   ✓    |       ✓       |             ✓              |
+|   2 | [Setting the scene](../slides/folien.html#/setting-the-scene)                                                        |           0:28 |   ✓    |       ✓       |             ✓              |
+|   3 | [Daten sind nicht neutral (Kapitelfolie)](../slides/folien.html#/daten-sind-nicht-neutral)                           |           0:08 |   ✓    |       ✓       |             ✓              |
+|   4 | [Normativität](../slides/folien.html#/normativität)                                                                  |           0:19 |   ✓    |       ✓       |             ✓              |
+|   5 | [Krim in Wikidata: Bezeichnungen](../slides/folien.html#/krim-in-wikidata-bezeichnungen)                             |           0:19 |        |       ✓       |             ✓              |
+|   6 | [Krim in Wikidata: Staatszugehörigkeit](../slides/folien.html#/krim-in-wikidata-staatszugehörigkeit)                 |           0:12 |        |       ✓       |             ✓              |
+|   7 | [Karte der Krim auf Wikimedia Commons](../slides/folien.html#/karte-der-krim-auf-wikimedia-commons)                  |           0:20 |        |       ✓       |             ✓              |
+|   8 | [Das Beispiel Krim](../slides/folien.html#/das-beispiel-krim)                                                        |           0:22 |   ✓    |       ✓       |             ✓              |
+|   9 | [Direkte Diskriminierung (Kapitelfolie)](../slides/folien.html#/direkte-diskriminierung)                             |           0:07 |        |       ✓       |             ✓              |
+|  10 | [Direkte Diskriminierung](../slides/folien.html#/direkte-diskriminierung-1)                                          |           0:17 |   ✓    |       ✓       |             ✓              |
+|  11 | [Staatsarchiv Basel-Stadt: BSL 1001 G 1.1.13.2](../slides/folien.html#/staatsarchiv-basel-stadt-bsl-1001-g-1.1.13.2) |           0:19 |        |       ✓       |             ✓              |
+|  12 | [Staatsarchiv Basel-Stadt: BSL 1001 N 2.13](../slides/folien.html#/staatsarchiv-basel-stadt-bsl-1001-n-2.13)         |           0:11 |        |       ✓       |             ✓              |
+|  13 | [Indirekte Diskriminierung (Kapitelfolie)](../slides/folien.html#/indirekte-diskriminierung)                         |           0:06 |        |       ✓       |             ✓              |
+|  14 | [Indirekte Diskriminierung](../slides/folien.html#/indirekte-diskriminierung-1)                                      |           0:14 |   ✓    |       ✓       |             ✓              |
+|  15 | [Élites suisses: Index des personnes](../slides/folien.html#/élites-suisses-index-des-personnes)                     |           0:21 |        |       ✓       |             ✓              |
+|  16 | [Strukturelle Diskriminierung (Kapitelfolie)](../slides/folien.html#/strukturelle-diskriminierung)                   |           0:06 |        |       ✓       |             ✓              |
+|  17 | [Strukturelle Diskriminierung](../slides/folien.html#/strukturelle-diskriminierung-1)                                |           0:14 |   ✓    |       ✓       |             ✓              |
+|  18 | [GND: Datenfeld Geschlecht](../slides/folien.html#/gnd-datenfeld-geschlecht)                                         |           0:11 |        |       ✓       |             ✓              |
+|  19 | [GND: Codes für Geschlecht](../slides/folien.html#/gnd-codes-für-geschlecht)                                         |           0:08 |        |       ✓       |             ✓              |
+|  20 | [Institutionelle Diskriminierung (Kapitelfolie)](../slides/folien.html#/institutionelle-diskriminierung)             |           0:05 |        |       ✓       |             ✓              |
+|  21 | [Institutionelle Diskriminierung](../slides/folien.html#/institutionelle-diskriminierung-1)                          |           0:11 |   ✓    |       ✓       |             ✓              |
+|  22 | [Bildindex: Genozid-Denkmal, Ejmiacin](../slides/folien.html#/bildindex-genozid-denkmal-ejmiacin)                    |           0:35 |        |       ✓       |             ✓              |
+|  23 | [Statistische Diskriminierung (Kapitelfolie)](../slides/folien.html#/statistische-diskriminierung)                   |           0:04 |        |               |             ✓              |
+|  24 | [Statistische Diskriminierung](../slides/folien.html#/statistische-diskriminierung-1)                                |           0:28 |        |               |             ✓              |
+|  25 | [Intersektionale Diskriminierung (Kapitelfolie)](../slides/folien.html#/intersektionale-diskriminierung)             |           0:06 |        |       ✓       |             ✓              |
+|  26 | [Intersektionalität](../slides/folien.html#/intersektionalität)                                                      |           0:21 |   ✓    |       ✓       |             ✓              |
+|  27 | [Intersektionalität in der Metadatenpraxis](../slides/folien.html#/intersektionalität-in-der-metadatenpraxis)        |           0:24 |        |       ✓       |             ✓              |
+|  28 | [Bias (Kapitelfolie)](../slides/folien.html#/bias)                                                                   |           0:13 |   ✓    |       ✓       |             ✓              |
+|  29 | [Was ist Bias?](../slides/folien.html#/was-ist-bias)                                                                 |           0:16 |   ✓    |       ✓       |             ✓              |
+|  30 | [Drei Familien von Bias](../slides/folien.html#/drei-familien-von-bias)                                              |           0:22 |   ✓    |       ✓       |             ✓              |
+|  31 | [Verzerrung in Daten (Kapitelfolie)](../slides/folien.html#/verzerrung-in-daten)                                     |           0:05 |        |               |             ✓              |
+|  32 | [Messfehler](../slides/folien.html#/messfehler)                                                                      |           0:18 |        |               |             ✓              |
+|  33 | [Auslassungsfehler](../slides/folien.html#/auslassungsfehler)                                                        |           0:26 |        |               |             ✓              |
+|  34 | [Repräsentationsfehler](../slides/folien.html#/repräsentationsfehler)                                                |           0:24 |        |               |             ✓              |
+|  35 | [Aggregationsfehler](../slides/folien.html#/aggregationsfehler)                                                      |           0:24 |        |               |             ✓              |
+|  36 | [Stichprobenfehler](../slides/folien.html#/stichprobenfehler)                                                        |           0:21 |        |               |             ✓              |
+|  37 | [Längsschnittfehler](../slides/folien.html#/längsschnittfehler)                                                      |           0:27 |        |               |             ✓              |
+|  38 | [Historische Verzerrung](../slides/folien.html#/historische-verzerrung)                                              |           0:30 |        |               |             ✓              |
+|  39 | [Populationsfehler](../slides/folien.html#/populationsfehler)                                                        |           0:18 |        |               |             ✓              |
+|  40 | [Verzerrung durch Algorithmen (Kapitelfolie)](../slides/folien.html#/verzerrung-durch-algorithmen)                   |           0:06 |        |               |             ✓              |
+|  41 | [Algorithmischer Fehler](../slides/folien.html#/algorithmischer-fehler)                                              |           0:25 |        |               |             ✓              |
+|  42 | [Evaluationsfehler](../slides/folien.html#/evaluationsfehler)                                                        |           0:25 |        |               |             ✓              |
+|  43 | [Verzerrung durch Nutzerinteraktion (Kapitelfolie)](../slides/folien.html#/verzerrung-durch-nutzerinteraktion)       |           0:08 |        |               |             ✓              |
+|  44 | [Darstellungsfehler](../slides/folien.html#/darstellungsfehler)                                                      |           0:14 |        |               |             ✓              |
+|  45 | [Rangfolgenfehler](../slides/folien.html#/rangfolgenfehler)                                                          |           0:19 |        |               |             ✓              |
+|  46 | [Popularitätsfehler](../slides/folien.html#/popularitätsfehler)                                                      |           0:11 |        |               |             ✓              |
+|  47 | [Emergenter Fehler](../slides/folien.html#/emergenter-fehler)                                                        |           0:15 |        |               |             ✓              |
+|  48 | [Selbstselektionsverzerrung](../slides/folien.html#/selbstselektionsverzerrung)                                      |           0:24 |        |               |             ✓              |
+|  49 | [Soziale Verzerrung](../slides/folien.html#/soziale-verzerrung)                                                      |           0:15 |        |               |             ✓              |
+|  50 | [Verhaltensverzerrung](../slides/folien.html#/verhaltensverzerrung)                                                  |           0:26 |        |               |             ✓              |
+|  51 | [Zeitliche Verzerrung](../slides/folien.html#/zeitliche-verzerrung)                                                  |           0:13 |        |               |             ✓              |
+|  52 | [Inhaltsproduktionsfehler](../slides/folien.html#/inhaltsproduktionsfehler)                                          |           0:18 |        |               |             ✓              |
+|  53 | [Quellen](../slides/folien.html#/quellen)                                                                            |           0:09 |   ✓    |       ✓       |             ✓              |
 
 ## Folien anpassen
 
