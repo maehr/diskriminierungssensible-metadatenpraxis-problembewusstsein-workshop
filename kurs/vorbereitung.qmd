@@ -49,6 +49,7 @@ Eigene Beispiele machen den Transfer in die Praxis leichter. Sie bringen aber au
 ## Gruppenbildung
 
 - Bilden Sie Gruppen mit drei bis fünf Personen.
+- Richtwert: Bis etwa 20 Teilnehmende ergeben bis zu vier Gruppen. Dann können alle Gruppen im Plenum präsentieren. Bei mehr Gruppen wählen Sie eine kürzere Form der Auswertung (siehe [Auswertung bei vielen Gruppen](moderation.qmd#sec-viele-gruppen)).
 - Gruppieren Sie nach Beispielen: Teilnehmende mit eigenem Beispiel verteilen sich auf die Gruppen. Gruppen ohne eigenes Beispiel erhalten eine Fallkarte.
 - Gemischte Gruppen aus Forschung und GLAM-Praxis bringen unterschiedliche Perspektiven zusammen. Gruppen aus derselben Institution können dafür institutionelle Rahmenbedingungen konkreter diskutieren. Wählen Sie bewusst.
 - Bitten Sie jede Gruppe, eine Person für die Zeit und eine Person für die Dokumentation zu bestimmen.
