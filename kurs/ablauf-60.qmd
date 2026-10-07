@@ -25,7 +25,7 @@ Das Kurzformat folgt dem [Ablauf 75 Minuten](ablauf-75.qmd). Es kürzt den Input
 
 ## Priorisierte Leitfragen
 
-Geben Sie den Gruppen diese fünf Fragen. Die Gruppen notieren die Antworten auf dem [Metadaten-Audit](../hands-on/metadaten-audit.qmd) in den Zeilen «Entscheidung» und «Dokumentation».
+Geben Sie den Gruppen diese fünf Fragen. Die Gruppen notieren die Antworten auf dem [Metadaten-Audit](../hands-on/metadaten-audit.qmd) in den Zeilen «D Entscheiden» und «E Dokumentieren».
 
 ::: {.schritte}
 

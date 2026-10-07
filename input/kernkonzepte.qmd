@@ -40,7 +40,7 @@ Handbuch: [Diskriminierung in und durch Daten](https://moritz-maehr.quarto.pub/d
 
 Intersektionalität ist ein Analyseansatz. Er versteht Diskriminierung nicht als isolierte Einzelphänomene, sondern als verflochtene, sich wechselseitig konstituierende Macht- und Ungleichheitsverhältnisse [@crenshaw1989; @collins2000]. Kategorien und Datenmodelle sind oft so angelegt, dass bestimmte Gruppen weder in Kategorie A noch in Kategorie B sichtbar werden, sondern zwischen beiden verschwinden.
 
-Intersektionalität ist eine Analyseperspektive, keine zusätzliche Metadatenkategorie. Sie stellt Anforderungen an Datenmodell, Arbeitsabläufe und Auswertung.
+Intersektionalität ist eine Analyseperspektive, keine zusätzliche Metadatenkategorie. Sie stellt Anforderungen an Datenmodell, Arbeitsabläufe und Auswertung. Im [Metadaten-Audit](../hands-on/metadaten-audit.qmd) hat sie deshalb keine eigene Zeile. Sie läuft als Querschnittsfrage in den Schritten Sehen, Kontextualisieren und Entscheiden mit.
 
 Handbuch: [Intersektionalität](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-intersektionalitaet)
 
