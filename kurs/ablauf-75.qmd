@@ -34,6 +34,7 @@ Das 75-Minuten-Format ist der Standardablauf. Die Varianten für [60](ablauf-60.
 ### 20–25 min: Einführung Metadaten-Audit
 
 - Erklären Sie die fünf Schritte des [Metadaten-Audits](../hands-on/metadaten-audit.qmd): Sehen, Hinterfragen, Kontextualisieren, Entscheiden, Dokumentieren.
+- Zeigen Sie: Jeder Schritt hat eine Zeile im Arbeitsblatt. Intersektionalität hat keine eigene Zeile, sie läuft als Querschnittsfrage in den Schritten A, C und D mit.
 - Bilden Sie die Gruppen (siehe [Vorbereitung](vorbereitung.qmd#gruppenbildung)).
 - Gruppen mit eigenem Beispiel wählen eines aus. Die anderen Gruppen erhalten eine [Fallkarte](../hands-on/fallbeispiele/index.qmd).
 
