@@ -34,6 +34,7 @@ Das 75-Minuten-Format ist der Standardablauf. Die Varianten für [60](ablauf-60.
 ### 20–25 min: Einführung Metadaten-Audit
 
 - Erklären Sie die fünf Schritte des [Metadaten-Audits](../hands-on/metadaten-audit.qmd): Sehen, Hinterfragen, Kontextualisieren, Entscheiden, Dokumentieren.
+- Zeigen Sie: Jeder Schritt hat eine Zeile im Arbeitsblatt. Intersektionalität hat keine eigene Zeile, sie läuft als Querschnittsfrage in den Schritten A, C und D mit.
 - Bilden Sie die Gruppen (siehe [Vorbereitung](vorbereitung.qmd#gruppenbildung)).
 - Gruppen mit eigenem Beispiel wählen eines aus. Die anderen Gruppen erhalten eine [Fallkarte](../hands-on/fallbeispiele/index.qmd).
 
@@ -46,7 +47,7 @@ Das 75-Minuten-Format ist der Standardablauf. Die Varianten für [60](ablauf-60.
 
 ### 50–65 min: Auswertung im Plenum
 
-- Jede Gruppe stellt in zwei bis drei Minuten einen Befund und eine Entscheidung vor.
+- Jede Gruppe stellt in zwei bis drei Minuten einen Befund und eine Entscheidung vor. Bei mehr als vier Gruppen wählen Sie eine kürzere Form (siehe [Auswertung bei vielen Gruppen](moderation.qmd#sec-viele-gruppen)).
 - Sammeln Sie die Entscheidungen auf dem Flipchart in vier Spalten: **Ändern**, **Ergänzen**, **Beibehalten**, **Schützen**.
 - Vergleichen Sie: Wo kamen Gruppen bei ähnlichen Problemen zu unterschiedlichen Entscheidungen? Welche Gründe und Rahmenbedingungen erklären den Unterschied?
 - Machen Sie sichtbar, dass mehrere begründete Optionen nebeneinander bestehen können.

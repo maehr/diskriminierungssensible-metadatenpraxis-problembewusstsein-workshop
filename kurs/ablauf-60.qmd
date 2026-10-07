@@ -3,7 +3,16 @@ title: Ablauf 60 Minuten
 description: Das Kurzformat des Workshops mit reduziertem Input und priorisierten Leitfragen.
 ---
 
-Das Kurzformat folgt dem [Ablauf 75 Minuten](ablauf-75.qmd). Es kürzt den Input, die Gruppenphase und das Plenum. Lesen Sie zuerst die Detailbeschreibung des Standardablaufs.
+Das Kurzformat passt in ein knappes Zeitfenster, zum Beispiel in eine Tagung. Es hat einen kürzeren Input, eine kürzere Gruppenphase und ein kürzeres Plenum als die Formate für [75](ablauf-75.qmd) und [90 Minuten](ablauf-90.qmd). Diese Seite enthält alles, was Sie für die Durchführung brauchen.
+
+## Material
+
+- [Slides](../input/slides.qmd), nur die Folien für 60 Minuten (siehe [Folienübersicht](../input/slides.qmd#sec-folienuebersicht));
+- [Metadaten-Audit](../hands-on/metadaten-audit.qmd), ein Blatt pro Gruppe;
+- [Fallkarten](../hands-on/fallbeispiele/index.qmd) für Gruppen ohne eigenes Beispiel;
+- [Transfer-Karte](../nach-dem-kurs/transfer.qmd), eine pro Person;
+- [Content Note](content-note.qmd) zum Vorlesen;
+- ein Flipchart mit vier Spalten: **Ändern**, **Ergänzen**, **Beibehalten**, **Schützen**.
 
 ## Zeitplan
 
@@ -17,15 +26,28 @@ Das Kurzformat folgt dem [Ablauf 75 Minuten](ablauf-75.qmd). Es kürzt den Input
 | 50–57 min | Transfer                         | Konsequenzen für eigene Praxis formulieren |
 | 57–60 min | Abschluss                        | Take-away und Ressourcen                   |
 
-## Anpassungen gegenüber 75 Minuten
+## Ablauf im Detail
 
-- **Input:** Zeigen Sie nur die Folien, die in der [Folienübersicht](../input/slides.qmd#sec-folienuebersicht) für 60 Minuten markiert sind.
-- **Gruppenphase:** Begrenzen Sie die Gruppenphase auf etwa 20 Minuten. Die Gruppen arbeiten mit den priorisierten Leitfragen unten statt mit allen Schritten des Metadaten-Audits.
-- **Plenum:** Konzentrieren Sie die Auswertung auf zentrale Befunde. Jede Gruppe nennt eine Entscheidung und ihre Begründung.
+### 0–5 min: Einstieg und Content Note
 
-## Priorisierte Leitfragen
+- Begrüssen Sie die Teilnehmenden und nennen Sie das Ziel des Workshops.
+- Lesen Sie die [Content Note](content-note.qmd) vor.
+- Sagen Sie deutlich: Der Workshop liefert keine Liste richtiger Begriffe. Er übt Entscheidungen.
 
-Geben Sie den Gruppen diese fünf Fragen. Die Gruppen notieren die Antworten auf dem [Metadaten-Audit](../hands-on/metadaten-audit.qmd) in den Zeilen «Entscheidung» und «Dokumentation».
+### 5–15 min: Input
+
+- Zeigen Sie nur die Folien, die in der [Folienübersicht](../input/slides.qmd#sec-folienuebersicht) für 60 Minuten markiert sind. Im Video dauern sie knapp 4 Minuten. Mit Erklärungen und Rückfragen reichen 10 Minuten.
+- Halten Sie den Input kurz. Die Gruppenarbeit braucht nur die Grundbegriffe: Daten sind nicht neutral, Formen von Diskriminierung, Intersektionalität, Bias.
+
+### 15–18 min: Einführung Metadaten-Audit
+
+- Bilden Sie Gruppen mit drei bis fünf Personen (siehe [Vorbereitung](vorbereitung.qmd#gruppenbildung)).
+- Gruppen mit eigenem Beispiel wählen eines aus. Die anderen Gruppen erhalten eine Fallkarte.
+- Erklären Sie die Aufgabe: Die Gruppen beantworten die fünf priorisierten Leitfragen unten. Sie notieren die Antworten auf dem Metadaten-Audit in den Zeilen «D Entscheiden» und «E Dokumentieren».
+
+### 18–38 min: Hands-on in Gruppen
+
+Geben Sie den Gruppen diese fünf Fragen. Die Gruppen notieren die Antworten auf dem [Metadaten-Audit](../hands-on/metadaten-audit.qmd) in den Zeilen «D Entscheiden» und «E Dokumentieren».
 
 ::: {.schritte}
 
@@ -36,3 +58,23 @@ Geben Sie den Gruppen diese fünf Fragen. Die Gruppen notieren die Antworten auf
 5. Warum?
 
 :::
+
+- Geben Sie nach etwa 12 Minuten ein Zeitsignal: Die Gruppen sollten dann bei Frage 4 sein.
+- Gehen Sie von Gruppe zu Gruppe. Fragen Sie nach Auswirkungen, nicht nach dem richtigen Begriff. Die [Hinweise für Kursleitende](moderation.qmd) enthalten passende Fragen.
+- Jede Gruppe hält mindestens eine Entscheidung mit Begründung fest.
+
+### 38–50 min: Auswertung im Plenum
+
+- Jede Gruppe nennt eine Entscheidung und ihre Begründung. Sammeln Sie die Entscheidungen in den vier Spalten des Flipcharts.
+- Vergleichen Sie zwei Entscheidungen, die sich unterscheiden. Welche Gründe und Rahmenbedingungen erklären den Unterschied?
+- Bei mehr als vier Gruppen wählen Sie eine kürzere Form (siehe [Auswertung bei vielen Gruppen](moderation.qmd#sec-viele-gruppen)).
+
+### 50–57 min: Transfer
+
+- Die Teilnehmenden füllen die [Transfer-Karte](../nach-dem-kurs/transfer.qmd) einzeln aus.
+- Bitten Sie zwei Personen, eine Antwort zu teilen. Das Teilen ist freiwillig.
+
+### 57–60 min: Abschluss
+
+- Fassen Sie die Kernbotschaft zusammen: Metadaten entstehen durch Entscheidungen. Ziel ist eine reflektierte, kontextabhängige und nachvollziehbare Praxis.
+- Verweisen Sie auf das [Handbuch](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/), die [Arbeitshilfen](../arbeitshilfen/index.qmd) und diese Website.

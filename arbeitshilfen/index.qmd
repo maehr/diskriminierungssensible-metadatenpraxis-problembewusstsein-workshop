@@ -13,7 +13,7 @@ Verwenden Sie die Checklisten zur Vertiefung: im 90-Minuten-Format während der 
 
 **Wofür:** Sie prüfen Metadaten, die andere erstellt haben, bevor Sie sie übernehmen oder weiterverwenden.
 
-**Im Audit:** Schritt B (Hinterfragen) und die Prüfschritte «Herkunft» und «Auswahl».
+**Im Audit:** Schritt A (Sehen: Auswahl) und Schritt B (Hinterfragen: Herkunft).
 
 Handbuch: [2.1 Primärerschliessung vs. Nachnutzung](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-21-primärerschliessung-vs.-nachnutzung)
 
@@ -23,7 +23,7 @@ Handbuch: [2.1 Primärerschliessung vs. Nachnutzung](https://moritz-maehr.quarto
 
 **Wofür:** Sie übernehmen Daten oder Beschreibungen aus anderen Quellen und dokumentieren, was Sie übernommen und verändert haben.
 
-**Im Audit:** Schritt B (Hinterfragen) und der Prüfschritt «Dokumentation».
+**Im Audit:** Schritt B (Hinterfragen: Herkunft) und Schritt E (Dokumentieren).
 
 Handbuch: [Checkliste Re-Use in Abschnitt 2.1](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-21-primärerschliessung-vs.-nachnutzung)
 
@@ -33,7 +33,7 @@ Handbuch: [Checkliste Re-Use in Abschnitt 2.1](https://moritz-maehr.quarto.pub/d
 
 **Wofür:** Sie ergänzen historische, soziale und institutionelle Zusammenhänge, die zum Verständnis eines Datensatzes nötig sind.
 
-**Im Audit:** Schritt C (Kontextualisieren) und die Prüfschritte «Kontext» und «Perspektiven».
+**Im Audit:** Schritt C (Kontextualisieren: Kontext, Perspektiven).
 
 Handbuch: [2.2 Kontextualisierung der Quellen](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-22-kontextualisierung-der-quellen)
 
@@ -43,7 +43,7 @@ Handbuch: [2.2 Kontextualisierung der Quellen](https://moritz-maehr.quarto.pub/d
 
 **Wofür:** Sie formulieren Titel, Beschreibungen und Schlagwörter oder überarbeiten bestehende.
 
-**Im Audit:** Schritt D (Entscheiden) und die Prüfschritte «Sprache» und «Intersektionalität».
+**Im Audit:** Schritt A (Sehen: Sprache) und Schritt D (Entscheiden), mit den intersektionalen Querschnittsfragen.
 
 Handbuch: [3.2 Beschreibung und Verschlagwortung](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-32-beschreibung-und-verschlagwortung)
 
@@ -53,7 +53,7 @@ Handbuch: [3.2 Beschreibung und Verschlagwortung](https://moritz-maehr.quarto.pu
 
 **Wofür:** Sie entscheiden, wie Sie Inhalte veröffentlichen, die Personen oder Gruppen schaden können. Mögliche Handlungsoptionen sind: Kontext ergänzen, eine Content Note hinzufügen, die Darstellung verändern, den Zugriff differenzieren, sensible Informationen reduzieren und die Entscheidung dokumentieren.
 
-**Im Audit:** Schritt D (Entscheiden) und die Prüfschritte «Sensibilität» und «Entscheidung».
+**Im Audit:** Schritt D (Entscheiden: Sensibilität, Entscheidung).
 
 Handbuch: [5.2 Umgang mit sensiblen und diskriminierenden Inhalten](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/#sec-52-umgang-mit-sensiblen-und-diskriminierenden-inhalten)
 

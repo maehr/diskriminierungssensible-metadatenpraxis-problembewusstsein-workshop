@@ -5,13 +5,24 @@ description: Wie Sie Fehler melden, Rückmeldungen geben und neue Fallkarten vor
 
 Die OER lebt von Erfahrungen aus der Praxis. Rückmeldungen von Kursleitenden und Teilnehmenden verbessern sie.
 
-## Rückmeldung geben
+## Rückmeldung per E-Mail
 
-Melden Sie sich über die [Issues im GitHub-Repository](https://github.com/maehr/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop/issues/new/choose). Es gibt Vorlagen für:
+Der einfachste Weg: Schreiben Sie eine E-Mail an <moritz.maehr@gmail.com>. Sie brauchen dafür kein GitHub-Konto. Diese Fragen helfen bei einer Rückmeldung:
+
+- In welchem Kontext und in welchem Zeitformat haben Sie die OER verwendet?
+- Was hat funktioniert?
+- Was sollten wir verbessern?
+
+Wir behandeln Ihre E-Mail vertraulich. Wir veröffentlichen Hinweise aus E-Mails nur mit Ihrer ausdrücklichen Zustimmung. Vorher entfernen wir alle personenbezogenen und vertraulichen Angaben, auch zu Institutionen und Vorfällen, über die sich Personen erkennen lassen.
+
+## Rückmeldung über GitHub
+
+Konkrete Hinweise zu Inhalt oder Technik können Sie auch über die [Issues im GitHub-Repository](https://github.com/maehr/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop/issues/new/choose). Es gibt Vorlagen für:
 
 - **Feedback zum Workshop:** Was hat in Ihrer Durchführung funktioniert, was nicht?
 - **Fehler im Material:** ein Tippfehler, ein falscher Link oder eine sachlich falsche Angabe;
-- **Fallkarte vorschlagen:** ein neues Beispiel aus Ihrer Sparte.
+- **Fallkarte vorschlagen:** ein neues Beispiel aus Ihrer Sparte;
+- **Erprobungsbericht:** Erfahrungen aus einer Durchführung, besonders ohne Beteiligung der Autor:innen.
 
 Jede Seite dieser Website hat zudem rechts die Links «Seite bearbeiten» und «Problem melden».
 
