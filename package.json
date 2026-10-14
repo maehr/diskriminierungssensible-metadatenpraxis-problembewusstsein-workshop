@@ -26,7 +26,7 @@
   "devDependencies": {
     "@j178/prek": "0.5.5",
     "git-cliff": "2.14.2",
-    "prettier": "3.9.9"
+    "prettier": "3.9.10"
   },
   "engines": {
     "node": ">=24"
