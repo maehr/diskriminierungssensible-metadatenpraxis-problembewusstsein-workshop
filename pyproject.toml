@@ -10,9 +10,9 @@ dependencies = []
 
 [dependency-groups]
 dev = [
-    "commitizen==4.19.1",
-    "ruff==0.16.10",
-    "ty==0.0.84",
+    "commitizen==4.19.2",
+    "ruff==0.17.0",
+    "ty==0.0.86",
 ]
 
 [tool.uv]
